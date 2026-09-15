@@ -1,13 +1,32 @@
+/* Custom Wiki Styling */
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    background-color: #161618 !important;
+    color: #e0e0e0 !important;
+    font-family: 'Segoe UI', system-ui, sans-serif !important;
+}
+
+/* Header Colors */
+h1, h2, h3 {
+    color: #f5c518 !important; /* Gold headings */
+    border-bottom: 1px solid #333 !important;
+    padding-bottom: 4px !important;
+}
+
+/* Hyperlink Styling */
+a, a.internal-link {
+    color: #e59866 !important; /* Gold/Orange Wiki Links */
+    text-decoration: none !important;
+    font-weight: 600 !important;
+}
+
+a:hover {
+    color: #f0b27a !important;
+    text-decoration: underline !important;
+}
+
+/* Blockquote & Callouts */
+blockquote {
+    background-color: #222225 !important;
+    border-left: 4px solid #f5c518 !important;
+    color: #ccc !important;
 }
