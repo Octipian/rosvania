@@ -28,11 +28,11 @@ Thus was formed the first harmony: a kingdom of light and silence.
 
 ## The Firstborn Wardens
 
-To tend His creation, the Father drew from His own essence **eight divine spirits** — the [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] — granting each dominion over a part of the world: [[rosvania/Wiki/Solareth\|Solareth]], [[rosvania/Wiki/Namarielle\|Namarielle]], [[rosvania/Wiki/Korran-Dur\|Korran-Dur]], [[rosvania/Wiki/Vael'Thara\|Vael'Thara]], [[rosvania/Wiki/Erynos\|Erynos]], [[rosvania/Wiki/Serathis\|Serathis]], [[rosvania/Wiki/Athera\|Athera]], and [[Vharuk\|Vharuk]].
+To tend His creation, the Father drew from His own essence **eight divine spirits** — the [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] — granting each dominion over a part of the world: [[rosvania/Wiki/Solareth\|Solareth]], [[rosvania/Wiki/Namarielle\|Namarielle]], [[rosvania/Wiki/Korran-Dur\|Korran-Dur]], [[rosvania/Wiki/Vael'Thara\|Vael'Thara]], [[rosvania/Wiki/Erynos\|Erynos]], [[rosvania/Wiki/Serathis\|Serathis]], [[rosvania/Wiki/Athera\|Athera]], and [[rosvania/Wiki/Vharuk\|Vharuk]].
 
 ## The Withdrawal
 
-When [[Vharuk\|Vharuk]] fell to pride and launched the [[rosvania/Wiki/War of Life\|War of Life]], the Unseen Father — stricken with grief — withdrew His presence from the world, decreeing that His children must defend what He had given them.
+When [[rosvania/Wiki/Vharuk\|Vharuk]] fell to pride and launched the [[rosvania/Wiki/War of Life\|War of Life]], the Unseen Father — stricken with grief — withdrew His presence from the world, decreeing that His children must defend what He had given them.
 
 ## Legacy
 

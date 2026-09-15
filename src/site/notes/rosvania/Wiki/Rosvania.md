@@ -10,7 +10,7 @@
 > **Celestial bodies** — The sun and stars, set in motion by the Second Decree
 > **Elder races** — [[rosvania/Wiki/Elves\|Elves]], [[rosvania/Wiki/Dwarves\|Dwarves]], [[rosvania/Wiki/Men\|Men]]
 > **Current age** — [[rosvania/Wiki/Third Age\|Third Age]] (Year 3 TA)
-> **Threat** — [[Vharuk\|Vharuk's]] awakening in the [[rosvania/Wiki/Doomlands\|Doomlands]]
+> **Threat** — [[rosvania/Wiki/Vharuk\|Vharuk's]] awakening in the [[rosvania/Wiki/Doomlands\|Doomlands]]
 
 > *"Thus was formed Rosvania, the Father's perfect kingdom, a harmony of life and silence."*
 
@@ -24,10 +24,10 @@ To tend His creation, the Father forged from His own essence the eight [[rosvani
 
 ## Geography
 
-- The **frozen north**: the [[rosvania/Wiki/Doomlands\|Doomlands]], prison of [[Vharuk\|Vharuk]], whence creeps the Breath of Vharuk — an unending blizzard that devours light and life.
+- The **frozen north**: the [[rosvania/Wiki/Doomlands\|Doomlands]], prison of [[rosvania/Wiki/Vharuk\|Vharuk]], whence creeps the Breath of Vharuk — an unending blizzard that devours light and life.
 - The **north-central mountains**: [[rosvania/Wiki/Durakheim\|Durakheim]], the sealed halls of the [[rosvania/Wiki/Dwarves\|Dwarves]].
 - The **northwest**: [[rosvania/Wiki/Etharion\|Etharion]], the deep forests of the [[rosvania/Wiki/Elves\|Elves]], home of the Eldertree.
-- The **center**: the [[rosvania/Wiki/Aurelian Dominion\|Aurelian Dominion]], golden empire of Men, ruled from [[rosvania/Wiki/Velmoria\|Velmoria]] by [[Emperor Taryon V\|Emperor Taryon V]].
+- The **center**: the [[rosvania/Wiki/Aurelian Dominion\|Aurelian Dominion]], golden empire of Men, ruled from [[rosvania/Wiki/Velmoria\|Velmoria]] by [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]].
 - The **southwest**: [[rosvania/Wiki/Tuzland and the Whispering Sands\|Tuzland and the Whispering Sands]], the shattered remnants of old empires, ruled by the [[rosvania/Wiki/Tuzlean Corsairs\|Tuzlean Corsairs]] and home to the [[rosvania/Wiki/Hold of Five Trials\|Hold of Five Trials]].
 - The **east**: the [[rosvania/Wiki/Silver Marches\|Silver Marches]] and [[rosvania/Wiki/Vael'nore\|Vael'nore]], lands of the [[rosvania/Wiki/Silver Accord\|Silver Accord]], bright with trade — and the black plains of [[rosvania/Wiki/Gorthul-Maar\|Gorthul-Maar]], homeland of the [[rosvania/Wiki/Orcs\|Orcs]].
 - The **south**: the burning woods of the [[rosvania/Wiki/Emberwastes\|Emberwastes]], where [[rosvania/Wiki/Goblins\|Goblin]] [[rosvania/Wiki/Goblin Syndicates\|Syndicates]] hold sway.
@@ -35,14 +35,14 @@ To tend His creation, the Father forged from His own essence the eight [[rosvani
 
 ## History in brief
 
-- **[[rosvania/Wiki/Age Before Ages\|Before ages]]** — the world is forged; [[Vharuk\|Vharuk]] falls to pride, forges the [[rosvania/Wiki/Orcs\|Orcs]] and [[rosvania/Wiki/Goblins\|Goblins]], and betrays creation in the [[rosvania/Wiki/War of Life\|War of Life]].
+- **[[rosvania/Wiki/Age Before Ages\|Before ages]]** — the world is forged; [[rosvania/Wiki/Vharuk\|Vharuk]] falls to pride, forges the [[rosvania/Wiki/Orcs\|Orcs]] and [[rosvania/Wiki/Goblins\|Goblins]], and betrays creation in the [[rosvania/Wiki/War of Life\|War of Life]].
 - **[[rosvania/Wiki/First Age\|First Age]] (0–982 FA)** — the Age of Gods and Empires: the [[rosvania/Wiki/Alliance of Life\|Alliance of Life]] triumphs, empires rise in pride, and [[rosvania/Wiki/Erynos\|Erynos]] drowns the greedy powers in the [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]].
 - **[[rosvania/Wiki/Second Age\|Second Age]] (0–1501 SA)** — the Age of Mortals: ash, rebuilding, the [[War of Bloodlines\|Tuzlean Civil War]], the quiet reign of the [[rosvania/Wiki/Aurelian Dominion\|Aurelian Dominion]], and the long, false peace of the Still Years.
 - **[[rosvania/Wiki/Third Age\|Third Age]] (1 TA– )** — the Age of Shadow and Return: the Seal of the [[rosvania/Wiki/Doomlands\|Doomlands]] cracks, and a new war of life and silence begins.
 
 ## The present state (Year 3 TA)
 
-With the breaking of the First Seal, the Still Years ended. The [[rosvania/Wiki/Frost-Reavers\|Frost-Reavers]] sail black ships upon storm-torn seas; the [[rosvania/Wiki/The Unmade\|The Unmade]] wait beneath an aurora-less sky; the [[rosvania/Wiki/Necrotic King\|Necrotic King]] stirs in the [[rosvania/Wiki/Swamp of Sh'rek\|Swamp of Sh'rek]]; and a hidden hand — the Hidden Witness, [[Vorun Khar\|Vorun Khar]] — bends the courts of Men toward blindness. Against this rising dark, the [[rosvania/Wiki/Protectors of the Realm\|Protectors of the Realm]] test the new heroes of the age: the Chosen Party of [[rosvania/Wiki/Floris Flex\|Floris Flex]], [[rosvania/Wiki/Gerard\|Gerard]], [[rosvania/Wiki/Kazzimir\|Kazzimir]] and [[rosvania/Wiki/Levren\|Levren]].
+With the breaking of the First Seal, the Still Years ended. The [[rosvania/Wiki/Frost-Reavers\|Frost-Reavers]] sail black ships upon storm-torn seas; the [[rosvania/Wiki/The Unmade\|The Unmade]] wait beneath an aurora-less sky; the [[rosvania/Wiki/Necrotic King\|Necrotic King]] stirs in the [[rosvania/Wiki/Swamp of Sh'rek\|Swamp of Sh'rek]]; and a hidden hand — the Hidden Witness, [[rosvania/Wiki/Vorun Khar\|Vorun Khar]] — bends the courts of Men toward blindness. Against this rising dark, the [[rosvania/Wiki/Protectors of the Realm\|Protectors of the Realm]] test the new heroes of the age: the Chosen Party of [[rosvania/Wiki/Floris Flex\|Floris Flex]], [[rosvania/Wiki/Gerard\|Gerard]], [[rosvania/Wiki/Kazzimir\|Kazzimir]] and [[rosvania/Wiki/Levren\|Levren]].
 
 ## See also
 

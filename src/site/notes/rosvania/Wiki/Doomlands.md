@@ -7,14 +7,14 @@
 > # Doomlands
 > **Type** — Region (frozen wasteland)
 > **Location** — The far north of [[rosvania/Wiki/Rosvania\|Rosvania]]
-> **Prisoner** — [[Vharuk\|Vharuk]], sealed beneath the ice
+> **Prisoner** — [[rosvania/Wiki/Vharuk\|Vharuk]], sealed beneath the ice
 > **Sealed by** — [[rosvania/Wiki/Athera\|Athera]] and [[rosvania/Wiki/Namarielle\|Namarielle]]
 > **Plague** — The Breath of Vharuk (unending blizzard)
 > **Current state** — First Seal broken ([[rosvania/Wiki/Third Age\|Third Age]])
 
 > *"A prison of eternal ice and silence."*
 
-The **Doomlands** are the frozen desolation of the far north — the prison of [[Vharuk\|Vharuk]] the Stillborn Flame, sealed beneath eternal ice and night by [[rosvania/Wiki/Athera\|Athera]] and [[rosvania/Wiki/Namarielle\|Namarielle]] at the end of the [[rosvania/Wiki/War of Life\|War of Life]].
+The **Doomlands** are the frozen desolation of the far north — the prison of [[rosvania/Wiki/Vharuk\|Vharuk]] the Stillborn Flame, sealed beneath eternal ice and night by [[rosvania/Wiki/Athera\|Athera]] and [[rosvania/Wiki/Namarielle\|Namarielle]] at the end of the [[rosvania/Wiki/War of Life\|War of Life]].
 
 ## The prison
 
@@ -35,7 +35,7 @@ In the Cracking Age of the [[rosvania/Wiki/Second Age\|Second Age]], the seals b
 
 ## See also
 
-- [[Vharuk\|Vharuk]] · [[rosvania/Wiki/Black Spire of Mourning\|Black Spire of Mourning]] · [[rosvania/Wiki/Frost-Reavers\|Frost-Reavers]] · [[rosvania/Wiki/The Unmade\|The Unmade]] · [[rosvania/Wiki/Third Age\|Third Age]]
+- [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Black Spire of Mourning\|Black Spire of Mourning]] · [[rosvania/Wiki/Frost-Reavers\|Frost-Reavers]] · [[rosvania/Wiki/The Unmade\|The Unmade]] · [[rosvania/Wiki/Third Age\|Third Age]]
 
 ## Sources
 

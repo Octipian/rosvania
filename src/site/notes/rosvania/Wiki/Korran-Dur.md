@@ -21,7 +21,7 @@ Korran-Dur is the mountain-heart from which the Dwarves were born by the Third D
 
 ## History
 
-- In the [[rosvania/Wiki/War of Life\|War of Life]], Korran-Dur guided the [[rosvania/Wiki/Dwarves\|Dwarves]] of [[rosvania/Wiki/Durakheim\|Durakheim]] to forge **[[rosvania/Wiki/Metals of Rosvania\|light-forged steel]]** — the only metal that could wound [[Vharuk\|Vharuk]]'s kin, the [[rosvania/Wiki/The Unmade\|The Unmade]].
+- In the [[rosvania/Wiki/War of Life\|War of Life]], Korran-Dur guided the [[rosvania/Wiki/Dwarves\|Dwarves]] of [[rosvania/Wiki/Durakheim\|Durakheim]] to forge **[[rosvania/Wiki/Metals of Rosvania\|light-forged steel]]** — the only metal that could wound [[rosvania/Wiki/Vharuk\|Vharuk]]'s kin, the [[rosvania/Wiki/The Unmade\|The Unmade]].
 - The Dwarves of the war were the Alliance's great armorers, arming the hosts of [[rosvania/Wiki/Solareth\|Solareth]].
 - After the war he withdrew; his children sealed the gates of [[rosvania/Wiki/Durakheim\|Durakheim]] in later ages and toiled on without him.
 

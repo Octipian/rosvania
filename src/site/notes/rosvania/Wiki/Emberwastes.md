@@ -17,7 +17,7 @@ The **Emberwastes** are the burning southern woods of [[rosvania/Wiki/Rosvania\|
 
 ## History
 
-- The Goblins were forged by [[Vharuk\|Vharuk]] from the crawling things of the deep earth; after his fall, they infested the Emberwastes, preying on the weak.
+- The Goblins were forged by [[rosvania/Wiki/Vharuk\|Vharuk]] from the crawling things of the deep earth; after his fall, they infested the Emberwastes, preying on the weak.
 - For centuries they held the south — until the [[Solar Empire of Menor\|Solar Empire of Menor]] drove their tribes from their ancestral home during the expansion wars of the [[rosvania/Wiki/First Age\|First Age]].
 - The expulsion forced the Goblins into the forests of [[rosvania/Wiki/Vael'nore\|Vael'nore]], where they abandoned open warfare for slavery — the birth of the Syndicates.
 

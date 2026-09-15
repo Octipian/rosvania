@@ -8,7 +8,7 @@
 > **Type** — Era (pre-history)
 > **Period** — Before time was counted
 > **Followed by** — The [[rosvania/Wiki/First Age\|First Age]] (0 FA)
-> **Key events** — The Three Decrees → the forging of the [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] → the fall of [[Vharuk\|Vharuk]] → the [[rosvania/Wiki/War of Life\|War of Life]]
+> **Key events** — The Three Decrees → the forging of the [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] → the fall of [[rosvania/Wiki/Vharuk\|Vharuk]] → the [[rosvania/Wiki/War of Life\|War of Life]]
 
 > *"Before time was counted, before the first dawn rose, there was only the Unseen Father."*
 
@@ -20,7 +20,7 @@ The [[rosvania/Wiki/Unseen Father\|Unseen Father]], nameless and eternal, desire
 
 ## The Wardens and the Fall
 
-To tend His creation, the Father drew from His essence the eight [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]]. All was balance — until [[Vharuk\|Vharuk]], Warden of Silence, beheld mortal clamor and despised its noise. In secret he forged the [[rosvania/Wiki/Orcs\|Orcs]] and [[rosvania/Wiki/Goblins\|Goblins]], corrupted [[rosvania/Wiki/Namarielle\|Namarielle]]'s essence into the [[rosvania/Wiki/The Unmade\|The Unmade]], and proclaimed the [[rosvania/Wiki/Doctrine of Desolation\|Doctrine of Desolation]].
+To tend His creation, the Father drew from His essence the eight [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]]. All was balance — until [[rosvania/Wiki/Vharuk\|Vharuk]], Warden of Silence, beheld mortal clamor and despised its noise. In secret he forged the [[rosvania/Wiki/Orcs\|Orcs]] and [[rosvania/Wiki/Goblins\|Goblins]], corrupted [[rosvania/Wiki/Namarielle\|Namarielle]]'s essence into the [[rosvania/Wiki/The Unmade\|The Unmade]], and proclaimed the [[rosvania/Wiki/Doctrine of Desolation\|Doctrine of Desolation]].
 
 ## The War of Life
 

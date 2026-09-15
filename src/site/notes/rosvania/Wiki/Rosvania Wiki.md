@@ -8,12 +8,12 @@
 > *"Thus was formed Rosvania, the Father's perfect kingdom, a harmony of life and silence."*
 > — The King's Decree, from the [lore of Rosvania](/img/user/rosvania/Rosvania%20lore.pdf)
 
-Welcome to the **Rosvania Wiki**, an encyclopedia of the world of Rosvania — its gods, its ages, its wars and its peoples; a world forged by the [[rosvania/Wiki/Unseen Father\|Unseen Father]] and shaped by the fall of [[Vharuk\|Vharuk]].
+Welcome to the **Rosvania Wiki**, an encyclopedia of the world of Rosvania — its gods, its ages, its wars and its peoples; a world forged by the [[rosvania/Wiki/Unseen Father\|Unseen Father]] and shaped by the fall of [[rosvania/Wiki/Vharuk\|Vharuk]].
 
 The world stands in the **[[rosvania/Wiki/Third Age\|Third Age]]**, the Age of Shadow and Return. The seals of the [[rosvania/Wiki/Doomlands\|Doomlands]] falter, the [[rosvania/Wiki/Doomlands\|northern blizzard]] creeps southward, and a new generation of heroes — the Chosen Party of [[rosvania/Wiki/Floris Flex\|Floris Flex]], [[rosvania/Wiki/Gerard\|Gerard]], [[rosvania/Wiki/Kazzimir\|Kazzimir]] and [[rosvania/Wiki/Levren\|Levren]] — gathers to face the coming [[rosvania/Wiki/Doctrine of Desolation\|Desolation]].
 
 > [!featured] Featured article — The War of Life
-> When [[Vharuk\|Vharuk]], the Warden of Silence, declared that *"to cleanse is to save,"* the heavens burned. Read how the [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] and the mortal races fought the first great war of creation in [[rosvania/Wiki/War of Life\|War of Life]].
+> When [[rosvania/Wiki/Vharuk\|Vharuk]], the Warden of Silence, declared that *"to cleanse is to save,"* the heavens burned. Read how the [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] and the mortal races fought the first great war of creation in [[rosvania/Wiki/War of Life\|War of Life]].
 
 ---
 
@@ -34,7 +34,7 @@ The world stands in the **[[rosvania/Wiki/Third Age\|Third Age]]**, the Age of S
 | [[rosvania/Wiki/Erynos\|Erynos]] | The Tidebreaker, Lord of the Seas |
 | [[rosvania/Wiki/Serathis\|Serathis]] | The Shadowbinder, Keeper of Secrets |
 | [[rosvania/Wiki/Athera\|Athera]] | The Fateweaver, Oracle of the Divine Pattern |
-| [[Vharuk\|Vharuk]] | The Stillborn Flame, Warden of Silence — *the Fallen* |
+| [[rosvania/Wiki/Vharuk\|Vharuk]] | The Stillborn Flame, Warden of Silence — *the Fallen* |
 
 ## Geography
 
@@ -62,8 +62,8 @@ The world stands in the **[[rosvania/Wiki/Third Age\|Third Age]]**, the Age of S
 
 ## Characters
 
-- **Villains & dark powers:** [[Vorun Khar\|Vorun Khar]] · [[rosvania/Wiki/Necrotic King\|Necrotic King]] · [[rosvania/Wiki/Khar'doth the Uniter\|Khar'doth the Uniter]] · [[rosvania/Wiki/Warlord Gorgath\|Warlord Gorgath]] · [[Queen Vael'Nir\|Queen Vael'Nir]] · [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] · [[rosvania/Wiki/Captain Serak\|Captain Serak]]
-- **Heroes & sages:** [[rosvania/Wiki/Golgoth\|Golgoth]] · [[Emperor Taryon V\|Emperor Taryon V]] · [[rosvania/Wiki/Salazar\|Salazar]] · [[rosvania/Wiki/Josephine Kane\|Josephine Kane]]
+- **Villains & dark powers:** [[rosvania/Wiki/Vorun Khar\|Vorun Khar]] · [[rosvania/Wiki/Necrotic King\|Necrotic King]] · [[rosvania/Wiki/Khar'doth the Uniter\|Khar'doth the Uniter]] · [[rosvania/Wiki/Warlord Gorgath\|Warlord Gorgath]] · [[Queen Vael'Nir\|Queen Vael'Nir]] · [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] · [[rosvania/Wiki/Captain Serak\|Captain Serak]]
+- **Heroes & sages:** [[rosvania/Wiki/Golgoth\|Golgoth]] · [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]] · [[rosvania/Wiki/Salazar\|Salazar]] · [[rosvania/Wiki/Josephine Kane\|Josephine Kane]]
 - **The Chosen Party:** [[rosvania/Wiki/Floris Flex\|Floris Flex]] · [[rosvania/Wiki/Gerard\|Gerard]] · [[rosvania/Wiki/Kazzimir\|Kazzimir]] · [[rosvania/Wiki/Levren\|Levren]]
 
 ## Artifacts & Arcana
@@ -79,7 +79,7 @@ The world stands in the **[[rosvania/Wiki/Third Age\|Third Age]]**, the Age of S
 
 ## Did you know?
 
-- The [[rosvania/Wiki/Orcs\|Orcs]] were not born of the [[rosvania/Wiki/Unseen Father\|Father's]] design — they were [[Vharuk\|forged]] from wolves and serpents in secret.
+- The [[rosvania/Wiki/Orcs\|Orcs]] were not born of the [[rosvania/Wiki/Unseen Father\|Father's]] design — they were [[rosvania/Wiki/Vharuk\|forged]] from wolves and serpents in secret.
 - [[Solar Empire of Menor\|Menor]]'s capital was drowned not once, but twice, by the wrath of [[rosvania/Wiki/Erynos\|Erynos]].
 - The [[rosvania/Wiki/Good ol' Jacky\|Good ol' Jacky]], a cursed brigantine, has been *unable to sink* — even under attack from a god-touched leviathan caller.
 - [[rosvania/Wiki/Levren\|Levren]] once drew a card from the [[rosvania/Wiki/Deck of Some Things\|Deck of Some Things]] that summoned a vengeful paladin sworn to hunt him.

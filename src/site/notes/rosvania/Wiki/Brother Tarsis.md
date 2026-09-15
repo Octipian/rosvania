@@ -14,7 +14,7 @@
 
 > *"Brother Tarsis, a dwarven warrior-priest carrying a hammer forged from the Deep's Gift."*
 
-**Brother Tarsis** is a dwarven warrior-priest of the [[rosvania/Wiki/Protectors of the Realm\|Protectors of the Realm]], whose hammer is forged from the **[[rosvania/Wiki/Metals of Rosvania\|Deep's Gift]]** — the strange, living metal of [[rosvania/Wiki/Durakheim\|Durakheim]] said to resist the chill of [[Vharuk\|Vharuk]]'s Breath.
+**Brother Tarsis** is a dwarven warrior-priest of the [[rosvania/Wiki/Protectors of the Realm\|Protectors of the Realm]], whose hammer is forged from the **[[rosvania/Wiki/Metals of Rosvania\|Deep's Gift]]** — the strange, living metal of [[rosvania/Wiki/Durakheim\|Durakheim]] said to resist the chill of [[rosvania/Wiki/Vharuk\|Vharuk]]'s Breath.
 
 ## Role in the trials
 

@@ -7,13 +7,13 @@
 > # Black Spire of Mourning
 > **Type** — Fortress (ruin)
 > **Location** — The far north of [[rosvania/Wiki/Rosvania\|Rosvania]]
-> **Master** — [[Vharuk\|Vharuk]] (formerly)
+> **Master** — [[rosvania/Wiki/Vharuk\|Vharuk]] (formerly)
 > **Event** — The final battle of the [[rosvania/Wiki/War of Life\|War of Life]] (Year 10 FA)
 > **Now** — A monument of victory and grief, swallowed by the [[rosvania/Wiki/Doomlands\|northern dark]]
 
 > *"The combined hosts stormed the Black Spire of Mourning in the far north."*
 
-The **Black Spire of Mourning** is the fortress of the far north where the [[rosvania/Wiki/War of Life\|War of Life]] reached its end — the stronghold of [[Vharuk\|Vharuk]] the Stillborn Flame, and the place where his body was shattered.
+The **Black Spire of Mourning** is the fortress of the far north where the [[rosvania/Wiki/War of Life\|War of Life]] reached its end — the stronghold of [[rosvania/Wiki/Vharuk\|Vharuk]] the Stillborn Flame, and the place where his body was shattered.
 
 ## The final battle
 
@@ -25,7 +25,7 @@ The Spire stands in the creeping shadow of the [[rosvania/Wiki/Doomlands\|Doomla
 
 ## See also
 
-- [[rosvania/Wiki/War of Life\|War of Life]] · [[Vharuk\|Vharuk]] · [[rosvania/Wiki/Solareth\|Solareth]] · [[rosvania/Wiki/Doomlands\|Doomlands]]
+- [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Solareth\|Solareth]] · [[rosvania/Wiki/Doomlands\|Doomlands]]
 
 ## Sources
 

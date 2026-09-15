@@ -9,7 +9,7 @@
 > **Type** — Deity ([[rosvania/Wiki/Firstborn Wardens\|Firstborn Warden]])
 > **Domain** — Destiny, prophecy, the divine pattern
 > **Affiliation** — [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]]
-> **Notable acts** — Binding [[Vharuk\|Vharuk]] beneath the [[rosvania/Wiki/Doomlands\|Doomlands]]
+> **Notable acts** — Binding [[rosvania/Wiki/Vharuk\|Vharuk]] beneath the [[rosvania/Wiki/Doomlands\|Doomlands]]
 
 > *"Who alone glimpsed the threads of destiny."*
 
@@ -17,12 +17,12 @@
 
 ## Nature
 
-Athera sees the pattern of the world entire: past, present, and the many possible futures. Her knowledge is a burden as much as a gift — she saw the fall of [[Vharuk\|Vharuk]] before it came to pass, and could not prevent it.
+Athera sees the pattern of the world entire: past, present, and the many possible futures. Her knowledge is a burden as much as a gift — she saw the fall of [[rosvania/Wiki/Vharuk\|Vharuk]] before it came to pass, and could not prevent it.
 
 ## History
 
 - In the [[rosvania/Wiki/War of Life\|War of Life]], Athera's sight guided the [[rosvania/Wiki/Alliance of Life\|Alliance of Life]] to its final victory.
-- At the war's end, it was Athera and [[rosvania/Wiki/Namarielle\|Namarielle]] who bound [[Vharuk\|Vharuk]]'s shattered soul beneath the [[rosvania/Wiki/Doomlands\|Doomlands]], sealing his prison in eternal night.
+- At the war's end, it was Athera and [[rosvania/Wiki/Namarielle\|Namarielle]] who bound [[rosvania/Wiki/Vharuk\|Vharuk]]'s shattered soul beneath the [[rosvania/Wiki/Doomlands\|Doomlands]], sealing his prison in eternal night.
 - The seals she forged held for ages — until the [[rosvania/Wiki/Second Age\|Second Age]]'s **Cracking Age**, when they began to weaken, and the [[rosvania/Wiki/Third Age\|Third Age]] dawned with the breaking of the First Seal.
 
 ## Legacy

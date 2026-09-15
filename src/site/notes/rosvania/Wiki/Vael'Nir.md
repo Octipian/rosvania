@@ -1,0 +1,38 @@
+---
+{"dg-publish":true,"permalink":"/rosvania/wiki/vael-nir/","title":"Queen Vael'Nir","tags":["rosvania/character","rosvania/villain","type/character"],"dg-note-properties":{"title":"Queen Vael'Nir","tags":["rosvania/character","rosvania/villain","type/character"],"type":"Character (historical)","species":"Elf","role":"Queen of Etharion","era":"First Age","fate":"Fell in revelation and remorse; the curse of the Radiant Dominion broke with her death","affiliation":"Etharion (the Radiant Dominion during the Whisperer's rule)"}}
+---
+
+
+> [!infobox]
+> # Queen Vael'Nir
+> **Type** — Character (historical)
+> **Species** — [[rosvania/Wiki/Elves\|Elf]]
+> **Title** — Queen of [[rosvania/Wiki/Etharion\|Etharion]]
+> **Era** — The [[rosvania/Wiki/First Age\|First Age]]
+> **Corruption** — The [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]]
+> **Fate** — Fell in revelation and remorse (War of the Radiant Blades)
+> **Legacy** — The Elves renounced divine worship after her fall
+
+> *"When Vael'Nir fell, struck down in revelation and remorse, the curse was broken."*
+
+**Queen Vael'Nir** was the Queen of [[rosvania/Wiki/Etharion\|Etharion]] — the Elven sovereign seduced by the greatest deceit since [[rosvania/Wiki/Vharuk\|Vharuk]], and the instrument of her people's shame.
+
+## The seduction
+
+Deep beneath the roots of Etharion, a whisper stirred — a fragment of [[rosvania/Wiki/Vharuk\|Vharuk]]'s will calling itself the **Whisperer Beneath the Roots**. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Solareth\|Solareth]]'s glory, it seduced Vael'Nir. Under its spell, Etharion became *Elarith, the Radiant Dominion*, and the Elves marched in holy fire against Men.
+
+## The fall
+
+The more the Elves beheld their own cruelty in the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]], the weaker the corruption became — until it was burned away in the fires of grief. In that consuming revelation, Vael'Nir fell, struck down in remorse. With her death, the curse broke and the Whisperer was consumed by its own deceit.
+
+## Legacy
+
+She is remembered with sorrow, not hatred: the proof that even queens can be unmade by false light — and that truth can survive the ruin of those who were deceived. Her memory is why the Elves renounced divine worship, and why the [[rosvania/Wiki/High Synod\|High Synod]] keeps its twilight counsel.
+
+## See also
+
+- [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] · [[rosvania/Wiki/Etharion\|Etharion]] · [[rosvania/Wiki/Elves\|Elves]]
+
+## Sources
+
+> **Primary source:** [Rosvania lore.pdf](/img/user/rosvania/Rosvania%20lore.pdf) — *The lore of Rosvania*.

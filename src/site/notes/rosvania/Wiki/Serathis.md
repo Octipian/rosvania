@@ -13,7 +13,7 @@
 
 > *"Veiling what must remain unseen."*
 
-**Serathis** is the **Shadowbinder**, Keeper of Secrets — the Warden who veils what must remain unseen. Unlike [[Vharuk\|Vharuk]]'s hollow stillness, Serathis's shadow is protective: the dark behind which truth may rest unmolested.
+**Serathis** is the **Shadowbinder**, Keeper of Secrets — the Warden who veils what must remain unseen. Unlike [[rosvania/Wiki/Vharuk\|Vharuk]]'s hollow stillness, Serathis's shadow is protective: the dark behind which truth may rest unmolested.
 
 ## Nature
 
@@ -26,12 +26,12 @@ Serathis is the hush between words, the locked door, the secret kept. The Shadow
 
 ## Relations
 
-- **[[Vharuk\|Vharuk]]:** Serathis is his opposite — shadow that shields versus silence that empties. Some theologians hold that the Shadowbinder was the only Warden who understood the Stillborn Flame's loneliness, and the one most grieved by his fall.
+- **[[rosvania/Wiki/Vharuk\|Vharuk]]:** Serathis is his opposite — shadow that shields versus silence that empties. Some theologians hold that the Shadowbinder was the only Warden who understood the Stillborn Flame's loneliness, and the one most grieved by his fall.
 - The [[rosvania/Wiki/Cursed Map\|Cursed Map]]'s living ink — "a black magic rarely seen since the First Age" — is whispered by some to bear the Shadowbinder's mark, veiling its true purpose.
 
 ## See also
 
-- [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] · [[Vharuk\|Vharuk]] · [[rosvania/Wiki/Cursed Map\|Cursed Map]]
+- [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Cursed Map\|Cursed Map]]
 
 ## Sources
 

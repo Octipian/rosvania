@@ -9,12 +9,12 @@
 > **Type** — Deity ([[rosvania/Wiki/Firstborn Wardens\|Firstborn Warden]])
 > **Domain** — Sun, valor, dawn
 > **Affiliation** — [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]], [[rosvania/Wiki/Alliance of Life\|Alliance of Life]]
-> **Enemies** — [[Vharuk\|Vharuk]], the [[rosvania/Wiki/The Unmade\|The Unmade]], the [[rosvania/Wiki/Frost-Reavers\|Frost-Reavers]]
-> **Notable acts** — Slaying [[Vharuk\|Vharuk]]'s body at the [[rosvania/Wiki/Black Spire of Mourning\|Black Spire of Mourning]]
+> **Enemies** — [[rosvania/Wiki/Vharuk\|Vharuk]], the [[rosvania/Wiki/The Unmade\|The Unmade]], the [[rosvania/Wiki/Frost-Reavers\|Frost-Reavers]]
+> **Notable acts** — Slaying [[rosvania/Wiki/Vharuk\|Vharuk]]'s body at the [[rosvania/Wiki/Black Spire of Mourning\|Black Spire of Mourning]]
 
 > *"Whose light banished shadow."*
 
-**Solareth** is the Warden of the Sun — the radiant spirit of valor and dawn, and the greatest champion of the loyal [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]]. His light was the first defense against the shadow of [[Vharuk\|Vharuk]].
+**Solareth** is the Warden of the Sun — the radiant spirit of valor and dawn, and the greatest champion of the loyal [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]]. His light was the first defense against the shadow of [[rosvania/Wiki/Vharuk\|Vharuk]].
 
 ## Nature
 
@@ -23,7 +23,7 @@ Solareth embodies the sun itself: warmth, courage, and the promise of morning. H
 ## History
 
 - **The [[rosvania/Wiki/War of Life\|War of Life]]:** Solareth gathered the banners of the living and formed the [[rosvania/Wiki/Alliance of Life\|Alliance of Life]] — [[rosvania/Wiki/Elves\|Elves]] guided by the song of [[rosvania/Wiki/Vael'Thara\|Vael'Thara]], [[rosvania/Wiki/Dwarves\|Dwarves]] armed with [[rosvania/Wiki/Metals of Rosvania\|light-forged steel]], and [[rosvania/Wiki/Men\|Men]] with their champions, the Demigods of the Hammered Sun, led by Tuzlak the Great King and the mighty Big G.
-- In the year 10 FA, Solareth led the combined hosts to the [[rosvania/Wiki/Black Spire of Mourning\|Black Spire of Mourning]] in the far north and struck the final blow against [[Vharuk\|Vharuk]] — shattering the fallen god's body. His soul could not be slain, and was bound beneath the [[rosvania/Wiki/Doomlands\|Doomlands]] by [[rosvania/Wiki/Athera\|Athera]] and [[rosvania/Wiki/Namarielle\|Namarielle]].
+- In the year 10 FA, Solareth led the combined hosts to the [[rosvania/Wiki/Black Spire of Mourning\|Black Spire of Mourning]] in the far north and struck the final blow against [[rosvania/Wiki/Vharuk\|Vharuk]] — shattering the fallen god's body. His soul could not be slain, and was bound beneath the [[rosvania/Wiki/Doomlands\|Doomlands]] by [[rosvania/Wiki/Athera\|Athera]] and [[rosvania/Wiki/Namarielle\|Namarielle]].
 - After the war, Solareth withdrew with the other Wardens. The world has not seen his light made flesh since.
 
 ## Legacy

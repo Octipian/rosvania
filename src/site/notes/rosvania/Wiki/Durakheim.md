@@ -18,7 +18,7 @@
 
 ## History
 
-- In the [[rosvania/Wiki/War of Life\|War of Life]], the dwarves of Durakheim forged **[[rosvania/Wiki/Metals of Rosvania\|light-forged steel]]** — the only metal that could wound [[Vharuk\|Vharuk]]'s kin, the [[rosvania/Wiki/The Unmade\|The Unmade]].
+- In the [[rosvania/Wiki/War of Life\|War of Life]], the dwarves of Durakheim forged **[[rosvania/Wiki/Metals of Rosvania\|light-forged steel]]** — the only metal that could wound [[rosvania/Wiki/Vharuk\|Vharuk]]'s kin, the [[rosvania/Wiki/The Unmade\|The Unmade]].
 - Through the ages the realm endured, its forges never silent.
 - In the [[rosvania/Wiki/Third Age\|Third Age]], the gates of Durakheim are **sealed**. No traveler enters, no envoy departs. From within comes the ceaseless thunder of the forges.
 

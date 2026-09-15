@@ -22,7 +22,7 @@ The Dwarves are the smiths and wardens of the deep places: enduring, craft-proud
 
 ## History
 
-- **[[rosvania/Wiki/War of Life\|War of Life]]:** guided by Korran-Dur, the Dwarves of [[rosvania/Wiki/Durakheim\|Durakheim]] forged **light-forged steel** — the only metal that could wound [[Vharuk\|Vharuk]]'s kin, the [[rosvania/Wiki/The Unmade\|The Unmade]]. They armed the [[rosvania/Wiki/Alliance of Life\|Alliance of Life]] itself.
+- **[[rosvania/Wiki/War of Life\|War of Life]]:** guided by Korran-Dur, the Dwarves of [[rosvania/Wiki/Durakheim\|Durakheim]] forged **light-forged steel** — the only metal that could wound [[rosvania/Wiki/Vharuk\|Vharuk]]'s kin, the [[rosvania/Wiki/The Unmade\|The Unmade]]. They armed the [[rosvania/Wiki/Alliance of Life\|Alliance of Life]] itself.
 - **Ages of isolation:** through the ages, Durakheim endured behind its gates, its forges never silent.
 
 ## The Third Age

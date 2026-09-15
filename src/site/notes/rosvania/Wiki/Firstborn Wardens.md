@@ -8,7 +8,7 @@
 > **Type** — Divine spirits (gods)
 > **Creator** — The [[rosvania/Wiki/Unseen Father\|Unseen Father]]
 > **Loyal** — [[rosvania/Wiki/Solareth\|Solareth]], [[rosvania/Wiki/Namarielle\|Namarielle]], [[rosvania/Wiki/Korran-Dur\|Korran-Dur]], [[rosvania/Wiki/Vael'Thara\|Vael'Thara]], [[rosvania/Wiki/Erynos\|Erynos]], [[rosvania/Wiki/Serathis\|Serathis]], [[rosvania/Wiki/Athera\|Athera]]
-> **Fallen** — [[Vharuk\|Vharuk]], the Stillborn Flame
+> **Fallen** — [[rosvania/Wiki/Vharuk\|Vharuk]], the Stillborn Flame
 > **Role** — Guiding and tending creation
 > **First war** — [[rosvania/Wiki/War of Life\|War of Life]]
 
@@ -23,13 +23,13 @@ Seven remained loyal; one fell.
 | Warden | Dominion | Fate |
 | --- | --- | --- |
 | [[rosvania/Wiki/Solareth\|Solareth]] | Sun's Flame, Valor and Dawn | Loyal |
-| [[rosvania/Wiki/Namarielle\|Namarielle]] | Lifebringer, Mother of Renewal | Loyal — her life-essence was corrupted by [[Vharuk\|Vharuk]] |
+| [[rosvania/Wiki/Namarielle\|Namarielle]] | Lifebringer, Mother of Renewal | Loyal — her life-essence was corrupted by [[rosvania/Wiki/Vharuk\|Vharuk]] |
 | [[rosvania/Wiki/Korran-Dur\|Korran-Dur]] | Deep Warden, Father of Stone | Loyal |
 | [[rosvania/Wiki/Vael'Thara\|Vael'Thara]] | Star-Singer, muse of the Elves | Loyal |
 | [[rosvania/Wiki/Erynos\|Erynos]] | Tidebreaker, Lord of the Seas | Loyal |
 | [[rosvania/Wiki/Serathis\|Serathis]] | Shadowbinder, Keeper of Secrets | Loyal |
-| [[rosvania/Wiki/Athera\|Athera]] | Fateweaver, Oracle of the Divine Pattern | Loyal — co-sealed [[Vharuk\|Vharuk]] in the [[rosvania/Wiki/Doomlands\|Doomlands]] |
-| [[Vharuk\|Vharuk]] | Stillborn Flame, Silence and Rest | **Fallen** — fell to pride and was defeated in the [[rosvania/Wiki/War of Life\|War of Life]] |
+| [[rosvania/Wiki/Athera\|Athera]] | Fateweaver, Oracle of the Divine Pattern | Loyal — co-sealed [[rosvania/Wiki/Vharuk\|Vharuk]] in the [[rosvania/Wiki/Doomlands\|Doomlands]] |
+| [[rosvania/Wiki/Vharuk\|Vharuk]] | Stillborn Flame, Silence and Rest | **Fallen** — fell to pride and was defeated in the [[rosvania/Wiki/War of Life\|War of Life]] |
 
 ## Role
 
@@ -37,9 +37,9 @@ Each Warden was granted dominion over a part of the mortal world. They served as
 
 ## The Fall of Vharuk
 
-Of the eight, [[Vharuk\|Vharuk]] alone could not endure the clamor of mortal life. His pride twisted into the [[rosvania/Wiki/Doctrine of Desolation\|Doctrine of Desolation]], and he declared that *"to cleanse is to save."* He stole [[rosvania/Wiki/Namarielle\|Namarielle]]'s life-essence to birth the [[rosvania/Wiki/The Unmade\|The Unmade]], and forged the [[rosvania/Wiki/Orcs\|Orcs]] and [[rosvania/Wiki/Goblins\|Goblins]] in secret — launching the [[rosvania/Wiki/War of Life\|War of Life]].
+Of the eight, [[rosvania/Wiki/Vharuk\|Vharuk]] alone could not endure the clamor of mortal life. His pride twisted into the [[rosvania/Wiki/Doctrine of Desolation\|Doctrine of Desolation]], and he declared that *"to cleanse is to save."* He stole [[rosvania/Wiki/Namarielle\|Namarielle]]'s life-essence to birth the [[rosvania/Wiki/The Unmade\|The Unmade]], and forged the [[rosvania/Wiki/Orcs\|Orcs]] and [[rosvania/Wiki/Goblins\|Goblins]] in secret — launching the [[rosvania/Wiki/War of Life\|War of Life]].
 
-In the end, [[rosvania/Wiki/Solareth\|Solareth]] struck the final blow, and [[rosvania/Wiki/Athera\|Athera]] and [[rosvania/Wiki/Namarielle\|Namarielle]] sealed [[Vharuk\|Vharuk]]'s soul beneath the [[rosvania/Wiki/Doomlands\|Doomlands]].
+In the end, [[rosvania/Wiki/Solareth\|Solareth]] struck the final blow, and [[rosvania/Wiki/Athera\|Athera]] and [[rosvania/Wiki/Namarielle\|Namarielle]] sealed [[rosvania/Wiki/Vharuk\|Vharuk]]'s soul beneath the [[rosvania/Wiki/Doomlands\|Doomlands]].
 
 ## Legacy
 
@@ -49,7 +49,7 @@ In the end, [[rosvania/Wiki/Solareth\|Solareth]] struck the final blow, and [[ro
 
 ## See also
 
-- [[rosvania/Wiki/War of Life\|War of Life]] · [[Vharuk\|Vharuk]] · [[rosvania/Wiki/Unseen Father\|Unseen Father]]
+- [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Unseen Father\|Unseen Father]]
 
 ## Sources
 

@@ -6,10 +6,10 @@
 > [!infobox]
 > # Alliance of Life
 > **Type** — Divine-mortal alliance (historical)
-> **Purpose** — To defeat [[Vharuk\|Vharuk]] in the [[rosvania/Wiki/War of Life\|War of Life]]
+> **Purpose** — To defeat [[rosvania/Wiki/Vharuk\|Vharuk]] in the [[rosvania/Wiki/War of Life\|War of Life]]
 > **Banners** — Raised by [[rosvania/Wiki/Solareth\|Solareth]]
 > **Members** — [[rosvania/Wiki/Elves\|Elves]], [[rosvania/Wiki/Dwarves\|Dwarves]], the champions of [[rosvania/Wiki/Men\|Men]]
-> **Outcome** — Victory; the sealing of [[Vharuk\|Vharuk]]; the withdrawal of the gods
+> **Outcome** — Victory; the sealing of [[rosvania/Wiki/Vharuk\|Vharuk]]; the withdrawal of the gods
 
 > *"A union of gods and mortals under the radiant banners of Solareth and Namarielle."*
 
@@ -19,7 +19,7 @@ The **Alliance of Life** was the great union of gods and mortals forged in despe
 
 - **[[rosvania/Wiki/Solareth\|Solareth]]** raised the banners of the living; **[[rosvania/Wiki/Namarielle\|Namarielle]]** stood at the heart of its healing and renewal.
 - The **[[rosvania/Wiki/Elves\|Elves]]** of Vael'Tharion, guided by the direct voice of [[rosvania/Wiki/Vael'Thara\|Vael'Thara]], became the Alliance's spellweavers and healers.
-- The **[[rosvania/Wiki/Dwarves\|Dwarves]]** of [[rosvania/Wiki/Durakheim\|Durakheim]], under [[rosvania/Wiki/Korran-Dur\|Korran-Dur]], forged **[[rosvania/Wiki/Metals of Rosvania\|light-forged steel]]** — the only metal that could wound [[Vharuk\|Vharuk]]'s kin, the [[rosvania/Wiki/The Unmade\|The Unmade]].
+- The **[[rosvania/Wiki/Dwarves\|Dwarves]]** of [[rosvania/Wiki/Durakheim\|Durakheim]], under [[rosvania/Wiki/Korran-Dur\|Korran-Dur]], forged **[[rosvania/Wiki/Metals of Rosvania\|light-forged steel]]** — the only metal that could wound [[rosvania/Wiki/Vharuk\|Vharuk]]'s kin, the [[rosvania/Wiki/The Unmade\|The Unmade]].
 - The **[[rosvania/Wiki/Men\|Men]]** of Tuzland sent a small host, but their greatest champions — the Demigods of the Hammered Sun, children of [[rosvania/Wiki/Solareth\|Solareth]]'s blessing, led by Tuzlak the Great King and the mighty Big G — fought at the fore.
 
 ## The victory
@@ -32,7 +32,7 @@ The Alliance's work done, the Wardens withdrew and the world passed into mortal 
 
 ## See also
 
-- [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] · [[Vharuk\|Vharuk]] · [[rosvania/Wiki/Solareth\|Solareth]] · [[rosvania/Wiki/First Age\|First Age]]
+- [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Solareth\|Solareth]] · [[rosvania/Wiki/First Age\|First Age]]
 
 ## Sources
 
