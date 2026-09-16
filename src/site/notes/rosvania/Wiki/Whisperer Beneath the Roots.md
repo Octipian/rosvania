@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,18 +23,18 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Corrupting presence
 > **Nature** — A fragment of [[rosvania/Wiki/Vharuk\|Vharuk]]'s will
-> **Location** — Beneath the roots of [[rosvania/Wiki/Etharion\|Etharion]]
-> **Era** — The [[rosvania/Wiki/First Age\|First Age]]
+> **Location** — Beneath the roots of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]]
+> **Era** — The [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]]
 > **Work** — The corruption of Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]]; the Radiant Dominion
 > **Fate** — Consumed by its own deceit (c. 561 FA)
 
 > *"Cloaked in false radiance, it seduced Queen Vael'Nir of the Elves, promising the return of Solareth's glory."*
 
-The **Whisperer Beneath the Roots** was a fragment of [[rosvania/Wiki/Vharuk\|Vharuk]]'s will, hidden in the deep earth under [[rosvania/Wiki/Etharion\|Etharion]] — the author of the greatest deceit since the fall of its master.
+The **Whisperer Beneath the Roots** was a fragment of [[rosvania/Wiki/Vharuk\|Vharuk]]'s will, hidden in the deep earth under [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] — the author of the greatest deceit since the fall of its master.
 
 ## The deceit
 
-In the Age of Empire and Shadow, while the gods were silent, the Whisperer stirred beneath the roots of the Elven realm. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Solareth\|Solareth]]'s glory, it seduced Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]]. Under its spell, Etharion became the *Radiant Dominion*, and the Elves marched in holy fire against Men.
+In the Age of Empire and Shadow, while the gods were silent, the Whisperer stirred beneath the roots of the Elven realm. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]]'s glory, it seduced Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]]. Under its spell, Etharion became the *Radiant Dominion*, and the Elves marched in holy fire against Men.
 
 ## The war and the breaking
 
@@ -43,11 +43,11 @@ Through the twenty-two years of the [[rosvania/Wiki/War of the Radiant Blades\|W
 ## Legacy
 
 - The Elves renounced divine worship, shamed by their folly.
-- The Whisperer proved what the [[rosvania/Wiki/Third Age\|Third Age]] must remember: that Vharuk's will does not need his body to work ruin — fragments of him walk the world still.
+- The Whisperer proved what the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] must remember: that Vharuk's will does not need his body to work ruin — fragments of him walk the world still.
 
 ## See also
 
-- [[rosvania/Wiki/Vharuk\|Vharuk]] · [[Queen Vael'Nir\|Queen Vael'Nir]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] · [[rosvania/Wiki/Etharion\|Etharion]] · [[rosvania/Wiki/Vorun Khar\|Vorun Khar]]
+- [[rosvania/Wiki/Vharuk\|Vharuk]] · [[Queen Vael'Nir\|Queen Vael'Nir]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] · [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] · [[rosvania/Wiki/Vorun Khar\|Vorun Khar]]
 
 ## Sources
 

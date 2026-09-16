@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>

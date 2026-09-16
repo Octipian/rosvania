@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -25,7 +25,7 @@
 > **Alias** — Flex
 > **Role** — Scholar of forbidden arts
 > **Party** — The Chosen Party
-> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1]] (Year 1 [[rosvania/Wiki/Sessions & Campaign/Third Age\|TA]])
+> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1]] (Year 1 [[rosvania/Wiki/Eras & Timeline/Third Age\|TA]])
 > **Departed** — Dawn of [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2]]
 > **Status** — Gone; path unknown
 
@@ -35,19 +35,19 @@
 
 ## The party's beginning
 
-Upon the wind-swept road to [[rosvania/Wiki/Arglaxx\|Arglaxx]], Floris — scholar of forbidden arts — was drawn together with [[rosvania/Wiki/Characters/Gerard\|Gerard]] and [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]] amid a goblin ambush, and bound by [[rosvania/Wiki/Characters/Golgoth\|Golgoth]]'s quest for the lost amulet.
+Upon the wind-swept road to [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]], Floris — scholar of forbidden arts — was drawn together with [[rosvania/Wiki/Characters/Gerard\|Gerard]] and [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]] amid a goblin ambush, and bound by [[rosvania/Wiki/Characters/Golgoth\|Golgoth]]'s quest for the lost amulet.
 
 ## The Trial of Will
 
-It was Floris who discerned the deceit of the illusory Golgoth and shattered it, though not without cost. At the shrine of the Trial of Will, in desperation, he called forth an undead demon to seize control of the curse; chaos erupted. When [[rosvania/Wiki/Characters/Gerard\|Gerard]] hurled the [[rosvania/Wiki/Cursed Map\|Cursed Map]] into the rift, Floris — acting on instinct — caught it. That single act, born of pride and protection alike, satisfied the shrine's ancient trial. Yet the air grew heavy between them, as if the shrine itself had passed judgment.
+It was Floris who discerned the deceit of the illusory Golgoth and shattered it, though not without cost. At the shrine of the Trial of Will, in desperation, he called forth an undead demon to seize control of the curse; chaos erupted. When [[rosvania/Wiki/Characters/Gerard\|Gerard]] hurled the [[rosvania/Wiki/Artifacts & Items/Cursed Map\|Cursed Map]] into the rift, Floris — acting on instinct — caught it. That single act, born of pride and protection alike, satisfied the shrine's ancient trial. Yet the air grew heavy between them, as if the shrine itself had passed judgment.
 
 ## The departure
 
-At dawn, Floris Flex departed. His pride had grown heavy, and he left believing his path higher than the rest. In Year 3, the "Ballad of Flex" sung by [[rosvania/Wiki/Josephine Kane\|Josephine Kane]] suggested his name — and perhaps his shadow — still walks the world.
+At dawn, Floris Flex departed. His pride had grown heavy, and he left believing his path higher than the rest. In Year 3, the "Ballad of Flex" sung by [[rosvania/Wiki/Characters/Josephine Kane\|Josephine Kane]] suggested his name — and perhaps his shadow — still walks the world.
 
 ## See also
 
-- [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]] · [[rosvania/Wiki/Cursed Map\|Cursed Map]] · [[rosvania/Wiki/Josephine Kane\|Josephine Kane]]
+- [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]] · [[rosvania/Wiki/Artifacts & Items/Cursed Map\|Cursed Map]] · [[rosvania/Wiki/Characters/Josephine Kane\|Josephine Kane]]
 
 ## Sources
 

@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -26,8 +26,8 @@
 > **Location** — The center of [[rosvania/Wiki/Rosvania\|Rosvania]]
 > **Ruler** — [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]]
 > **Capital** — [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]]
-> **Founded** — [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]], the Forgeborn Era
-> **Current state** — Caught between two shadows ([[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]])
+> **Founded** — [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]], the Forgeborn Era
+> **Current state** — Caught between two shadows ([[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]])
 
 > *"A realm built not on faith, but on the desperate need to reclaim their homeland from the Orcs."*
 
@@ -35,7 +35,7 @@ The **Aurelian Dominion** is the golden empire of Men at the center of [[rosvani
 
 ## Founding
 
-In the ruins of Menor, scholars of the [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] rediscovered the art of refining **[[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Solarite]]**. From their work grew the Dominion — a power forged not on faith but on the desperate need to reclaim the homeland from the Orcs of [[rosvania/Wiki/Khar'doth the Uniter\|Khar'doth the Uniter]]. Its engineers raised sun-towers, its armies marched with metal forged from fallen stars, and after a long and bloody war, the Orc hordes were pushed back north into the [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]].
+In the ruins of Menor, scholars of the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] rediscovered the art of refining **[[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Solarite]]**. From their work grew the Dominion — a power forged not on faith but on the desperate need to reclaim the homeland from the Orcs of [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]]. Its engineers raised sun-towers, its armies marched with metal forged from fallen stars, and after a long and bloody war, the Orc hordes were pushed back north into the [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]].
 
 ## The Quiet Reign
 

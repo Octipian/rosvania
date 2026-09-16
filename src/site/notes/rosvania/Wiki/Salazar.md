@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,9 +23,9 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Character (NPC)
 > **Alias** — The drunken captain
-> **Species** — [[rosvania/Wiki/Men\|Human]]
+> **Species** — [[rosvania/Wiki/Races/Men\|Human]]
 > **Vessel** — The [[rosvania/Wiki/Good ol' Jacky\|Good ol' Jacky]]
-> **First seen** — [[rosvania/Wiki/Session 3 - The Trial of Combat\|Session 3]] (Year 3 [[rosvania/Wiki/Third Age\|TA]])
+> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3]] (Year 3 [[rosvania/Wiki/Eras & Timeline/Third Age\|TA]])
 > **Nature** — Sways like a mast in a storm; smells of stale rum
 > **Status** — Sprawled across the deck, bottle in hand
 
@@ -35,7 +35,7 @@
 
 ## The sale
 
-In Year 3 of the [[rosvania/Wiki/Third Age\|Third Age]], the party sought passage from the coastal port near the Trial of Will. They found Salazar, who offered them the *Good ol' Jacky* — a brigantine so battered it looked like it might sink from being stared at too hard. It was miserable. It was cheap. They bought it. They drank. Hard.
+In Year 3 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], the party sought passage from the coastal port near the Trial of Will. They found Salazar, who offered them the *Good ol' Jacky* — a brigantine so battered it looked like it might sink from being stared at too hard. It was miserable. It was cheap. They bought it. They drank. Hard.
 
 ## The battle with Serak
 
@@ -47,7 +47,7 @@ When the party returned to the docks, bruised yet triumphant, they found the Goo
 
 ## See also
 
-- [[rosvania/Wiki/Good ol' Jacky\|Good ol' Jacky]] · [[rosvania/Wiki/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]] · [[rosvania/Wiki/Captain Serak\|Captain Serak]] · [[rosvania/Wiki/Kazzimir\|Kazzimir]]
+- [[rosvania/Wiki/Good ol' Jacky\|Good ol' Jacky]] · [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]] · [[rosvania/Wiki/Captain Serak\|Captain Serak]] · [[rosvania/Wiki/Kazzimir\|Kazzimir]]
 
 ## Sources
 

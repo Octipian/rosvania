@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -22,13 +22,13 @@
 > rf-imgslot
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Mountain pass
-> **Location** — On the road toward the [[rosvania/Wiki/Swamp of Sh'rek\|Swamp of Sh'rek]]
-> **First seen** — [[rosvania/Wiki/Session 2 - The Breaking of Fellowship\|Session 2]] (Year 2 [[rosvania/Wiki/Third Age\|TA]])
+> **Location** — On the road toward the [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]]
+> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2]] (Year 2 [[rosvania/Wiki/Eras & Timeline/Third Age\|TA]])
 > **Encounters** — The goblin horde, the mountain troll, the Eldritch Tree Guardian
 
 > *"At the Ashrend Peaks, beneath a moonless sky, they encountered four goblins traveling the mountain pass."*
 
-The **Ashrend Peaks** are the mountain heights crossed by the Chosen Party in Year 2 of the [[rosvania/Wiki/Third Age\|Third Age]] — the site of one of their most desperate battles.
+The **Ashrend Peaks** are the mountain heights crossed by the Chosen Party in Year 2 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] — the site of one of their most desperate battles.
 
 ## The ambush and the vengeance
 
@@ -38,7 +38,7 @@ That night vengeance came: the survivor returned with a horde — dozens of kin 
 
 ## See also
 
-- [[rosvania/Wiki/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]] · [[rosvania/Wiki/Lotusden\|Lotusden]]
+- [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]] · [[rosvania/Wiki/Lotusden\|Lotusden]]
 
 ## Sources
 

@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,14 +23,14 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Character (historical)
 > **Alias** — The last half-divine commander
-> **Species** — [[rosvania/Wiki/Men\|Human]], of half-divine blood
-> **Era** — The [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]] ([[rosvania/Wiki/Second Age\|Second Age]])
+> **Species** — [[rosvania/Wiki/Races/Men\|Human]], of half-divine blood
+> **Era** — The [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]] ([[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]])
 > **Role** — The last great commander of Tuzland
 > **Fate** — Death ended the hope of unity
 
 > *"From this chaos came the legendary Taner IV, last of the half-divine commanders."*
 
-**Taner IV** was the last of the half-divine commanders of [[rosvania/Wiki/Rosvania\|Rosvania]] — a relic of the age when gods still whispered, and the final hope of a united [[rosvania/Wiki/Tuzland and the Whispering Sands\|Tuzland]].
+**Taner IV** was the last of the half-divine commanders of [[rosvania/Wiki/Rosvania\|Rosvania]] — a relic of the age when gods still whispered, and the final hope of a united [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Tuzland]].
 
 ## The age
 
@@ -38,7 +38,7 @@ During the [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]] — the War of
 
 ## The death of unity
 
-Taner's death ended all unity. His heirs tore apart what he had built, and the war left Tuzland divided. The surviving captains and soldiers turned to the sea, giving birth to the [[rosvania/Wiki/Tuzlean Corsairs\|Tuzlean Corsairs]]; from their rebellion rose the [[rosvania/Wiki/Hold of Five Trials\|Hold of Five Trials]].
+Taner's death ended all unity. His heirs tore apart what he had built, and the war left Tuzland divided. The surviving captains and soldiers turned to the sea, giving birth to the [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]]; from their rebellion rose the [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]].
 
 ## Legacy
 
@@ -46,7 +46,7 @@ Taner IV is remembered as the last link between the age of gods and the age of M
 
 ## See also
 
-- [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]] · [[rosvania/Wiki/Tuzland and the Whispering Sands\|Tuzland and the Whispering Sands]] · [[rosvania/Wiki/Tuzlean Corsairs\|Tuzlean Corsairs]] · [[rosvania/Wiki/Second Age\|Second Age]]
+- [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]] · [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Tuzland and the Whispering Sands]] · [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]]
 
 ## Sources
 

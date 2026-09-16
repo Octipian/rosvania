@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -25,8 +25,8 @@
 > **Origin** — Born from starlight by the Third Decree
 > **Patron** — [[rosvania/Wiki/Vael'Thara\|Vael'Thara]], the Star-Singer
 > **Homeland** — [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]]
-> **Governing body** — The [[rosvania/Wiki/High Synod\|High Synod]]
-> **History** — Spellweavers of the [[rosvania/Wiki/Alliance of Life\|Alliance]]; later the shame of the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]]
+> **Governing body** — The [[rosvania/Wiki/Factions & Organizations/High Synod\|High Synod]]
+> **History** — Spellweavers of the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance]]; later the shame of the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]]
 
 > *"The Elves from starlight."*
 
@@ -38,9 +38,9 @@ The Elves are the dreamers of [[rosvania/Wiki/Rosvania\|Rosvania]]: long-lived, 
 
 ## History
 
-- **[[rosvania/Wiki/War of Life\|War of Life]]:** the Elves of Vael'Tharion, guided by the direct voice of Vael'Thara, were the [[rosvania/Wiki/Alliance of Life\|Alliance of Life]]'s spellweavers and healers.
-- **The [[rosvania/Wiki/Sessions & Campaign/First Age\|First Age]]:** the [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] seduced Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]], and Etharion became the Radiant Dominion. In the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]], the Elves marched in holy fire against Men — and, when the lie was burned away in grief, they renounced all divine worship, shamed by their folly.
-- **The ages between:** the Elves hid in the deep forests, governed by the [[rosvania/Wiki/High Synod\|High Synod]] in endless twilight, guarding the roots of their realm.
+- **[[rosvania/Wiki/War of Life\|War of Life]]:** the Elves of Vael'Tharion, guided by the direct voice of Vael'Thara, were the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]]'s spellweavers and healers.
+- **The [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]]:** the [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] seduced Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]], and Etharion became the Radiant Dominion. In the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]], the Elves marched in holy fire against Men — and, when the lie was burned away in grief, they renounced all divine worship, shamed by their folly.
+- **The ages between:** the Elves hid in the deep forests, governed by the [[rosvania/Wiki/Factions & Organizations/High Synod\|High Synod]] in endless twilight, guarding the roots of their realm.
 
 ## The Third Age
 
@@ -48,7 +48,7 @@ The Eldertree shrieks, the Earth-Song twists into a sorrowful dirge, and the ris
 
 ## See also
 
-- [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] · [[rosvania/Wiki/Vael'Thara\|Vael'Thara]] · [[rosvania/Wiki/High Synod\|High Synod]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] · [[rosvania/Wiki/Races/Races of Rosvania\|Races of Rosvania]]
+- [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] · [[rosvania/Wiki/Vael'Thara\|Vael'Thara]] · [[rosvania/Wiki/Factions & Organizations/High Synod\|High Synod]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] · [[rosvania/Wiki/Races/Races of Rosvania\|Races of Rosvania]]
 
 ## Sources
 

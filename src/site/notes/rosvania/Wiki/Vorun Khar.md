@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -27,7 +27,7 @@
 > **Role** — The right hand of the Stillborn Flame
 > **Method** — Friend to kings, wanderer among scholars, a voice of reason
 > **Mission** — To measure mortal hearts before Desolation awakens
-> **Status** — Active, unseen ([[rosvania/Wiki/Third Age\|Third Age]])
+> **Status** — Active, unseen ([[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]])
 
 > *"He uses the Orc threat to distract Emperor Taryon V, ensuring the world remains blind to the true darkness stirring in the Doomlands."*
 
@@ -35,12 +35,12 @@
 
 ## Nature
 
-Vorun Khar is not a god, but a fragment of one — a mortal echo of the Stillborn Flame, patient and wise, wearing countless names. The sorcerers of the [[rosvania/Wiki/Silver Accord\|Silver Accord]] call him the **Hidden Witness**: a spy sent to measure mortal hearts before Desolation awakens.
+Vorun Khar is not a god, but a fragment of one — a mortal echo of the Stillborn Flame, patient and wise, wearing countless names. The sorcerers of the [[rosvania/Wiki/Factions & Organizations/Silver Accord\|Silver Accord]] call him the **Hidden Witness**: a spy sent to measure mortal hearts before Desolation awakens.
 
 ## Methods
 
 - A friend to kings, a wanderer among scholars, a voice of reason — he bends the great to blindness without ever being seen to bend.
-- He uses the very real Orc threat of Warlord [[rosvania/Wiki/Warlord Gorgath\|Gorgath]] to distract [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]], ensuring the world remains blind to the true darkness stirring in the [[rosvania/Wiki/Doomlands\|Doomlands]].
+- He uses the very real Orc threat of Warlord [[rosvania/Wiki/Characters/Warlord Gorgath\|Gorgath]] to distract [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]], ensuring the world remains blind to the true darkness stirring in the [[rosvania/Wiki/Doomlands\|Doomlands]].
 - In [[rosvania/Wiki/Velmoria\|Velmoria]], his is the "quiet influence" that seeps through the halls — "a whisper of counsel none can trace."
 
 ## The Third Age
@@ -49,7 +49,7 @@ None have seen him. None can prove his existence. But as the seals falter and th
 
 ## See also
 
-- [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]] · [[rosvania/Wiki/Silver Accord\|Silver Accord]] · [[rosvania/Wiki/Velmoria\|Velmoria]] · [[rosvania/Wiki/Third Age\|Third Age]]
+- [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]] · [[rosvania/Wiki/Factions & Organizations/Silver Accord\|Silver Accord]] · [[rosvania/Wiki/Velmoria\|Velmoria]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]
 
 ## Sources
 

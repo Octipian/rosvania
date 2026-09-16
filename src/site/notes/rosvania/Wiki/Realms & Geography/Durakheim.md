@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -25,8 +25,8 @@
 > **Location** — North-central [[rosvania/Wiki/Rosvania\|Rosvania]]
 > **Ruler** — The sealed halls; no king named in the lore
 > **People** — The [[rosvania/Wiki/Races/Dwarves\|Dwarves]]
-> **Patron** — [[rosvania/Wiki/Korran-Dur\|Korran-Dur]], the Deep Warden
-> **Current state** — Gates sealed; forges roaring ([[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]])
+> **Patron** — [[rosvania/Wiki/Realms & Geography/Korran-Dur\|Korran-Dur]], the Deep Warden
+> **Current state** — Gates sealed; forges roaring ([[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]])
 
 > *"The gates of the dwarves are sealed. No traveler enters, no envoy departs."*
 
@@ -34,9 +34,9 @@
 
 ## History
 
-- In the [[rosvania/Wiki/War of Life\|War of Life]], the dwarves of Durakheim forged **[[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|light-forged steel]]** — the only metal that could wound [[rosvania/Wiki/Vharuk\|Vharuk]]'s kin, the [[rosvania/Wiki/The Unmade\|The Unmade]].
+- In the [[rosvania/Wiki/War of Life\|War of Life]], the dwarves of Durakheim forged **[[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|light-forged steel]]** — the only metal that could wound [[rosvania/Wiki/Vharuk\|Vharuk]]'s kin, the [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]].
 - Through the ages the realm endured, its forges never silent.
-- In the [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]], the gates of Durakheim are **sealed**. No traveler enters, no envoy departs. From within comes the ceaseless thunder of the forges.
+- In the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], the gates of Durakheim are **sealed**. No traveler enters, no envoy departs. From within comes the ceaseless thunder of the forges.
 
 ## The Deep's Gift
 
@@ -44,7 +44,7 @@ The sons of Durak toil by the glow of molten ore, smelting weapons from the **[[
 
 ## See also
 
-- [[rosvania/Wiki/Races/Dwarves\|Dwarves]] · [[rosvania/Wiki/Korran-Dur\|Korran-Dur]] · [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Metals of Rosvania]] · [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]
+- [[rosvania/Wiki/Races/Dwarves\|Dwarves]] · [[rosvania/Wiki/Realms & Geography/Korran-Dur\|Korran-Dur]] · [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Metals of Rosvania]] · [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]
 
 ## Sources
 

@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,30 +23,30 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Region
 > **Location** — The southwest of [[rosvania/Wiki/Rosvania\|Rosvania]]
-> **Rulers** — The [[rosvania/Wiki/Tuzlean Corsairs\|Tuzlean Corsairs]]; petty kings; no single crown
+> **Rulers** — The [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]]; petty kings; no single crown
 > **People** — [[rosvania/Wiki/Races/Men\|Men]]
-> **Wound** — The Whispering Sands, drowned by [[rosvania/Wiki/Erynos\|Erynos]]
-> **Current state** — Salt, storm, and iron discipline ([[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]])
+> **Wound** — The Whispering Sands, drowned by [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]]
+> **Current state** — Salt, storm, and iron discipline ([[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]])
 
 > *"Half of Tuzland's coast was devoured by the sea — its cities drowned, its fields turned to the Whispering Sands."*
 
-**Tuzland and the Whispering Sands** is the shattered southwestern realm of [[rosvania/Wiki/Rosvania\|Rosvania]] — the remnant of the old human kingdom of Tuzland, half-drowned by the wrath of [[rosvania/Wiki/Erynos\|Erynos]] and ruled ever since by corsair and petty king.
+**Tuzland and the Whispering Sands** is the shattered southwestern realm of [[rosvania/Wiki/Rosvania\|Rosvania]] — the remnant of the old human kingdom of Tuzland, half-drowned by the wrath of [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]] and ruled ever since by corsair and petty king.
 
 ## History
 
 - In the [[rosvania/Wiki/War of Life\|War of Life]], the Men of Tuzland sent a small host but their greatest champions — the Demigods of the Hammered Sun, led by Tuzlak the Great King and the mighty Big G.
-- In the [[rosvania/Wiki/Sessions & Campaign/First Age\|First Age]], Tuzland grew strong on the ruins of the gods' departure; it begot the first empire and then, with [[Solar Empire of Menor\|Menor]], waged war upon the seas.
+- In the [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]], Tuzland grew strong on the ruins of the gods' departure; it begot the first empire and then, with [[Solar Empire of Menor\|Menor]], waged war upon the seas.
 - In the [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]], Erynos's tidal doom erased half of Tuzland's coast — the drowned fields are the **Whispering Sands**.
-- In the [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]], the [[rosvania/Wiki/Tuzlean Concord\|Tuzlean Concord]] briefly reunited the southwest; after the [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]], the survivors turned to the sea, birthing the [[rosvania/Wiki/Tuzlean Corsairs\|Tuzlean Corsairs]].
-- The [[rosvania/Wiki/Hold of Five Trials\|Hold of Five Trials]] declared independence from the petty crowns; Tuzland fractured into pirate enclaves.
+- In the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]], the [[rosvania/Wiki/Factions & Organizations/Tuzlean Concord\|Tuzlean Concord]] briefly reunited the southwest; after the [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]], the survivors turned to the sea, birthing the [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]].
+- The [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] declared independence from the petty crowns; Tuzland fractured into pirate enclaves.
 
 ## The Third Age
 
-The corsairs rule the southern coasts with iron discipline and restless ambition, clashing upon the seas with the [[rosvania/Wiki/Frost-Reavers\|Frost-Reavers]] fleets that raid from the north. Inland, the Hold of Five Trials stands as neutral ground, watching the encroaching dark with wary resolve.
+The corsairs rule the southern coasts with iron discipline and restless ambition, clashing upon the seas with the [[rosvania/Wiki/Factions & Organizations/Frost-Reavers\|Frost-Reavers]] fleets that raid from the north. Inland, the Hold of Five Trials stands as neutral ground, watching the encroaching dark with wary resolve.
 
 ## See also
 
-- [[rosvania/Wiki/Tuzlean Corsairs\|Tuzlean Corsairs]] · [[rosvania/Wiki/Hold of Five Trials\|Hold of Five Trials]] · [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]] · [[rosvania/Wiki/Taner IV\|Taner IV]] · [[rosvania/Wiki/Erynos\|Erynos]]
+- [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]] · [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] · [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]] · [[rosvania/Wiki/Taner IV\|Taner IV]] · [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]]
 
 ## Sources
 

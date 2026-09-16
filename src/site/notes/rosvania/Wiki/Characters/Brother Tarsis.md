@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -24,21 +24,21 @@
 > **Type** — Character (NPC)
 > **Species** — [[rosvania/Wiki/Races/Dwarves\|Dwarf]]
 > **Title** — Warrior-priest
-> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3]] (Year 3 [[rosvania/Wiki/Sessions & Campaign/Third Age\|TA]])
+> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3]] (Year 3 [[rosvania/Wiki/Eras & Timeline/Third Age\|TA]])
 > **Role** — Judge of the Trial of Combat
 > **Weapon** — A hammer forged from the [[rosvania/Wiki/Metals of Rosvania\|Deep's Gift]]
 
 > *"Brother Tarsis, a dwarven warrior-priest carrying a hammer forged from the Deep's Gift."*
 
-**Brother Tarsis** is a dwarven warrior-priest of the [[rosvania/Wiki/Protectors of the Realm\|Protectors of the Realm]], whose hammer is forged from the **[[rosvania/Wiki/Metals of Rosvania\|Deep's Gift]]** — the strange, living metal of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] said to resist the chill of [[rosvania/Wiki/Vharuk\|Vharuk]]'s Breath.
+**Brother Tarsis** is a dwarven warrior-priest of the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]], whose hammer is forged from the **[[rosvania/Wiki/Metals of Rosvania\|Deep's Gift]]** — the strange, living metal of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] said to resist the chill of [[rosvania/Wiki/Vharuk\|Vharuk]]'s Breath.
 
 ## Role in the trials
 
-In Year 3 of the [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]], Tarsis served as one of three judges of the Trial of Combat at the [[rosvania/Wiki/Hold of Five Trials\|Hold of Five Trials]], alongside [[rosvania/Wiki/Josephine Kane\|Josephine Kane]] and Commander [[rosvania/Wiki/Vorlag\|Vorlag]]. His presence links the order of the Protectors to the sealed forges of the Dwarven realm — and to the war the Dwarves believe cannot be won.
+In Year 3 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], Tarsis served as one of three judges of the Trial of Combat at the [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]], alongside [[rosvania/Wiki/Characters/Josephine Kane\|Josephine Kane]] and Commander [[rosvania/Wiki/Vorlag\|Vorlag]]. His presence links the order of the Protectors to the sealed forges of the Dwarven realm — and to the war the Dwarves believe cannot be won.
 
 ## See also
 
-- [[rosvania/Wiki/Protectors of the Realm\|Protectors of the Realm]] · [[rosvania/Wiki/Hold of Five Trials\|Hold of Five Trials]] · [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] · [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]]
+- [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]] · [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] · [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] · [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]]
 
 ## Sources
 

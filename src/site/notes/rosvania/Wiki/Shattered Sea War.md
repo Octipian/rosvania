@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -22,18 +22,18 @@
 > rf-imgslot
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — War
-> **Period** — 803–982 FA ([[rosvania/Wiki/First Age\|First Age]])
+> **Period** — 803–982 FA ([[rosvania/Wiki/Eras & Timeline/First Age\|First Age]])
 > **Belligerents** — Old Tuzland & [[Solar Empire of Menor\|Menor]] vs. the Aquatic Empires
-> **Turning point** — The divine tsunami of [[rosvania/Wiki/Erynos\|Erynos]]
-> **Outcome** — Half of Tuzland devoured; Menor falls; [[rosvania/Wiki/Khar'doth the Uniter\|Khar'doth the Uniter]] conquers the east
+> **Turning point** — The divine tsunami of [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]]
+> **Outcome** — Half of Tuzland devoured; Menor falls; [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]] conquers the east
 
 > *"Erynos, lord of the seas, had not forgotten the arrogance of mortals. He rose in wrath and cast a tidal doom upon them."*
 
-The **Shattered Sea War** (803–982 FA) was the final, fatal war of the [[rosvania/Wiki/First Age\|First Age]] — mortals' last reach for dominion over the oceans, and the gods' last judgment upon the empires of Men.
+The **Shattered Sea War** (803–982 FA) was the final, fatal war of the [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]] — mortals' last reach for dominion over the oceans, and the gods' last judgment upon the empires of Men.
 
 ## The war
 
-Driven by greed, Old Tuzland and [[Solar Empire of Menor\|Menor]] waged war upon the Aquatic Empires of the deep. For decades the war ground on across the waves — until [[rosvania/Wiki/Erynos\|Erynos]], Lord of the Seas, remembered the arrogance of mortals.
+Driven by greed, Old Tuzland and [[Solar Empire of Menor\|Menor]] waged war upon the Aquatic Empires of the deep. For decades the war ground on across the waves — until [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]], Lord of the Seas, remembered the arrogance of mortals.
 
 ## The tidal doom
 
@@ -41,7 +41,7 @@ Erynos unleashed his vengeance: a divine tsunami that erased half of Tuzland's c
 
 ## Aftermath
 
-The collapse of Menor was glorious opportunity for the [[rosvania/Wiki/Orcs\|Orcs]]. [[rosvania/Wiki/Khar'doth the Uniter\|Khar'doth the Uniter]] rallied the tribes of [[rosvania/Wiki/Gorthul-Maar\|Gorthul-Maar]] and led a great horde south, conquering the leaderless eastern lands.
+The collapse of Menor was glorious opportunity for the [[rosvania/Wiki/Races/Orcs\|Orcs]]. [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]] rallied the tribes of [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]] and led a great horde south, conquering the leaderless eastern lands.
 
 Thus ended the First Age — in salt and ruin, silence, and the triumphant war-cries of the Orcs.
 
@@ -49,11 +49,11 @@ Thus ended the First Age — in salt and ruin, silence, and the triumphant war-c
 
 - The **Whispering Sands** remain as Erynos's monument along the southern coast.
 - The sea is feared and respected in a way no other force commands — save the dread of the north.
-- The fall of Menor set the stage for the Years of Ash and the [[rosvania/Wiki/Second Age\|Second Age]].
+- The fall of Menor set the stage for the Years of Ash and the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]].
 
 ## See also
 
-- [[rosvania/Wiki/Erynos\|Erynos]] · [[Solar Empire of Menor\|Solar Empire of Menor]] · [[rosvania/Wiki/Khar'doth the Uniter\|Khar'doth the Uniter]] · [[rosvania/Wiki/Tuzland and the Whispering Sands\|Tuzland and the Whispering Sands]] · [[rosvania/Wiki/First Age\|First Age]]
+- [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]] · [[Solar Empire of Menor\|Solar Empire of Menor]] · [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]] · [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Tuzland and the Whispering Sands]] · [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]]
 
 ## Sources
 

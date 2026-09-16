@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -22,14 +22,14 @@
 > rf-imgslot
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — City (capital)
-> **Location** — The heart of the [[rosvania/Wiki/Aurelian Dominion\|Aurelian Dominion]]
+> **Location** — The heart of the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]]
 > **Ruler** — [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]]
 > **Notable** — A whisper of counsel none can trace
-> **Current state** — A court of smiles hiding decay ([[rosvania/Wiki/Third Age\|Third Age]])
+> **Current state** — A court of smiles hiding decay ([[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]])
 
 > *"A whisper of counsel none can trace, shaping the empire's blindness while the true peril gathers strength unseen."*
 
-**Velmoria** is the capital of the [[rosvania/Wiki/Aurelian Dominion\|Aurelian Dominion]], the golden city at the heart of [[rosvania/Wiki/Rosvania\|Rosvania]] where the Sun Emperor rules from sun-towers of Solarite-bright stone.
+**Velmoria** is the capital of the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]], the golden city at the heart of [[rosvania/Wiki/Rosvania\|Rosvania]] where the Sun Emperor rules from sun-towers of Solarite-bright stone.
 
 ## The hidden counsel
 
@@ -37,7 +37,7 @@ Beneath the courtly smiles and priestly decrees of Velmoria, a quiet influence s
 
 ## See also
 
-- [[rosvania/Wiki/Aurelian Dominion\|Aurelian Dominion]] · [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]] · [[rosvania/Wiki/Vorun Khar\|Vorun Khar]]
+- [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] · [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]] · [[rosvania/Wiki/Vorun Khar\|Vorun Khar]]
 
 ## Sources
 

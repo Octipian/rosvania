@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -25,7 +25,7 @@
 > **Captain** — [[rosvania/Wiki/Salazar\|Salazar]]
 > **Appearance** — So battered it might sink from being stared at too hard
 > **Curse** — It refuses to sink
-> **First seen** — [[rosvania/Wiki/Session 3 - The Trial of Combat\|Session 3]] (Year 3 [[rosvania/Wiki/Third Age\|TA]])
+> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3]] (Year 3 [[rosvania/Wiki/Eras & Timeline/Third Age\|TA]])
 > **Status** — Still sailing
 
 > *"The Good ol' Jacky should have splintered apart under the assault, yet the cursed brigantine refused to sink. It endured. It suffered. It lived."*
@@ -38,7 +38,7 @@ At the coastal port near the Trial of Will, the Chosen Party sought passage and 
 
 ## The battle
 
-They awoke to choking fog and exploding cannons. Ambushed by a Tuzlan Corsair, then caught between [[rosvania/Wiki/Captain Serak\|Captain Serak]]'s spectral *Drownkeeper* and his mind-seized octopus ally, the Jacky should have splintered apart. It refused. The cursed brigantine endured, suffered, and lived — until the sky split open and [[rosvania/Wiki/Erynos\|Erynos]] arrived.
+They awoke to choking fog and exploding cannons. Ambushed by a Tuzlan Corsair, then caught between [[rosvania/Wiki/Captain Serak\|Captain Serak]]'s spectral *Drownkeeper* and his mind-seized octopus ally, the Jacky should have splintered apart. It refused. The cursed brigantine endured, suffered, and lived — until the sky split open and [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]] arrived.
 
 ## Current state
 
@@ -46,7 +46,7 @@ When the party returned from the Trial of Combat, bruised yet triumphant, they f
 
 ## See also
 
-- [[rosvania/Wiki/Salazar\|Salazar]] · [[rosvania/Wiki/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]] · [[rosvania/Wiki/Captain Serak\|Captain Serak]] · [[rosvania/Wiki/Erynos\|Erynos]]
+- [[rosvania/Wiki/Salazar\|Salazar]] · [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]] · [[rosvania/Wiki/Captain Serak\|Captain Serak]] · [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]]
 
 ## Sources
 

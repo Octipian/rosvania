@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -25,12 +25,12 @@
 > **Species** — Elder drake (last of his lineage)
 > **Role** — The final guardian of a dying lineage
 > **Quest** — Recover the lost amulet of the old wars
-> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1]] (Year 1 [[rosvania/Wiki/Sessions & Campaign/Third Age\|TA]])
+> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1]] (Year 1 [[rosvania/Wiki/Eras & Timeline/Third Age\|TA]])
 > **Status** — Alive; his wings black against the dusk
 
 > *"The arrival of Golgoth, the last of the elder drakes, whose wings blotted the sun and whose eyes burned with ancient purpose."*
 
-**Golgoth** is the last of the elder drakes of [[rosvania/Wiki/Rosvania\|Rosvania]] — a being of ancient purpose who ended the goblin ambush on the road to [[rosvania/Wiki/Arglaxx\|Arglaxx]] and set the heroes of the [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] upon their path.
+**Golgoth** is the last of the elder drakes of [[rosvania/Wiki/Rosvania\|Rosvania]] — a being of ancient purpose who ended the goblin ambush on the road to [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]] and set the heroes of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] upon their path.
 
 ## The arrival
 
@@ -42,11 +42,11 @@ In the ruinous silence that followed, Golgoth spoke. He was the final guardian o
 
 ## Later appearances
 
-Golgoth reappeared after the Trial of Will in the cursed forest, wings black against the dusk, to confirm the trial was passed and the path ahead open. The illusion of him conjured by the [[rosvania/Wiki/Cursed Map\|Cursed Map]]'s malice proved the drake's name travels before him — and his purpose with it.
+Golgoth reappeared after the Trial of Will in the cursed forest, wings black against the dusk, to confirm the trial was passed and the path ahead open. The illusion of him conjured by the [[rosvania/Wiki/Artifacts & Items/Cursed Map\|Cursed Map]]'s malice proved the drake's name travels before him — and his purpose with it.
 
 ## See also
 
-- [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Cursed Map\|Cursed Map]] · [[rosvania/Wiki/Arglaxx\|Arglaxx]] · [[rosvania/Wiki/Races/Races of Rosvania\|Elder drakes]]
+- [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Artifacts & Items/Cursed Map\|Cursed Map]] · [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]] · [[rosvania/Wiki/Races/Races of Rosvania\|Elder drakes]]
 
 ## Sources
 

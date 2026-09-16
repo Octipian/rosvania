@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,7 +23,7 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Region
 > **Location** — The northeastern plains of [[rosvania/Wiki/Rosvania\|Rosvania]]
-> **Between** — The [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] and [[rosvania/Wiki/Gorthul-Maar\|Gorthul-Maar]]
+> **Between** — The [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] and [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]]
 > **People** — Border legions of Men; Orc raiders
 > **Notable** — The great wall of fortifications
 
@@ -33,9 +33,9 @@ The **Silver Marches** are the northeastern plains of [[rosvania/Wiki/Rosvania\|
 
 ## History
 
-- In the [[rosvania/Wiki/Sessions & Campaign/First Age\|First Age]], the Orcs of [[rosvania/Wiki/Khar'doth the Uniter\|Khar'doth the Uniter]] ruled these plains from the banners of [[rosvania/Wiki/Gorthul-Maar\|Gorthul-Maar]].
-- In the Forgeborn Era of the [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]], the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] pushed the hordes north **beyond** the Marches, into the frozen highlands, and sealed its border with a massive wall of fortifications.
-- In the Cracking Age, Warlord [[rosvania/Wiki/Warlord Gorgath\|Gorgath]]'s raiders tested the wall again and again.
+- In the [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]], the Orcs of [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]] ruled these plains from the banners of [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]].
+- In the Forgeborn Era of the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]], the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] pushed the hordes north **beyond** the Marches, into the frozen highlands, and sealed its border with a massive wall of fortifications.
+- In the Cracking Age, Warlord [[rosvania/Wiki/Characters/Warlord Gorgath\|Gorgath]]'s raiders tested the wall again and again.
 
 ## The Third Age
 
@@ -43,7 +43,7 @@ The Marches are a hard land of garrisons, watch-fires, and raids. Its defenders 
 
 ## See also
 
-- [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] · [[rosvania/Wiki/Gorthul-Maar\|Gorthul-Maar]] · [[rosvania/Wiki/Warlord Gorgath\|Warlord Gorgath]] · [[rosvania/Wiki/Races/Orcs\|Orcs]]
+- [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] · [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]] · [[rosvania/Wiki/Characters/Warlord Gorgath\|Warlord Gorgath]] · [[rosvania/Wiki/Races/Orcs\|Orcs]]
 
 ## Sources
 

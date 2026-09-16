@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -22,18 +22,18 @@
 > rf-imgslot
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — War
-> **Period** — 539–561 FA ([[rosvania/Wiki/First Age\|First Age]])
-> **Belligerents** — The Radiant Dominion ([[rosvania/Wiki/Elves\|Elves]]) vs. humankind
+> **Period** — 539–561 FA ([[rosvania/Wiki/Eras & Timeline/First Age\|First Age]])
+> **Belligerents** — The Radiant Dominion ([[rosvania/Wiki/Races/Elves\|Elves]]) vs. humankind
 > **Cause** — The [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]], a fragment of [[rosvania/Wiki/Vharuk\|Vharuk]]'s will
-> **Outcome** — The curse breaks; the [[rosvania/Wiki/Elves\|Elves]] renounce divine worship
+> **Outcome** — The curse breaks; the [[rosvania/Wiki/Races/Elves\|Elves]] renounce divine worship
 
 > *"A slaughter of purity and faith. Fields burned. Forests died. The rivers ran red with the blood of both kin and foe."*
 
-The **War of the Radiant Blades** (539–561 FA) was a war waged by the Elven realm of [[rosvania/Wiki/Etharion\|Etharion]] against humankind, born of the greatest deceit since [[rosvania/Wiki/Vharuk\|Vharuk]] himself — the false radiance of the [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]].
+The **War of the Radiant Blades** (539–561 FA) was a war waged by the Elven realm of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] against humankind, born of the greatest deceit since [[rosvania/Wiki/Vharuk\|Vharuk]] himself — the false radiance of the [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]].
 
 ## The deceit
 
-Deep beneath the roots of Etharion, a whisper stirred — a fragment of Vharuk's will calling itself the **Whisperer Beneath the Roots**. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Solareth\|Solareth]]'s glory, it seduced Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]]. Under its spell, Etharion was refashioned as the **Radiant Dominion**, and its Elves marched in holy fire against Men.
+Deep beneath the roots of Etharion, a whisper stirred — a fragment of Vharuk's will calling itself the **Whisperer Beneath the Roots**. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]]'s glory, it seduced Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]]. Under its spell, Etharion was refashioned as the **Radiant Dominion**, and its Elves marched in holy fire against Men.
 
 ## The war
 
@@ -45,12 +45,12 @@ When Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]] fell — struck down in revelati
 
 ## Aftermath
 
-- The Elves of [[rosvania/Wiki/Etharion\|Etharion]] never again answered the call of the gods; the [[rosvania/Wiki/High Synod\|High Synod]] governs in endless twilight.
+- The Elves of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] never again answered the call of the gods; the [[rosvania/Wiki/Factions & Organizations/High Synod\|High Synod]] governs in endless twilight.
 - The war is remembered as proof that no lie, however radiant, can withstand the truth of mortal suffering.
 
 ## See also
 
-- [[Queen Vael'Nir\|Queen Vael'Nir]] · [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] · [[rosvania/Wiki/Etharion\|Etharion]] · [[rosvania/Wiki/First Age\|First Age]] · [[rosvania/Wiki/Vharuk\|Vharuk]]
+- [[Queen Vael'Nir\|Queen Vael'Nir]] · [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] · [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] · [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]] · [[rosvania/Wiki/Vharuk\|Vharuk]]
 
 ## Sources
 

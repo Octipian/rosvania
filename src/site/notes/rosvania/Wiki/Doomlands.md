@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -24,34 +24,34 @@
 > **Type** — Region (frozen wasteland)
 > **Location** — The far north of [[rosvania/Wiki/Rosvania\|Rosvania]]
 > **Prisoner** — [[rosvania/Wiki/Vharuk\|Vharuk]], sealed beneath the ice
-> **Sealed by** — [[rosvania/Wiki/Athera\|Athera]] and [[rosvania/Wiki/Namarielle\|Namarielle]]
+> **Sealed by** — [[rosvania/Wiki/Characters/Athera\|Athera]] and [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]]
 > **Plague** — The Breath of Vharuk (unending blizzard)
-> **Current state** — First Seal broken ([[rosvania/Wiki/Third Age\|Third Age]])
+> **Current state** — First Seal broken ([[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]])
 
 > *"A prison of eternal ice and silence."*
 
-The **Doomlands** are the frozen desolation of the far north — the prison of [[rosvania/Wiki/Vharuk\|Vharuk]] the Stillborn Flame, sealed beneath eternal ice and night by [[rosvania/Wiki/Athera\|Athera]] and [[rosvania/Wiki/Namarielle\|Namarielle]] at the end of the [[rosvania/Wiki/War of Life\|War of Life]].
+The **Doomlands** are the frozen desolation of the far north — the prison of [[rosvania/Wiki/Vharuk\|Vharuk]] the Stillborn Flame, sealed beneath eternal ice and night by [[rosvania/Wiki/Characters/Athera\|Athera]] and [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]] at the end of the [[rosvania/Wiki/War of Life\|War of Life]].
 
 ## The prison
 
-Beneath the blackened glaciers of the Doomlands, Vharuk's soul was bound after his body was shattered at the [[rosvania/Wiki/Black Spire of Mourning\|Black Spire of Mourning]]. The prison was sealed in eternal night — a place where even the sun's light was forbidden.
+Beneath the blackened glaciers of the Doomlands, Vharuk's soul was bound after his body was shattered at the [[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]]. The prison was sealed in eternal night — a place where even the sun's light was forbidden.
 
 ## The Breath of Vharuk
 
-From the Doomlands comes the **Breath of Vharuk** — an unending blizzard that devours light and life alike. It crawls southward from the blackened glaciers, chilling even the mountains of [[rosvania/Wiki/Durakheim\|Durakheim]].
+From the Doomlands comes the **Breath of Vharuk** — an unending blizzard that devours light and life alike. It crawls southward from the blackened glaciers, chilling even the mountains of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]].
 
 ## Denizens
 
-- The **[[rosvania/Wiki/Frost-Reavers\|Frost-Reavers]]** — pale marauders of the ice who sail black ships upon storm-torn seas.
-- The **[[rosvania/Wiki/The Unmade\|The Unmade]]** — "legions that do not sleep," stirring in whispers beneath the aurora-less sky.
+- The **[[rosvania/Wiki/Factions & Organizations/Frost-Reavers\|Frost-Reavers]]** — pale marauders of the ice who sail black ships upon storm-torn seas.
+- The **[[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]]** — "legions that do not sleep," stirring in whispers beneath the aurora-less sky.
 
 ## The Third Age
 
-In the Cracking Age of the [[rosvania/Wiki/Second Age\|Second Age]], the seals began to weaken; entire Aurelian legions vanished in expeditions to the north. In Year 1 of the [[rosvania/Wiki/Third Age\|Third Age]], the **First Seal broke** — and the age of waiting was done. The wise know the storm will not stop until it has reached the whole world.
+In the Cracking Age of the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]], the seals began to weaken; entire Aurelian legions vanished in expeditions to the north. In Year 1 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], the **First Seal broke** — and the age of waiting was done. The wise know the storm will not stop until it has reached the whole world.
 
 ## See also
 
-- [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Black Spire of Mourning\|Black Spire of Mourning]] · [[rosvania/Wiki/Frost-Reavers\|Frost-Reavers]] · [[rosvania/Wiki/The Unmade\|The Unmade]] · [[rosvania/Wiki/Third Age\|Third Age]]
+- [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]] · [[rosvania/Wiki/Factions & Organizations/Frost-Reavers\|Frost-Reavers]] · [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]
 
 ## Sources
 

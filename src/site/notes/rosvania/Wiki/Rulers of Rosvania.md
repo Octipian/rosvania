@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,7 +23,7 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Index
 > **Scope** — Every crown of [[rosvania/Wiki/Rosvania Wiki\|Rosvania]]
-> **Eras** — [[rosvania/Wiki/Sessions & Campaign/First Age\|First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]]
+> **Eras** — [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]
 > **Nature** — A dynastic chronicle of the realms and their lords
 
 > *"Every crown in Rosvania is a promise written in blood — and every promise, in time, is broken."*
@@ -40,13 +40,13 @@ The human realm of the western valleys and the Whispering Sands — half-divine 
 | 0–10 FA | **The Demigod Rulers** — the first age of Man | The blood of the gods walked openly among Men. |
 | 0–10 FA | **Tuzlak the Great King** — creator of Tuzland | *Wielder of **Pietricel**, the spear of the first dawn; he named the land Tuzland after himself.* |
 | 0–10 FA | **The Big G** — demigod hero | *Perished in the [[rosvania/Wiki/War of Life\|War of Life]], the first of the great mortal champions to fall.* |
-| 313–689 SA | **The Concord Founders** — lords and commanders of the [[rosvania/Wiki/Tuzlean Concord\|Tuzlean Concord]] | The age of the Tanerid line. |
+| 313–689 SA | **The Concord Founders** — lords and commanders of the [[rosvania/Wiki/Factions & Organizations/Tuzlean Concord\|Tuzlean Concord]] | The age of the Tanerid line. |
 | 313–350 SA | **Taner, first of his name** | *Unites the valleys under one voice.* |
 | 351–420 SA | **Taner II** | *Builds the roads and the wall of the western pass.* |
 | 421–580 SA | **Taner III** | *The golden Concord; the half-divine blood runs thin.* |
 | 581–689 SA | **Taner IV** | *Last half-divine commander; his heirs tear apart what he built.* |
 | 690–974 SA | **Fragmented noble houses** — the [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]] | Three centuries of warring bloodlines. |
-| 975–1501 SA | **Pirate captains** rule the coasts; the warrior lords of the [[rosvania/Wiki/Hold of Five Trials\|Hold of Five Trials]] keep honor | The age of the [[rosvania/Wiki/Tuzlean Corsairs\|Tuzlean Corsairs]]. |
+| 975–1501 SA | **Pirate captains** rule the coasts; the warrior lords of the [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] keep honor | The age of the [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]]. |
 
 # Solar Empire of Menor (Men)
 
@@ -64,7 +64,7 @@ The human realm of the western valleys and the Whispering Sands — half-divine 
 | 0–230 FA | **Guided by Vael'Thara** — archmage-led, no monarch | The Elves rule by wisdom, not crown. |
 | 231–480 FA | **Queen Vael'Nir** — first crown of the Radiant Dominion | *Later corrupted by the [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]].* |
 | 481–678 FA | **Queen Vael'Nir of Elarith** | *Reigns through the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]].* |
-| Post-678 FA – 1501 SA | **The Archmage Council** rules | No queen since; the [[rosvania/Wiki/High Synod\|High Synod]] holds the Elves. |
+| Post-678 FA – 1501 SA | **The Archmage Council** rules | No queen since; the [[rosvania/Wiki/Factions & Organizations/High Synod\|High Synod]] holds the Elves. |
 
 # Durakheim (Dwarves) — the most stable realm
 
@@ -75,7 +75,7 @@ The human realm of the western valleys and the Whispering Sands — half-divine 
 | 690–974 SA | **High Forgemaster Durak II** | *The long age of the anvil.* |
 | 975–1300 SA | **High Forgemaster Balin the Usurper** | *Took the throne unbloodily; ruled long and quiet.* |
 | 1301–1459 SA | **High Forgemaster Thurrig** | *Iron-law and deep-smoke.* |
-| 1460–1501 SA | **High Forgemaster Durak III** | *The last of the sealed line as the [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] dawns.* |
+| 1460–1501 SA | **High Forgemaster Durak III** | *The last of the sealed line as the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] dawns.* |
 
 # Aurelian Dominion (the new Menor)
 
@@ -85,7 +85,7 @@ The human realm of the western valleys and the Whispering Sands — half-divine 
 | 975–1300 SA | **Emperor Aerion** — consolidates the city-states | *The empire grows toward myth.* |
 | 975–1300 SA | **Emperor Solric** — the golden era | *The brightest age of the Dominion.* |
 | 1301–1459 SA | **Emperor Aurelian V** — leads the northern expeditions | *The spear of the empire turns north.* |
-| 1460–1501 SA | **Emperor Taryon V** — the Still Years | *Rules during the quiet blindness before the [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]].* |
+| 1460–1501 SA | **Emperor Taryon V** — the Still Years | *Rules during the quiet blindness before the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]].* |
 
 # Silver Accord / Protectors of the Realm
 
@@ -109,7 +109,7 @@ The human realm of the western valleys and the Whispering Sands — half-divine 
 
 ## See also
 
-- [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline of Rosvania]] · [[rosvania/Wiki/Sessions & Campaign/First Age\|First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]]
+- [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline of Rosvania]] · [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]
 - [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Tuzland and the Whispering Sands]] · [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] · [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] · [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]]
 - [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] · [[rosvania/Wiki/Vorun Khar\|Vorun Khar]] · [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Necrotic King\|Necrotic King]]
 

@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -36,15 +36,15 @@ The **Unseen Father** is the nameless, eternal creator of [[rosvania/Wiki/Rosvan
 
 The Father built the world through **three decrees**:
 
-- The **First Decree** divided earth from sky, raising the mountains of [[rosvania/Wiki/Durakheim\|Durakheim]] and carving the seas — forming the lands of Rosvania.
+- The **First Decree** divided earth from sky, raising the mountains of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] and carving the seas — forming the lands of Rosvania.
 - The **Second Decree** set the sun and stars in their dance, granting light, warmth, rhythm and time.
-- The **Third Decree** breathed life into the clay of the world — forests, beasts, and the elder races: the [[rosvania/Wiki/Elves\|Elves]] from starlight, the [[rosvania/Wiki/Dwarves\|Dwarves]] from mountain-heart, and [[rosvania/Wiki/Men\|Men]] from the soil between them.
+- The **Third Decree** breathed life into the clay of the world — forests, beasts, and the elder races: the [[rosvania/Wiki/Races/Elves\|Elves]] from starlight, the [[rosvania/Wiki/Races/Dwarves\|Dwarves]] from mountain-heart, and [[rosvania/Wiki/Races/Men\|Men]] from the soil between them.
 
 Thus was formed the first harmony: a kingdom of light and silence.
 
 ## The Firstborn Wardens
 
-To tend His creation, the Father drew from His own essence **eight divine spirits** — the [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] — granting each dominion over a part of the world: [[rosvania/Wiki/Solareth\|Solareth]], [[rosvania/Wiki/Namarielle\|Namarielle]], [[rosvania/Wiki/Korran-Dur\|Korran-Dur]], [[rosvania/Wiki/Vael'Thara\|Vael'Thara]], [[rosvania/Wiki/Erynos\|Erynos]], [[rosvania/Wiki/Serathis\|Serathis]], [[rosvania/Wiki/Athera\|Athera]], and [[rosvania/Wiki/Vharuk\|Vharuk]].
+To tend His creation, the Father drew from His own essence **eight divine spirits** — the [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] — granting each dominion over a part of the world: [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]], [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]], [[rosvania/Wiki/Realms & Geography/Korran-Dur\|Korran-Dur]], [[rosvania/Wiki/Vael'Thara\|Vael'Thara]], [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]], [[rosvania/Wiki/Realms & Geography/Serathis\|Serathis]], [[rosvania/Wiki/Characters/Athera\|Athera]], and [[rosvania/Wiki/Vharuk\|Vharuk]].
 
 ## The Withdrawal
 
@@ -52,13 +52,13 @@ When [[rosvania/Wiki/Vharuk\|Vharuk]] fell to pride and launched the [[rosvania/
 
 ## Legacy
 
-- The Father withdrew before the dawn of the [[rosvania/Wiki/First Age\|First Age]]; no mortal has heard His voice since.
+- The Father withdrew before the dawn of the [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]]; no mortal has heard His voice since.
 - The gods of the world are His essence; to war against them is to war against His design.
 - Some whisper that the Father's silence is not abandonment, but patience — and that He watches still.
 
 ## See also
 
-- [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Doctrine of Desolation\|Doctrine of Desolation]]
+- [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Doctrine of Desolation\|Doctrine of Desolation]]
 
 ## Sources
 

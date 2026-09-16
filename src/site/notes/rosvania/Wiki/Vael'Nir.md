@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -22,20 +22,20 @@
 > rf-imgslot
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Character (historical)
-> **Species** — [[rosvania/Wiki/Elves\|Elf]]
-> **Title** — Queen of [[rosvania/Wiki/Etharion\|Etharion]]
-> **Era** — The [[rosvania/Wiki/First Age\|First Age]]
+> **Species** — [[rosvania/Wiki/Races/Elves\|Elf]]
+> **Title** — Queen of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]]
+> **Era** — The [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]]
 > **Corruption** — The [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]]
 > **Fate** — Fell in revelation and remorse (War of the Radiant Blades)
 > **Legacy** — The Elves renounced divine worship after her fall
 
 > *"When Vael'Nir fell, struck down in revelation and remorse, the curse was broken."*
 
-**Queen Vael'Nir** was the Queen of [[rosvania/Wiki/Etharion\|Etharion]] — the Elven sovereign seduced by the greatest deceit since [[rosvania/Wiki/Vharuk\|Vharuk]], and the instrument of her people's shame.
+**Queen Vael'Nir** was the Queen of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] — the Elven sovereign seduced by the greatest deceit since [[rosvania/Wiki/Vharuk\|Vharuk]], and the instrument of her people's shame.
 
 ## The seduction
 
-Deep beneath the roots of Etharion, a whisper stirred — a fragment of [[rosvania/Wiki/Vharuk\|Vharuk]]'s will calling itself the **Whisperer Beneath the Roots**. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Solareth\|Solareth]]'s glory, it seduced Vael'Nir. Under its spell, Etharion became *Elarith, the Radiant Dominion*, and the Elves marched in holy fire against Men.
+Deep beneath the roots of Etharion, a whisper stirred — a fragment of [[rosvania/Wiki/Vharuk\|Vharuk]]'s will calling itself the **Whisperer Beneath the Roots**. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]]'s glory, it seduced Vael'Nir. Under its spell, Etharion became *Elarith, the Radiant Dominion*, and the Elves marched in holy fire against Men.
 
 ## The fall
 
@@ -43,11 +43,11 @@ The more the Elves beheld their own cruelty in the [[rosvania/Wiki/War of the Ra
 
 ## Legacy
 
-She is remembered with sorrow, not hatred: the proof that even queens can be unmade by false light — and that truth can survive the ruin of those who were deceived. Her memory is why the Elves renounced divine worship, and why the [[rosvania/Wiki/High Synod\|High Synod]] keeps its twilight counsel.
+She is remembered with sorrow, not hatred: the proof that even queens can be unmade by false light — and that truth can survive the ruin of those who were deceived. Her memory is why the Elves renounced divine worship, and why the [[rosvania/Wiki/Factions & Organizations/High Synod\|High Synod]] keeps its twilight counsel.
 
 ## See also
 
-- [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] · [[rosvania/Wiki/Etharion\|Etharion]] · [[rosvania/Wiki/Elves\|Elves]]
+- [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] · [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] · [[rosvania/Wiki/Races/Elves\|Elves]]
 
 ## Sources
 

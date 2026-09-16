@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,14 +23,14 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Civil war
 > **Alias** — The War of Bloodlines
-> **Period** — 690–974 SA ([[rosvania/Wiki/Second Age\|Second Age]])
+> **Period** — 690–974 SA ([[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]])
 > **Belligerents** — The noble houses of Tuzland
 > **Key figure** — [[rosvania/Wiki/Taner IV\|Taner IV]], last of the half-divine commanders
-> **Outcome** — Tuzland shattered; the [[rosvania/Wiki/Tuzlean Corsairs\|Tuzlean Corsairs]] and the [[rosvania/Wiki/Hold of Five Trials\|Hold of Five Trials]] arise
+> **Outcome** — Tuzland shattered; the [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]] and the [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] arise
 
 > *"With victory came corruption. Within Tuzland, noble houses turned blade against blade."*
 
-The **Tuzlean Civil War**, also called the **War of Bloodlines**, was a conflict of almost three centuries that consumed [[rosvania/Wiki/Tuzland and the Whispering Sands\|Tuzland]] after the victories of the Forgeborn Era. It was the age of the last half-divine commander — and the sundering of a kingdom.
+The **Tuzlean Civil War**, also called the **War of Bloodlines**, was a conflict of almost three centuries that consumed [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Tuzland]] after the victories of the Forgeborn Era. It was the age of the last half-divine commander — and the sundering of a kingdom.
 
 ## The war
 
@@ -38,17 +38,17 @@ With the Orc threat pushed back, ambition turned inward. The noble houses of Tuz
 
 ## The death of unity
 
-Taner's death ended the hope of unity. His heirs tore apart what he had built, and the war left Tuzland divided. The surviving captains and soldiers turned to the sea, giving birth to a new order of marauders — the **[[rosvania/Wiki/Tuzlean Corsairs\|Tuzlean Corsairs]]**.
+Taner's death ended the hope of unity. His heirs tore apart what he had built, and the war left Tuzland divided. The surviving captains and soldiers turned to the sea, giving birth to a new order of marauders — the **[[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]]**.
 
 ## Aftermath
 
 - **Tuzland** fractured into petty coasts and pirate enclaves.
-- The rebellious warriors of the realm, bound by oath rather than crown, founded the **[[rosvania/Wiki/Hold of Five Trials\|Hold of Five Trials]]** in the highlands and declared independence.
-- The [[rosvania/Wiki/Aurelian Dominion\|Aurelian Dominion]] in the east was left to inherit the age's peace — a peace that lasted centuries.
+- The rebellious warriors of the realm, bound by oath rather than crown, founded the **[[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]]** in the highlands and declared independence.
+- The [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] in the east was left to inherit the age's peace — a peace that lasted centuries.
 
 ## See also
 
-- [[rosvania/Wiki/Tuzlean Corsairs\|Tuzlean Corsairs]] · [[rosvania/Wiki/Hold of Five Trials\|Hold of Five Trials]] · [[rosvania/Wiki/Taner IV\|Taner IV]] · [[rosvania/Wiki/Second Age\|Second Age]]
+- [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]] · [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] · [[rosvania/Wiki/Taner IV\|Taner IV]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]]
 
 ## Sources
 

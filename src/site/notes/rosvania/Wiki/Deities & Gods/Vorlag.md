@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -22,21 +22,21 @@
 > rf-imgslot
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Character (NPC)
-> **Title** — Commander of the [[rosvania/Wiki/Protectors of the Realm\|Protectors of the Realm]]
-> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3]] (Year 3 [[rosvania/Wiki/Sessions & Campaign/Third Age\|TA]])
+> **Title** — Commander of the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]]
+> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3]] (Year 3 [[rosvania/Wiki/Eras & Timeline/Third Age\|TA]])
 > **Role** — Judge of the Trial of Combat
 
 > *"Vorlag, Commander of the Protectors of the Realm."*
 
-**Vorlag** is the Commander of the [[rosvania/Wiki/Protectors of the Realm\|Protectors of the Realm]], the knightly order sworn to guard against evils seen and unseen. In Year 3 of the [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]], he served as one of three judges of the **Trial of Combat** at the [[rosvania/Wiki/Hold of Five Trials\|Hold of Five Trials]].
+**Vorlag** is the Commander of the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]], the knightly order sworn to guard against evils seen and unseen. In Year 3 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], he served as one of three judges of the **Trial of Combat** at the [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]].
 
 ## Role in the trials
 
-Vorlag judged the brutal 3v3 tournament alongside [[rosvania/Wiki/Josephine Kane\|Josephine Kane]] and [[rosvania/Wiki/Brother Tarsis\|Brother Tarsis]]. His presence marked the moment the Chosen Party drew the attention of the order that may one day accept them into its ranks.
+Vorlag judged the brutal 3v3 tournament alongside [[rosvania/Wiki/Characters/Josephine Kane\|Josephine Kane]] and [[rosvania/Wiki/Brother Tarsis\|Brother Tarsis]]. His presence marked the moment the Chosen Party drew the attention of the order that may one day accept them into its ranks.
 
 ## See also
 
-- [[rosvania/Wiki/Protectors of the Realm\|Protectors of the Realm]] · [[rosvania/Wiki/Hold of Five Trials\|Hold of Five Trials]] · [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]]
+- [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]] · [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] · [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]]
 
 ## Sources
 

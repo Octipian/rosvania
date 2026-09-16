@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -24,13 +24,13 @@
 > **Type** — Human empire (historical)
 > **Alias** — Menor, the first human empire
 > **Location** — The eastern lands of [[rosvania/Wiki/Rosvania\|Rosvania]]
-> **Claim** — The legacy of [[rosvania/Wiki/Solareth\|Solareth]]
-> **Rise** — 11–480 FA ([[rosvania/Wiki/Sessions & Campaign/First Age\|First Age]])
-> **Fall** — 982 FA, by the tidal doom of [[rosvania/Wiki/Erynos\|Erynos]]
+> **Claim** — The legacy of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]]
+> **Rise** — 11–480 FA ([[rosvania/Wiki/Eras & Timeline/First Age\|First Age]])
+> **Fall** — 982 FA, by the tidal doom of [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]]
 
 > *"The human lands east of Durakheim unified under the Solar Empire of Menor, claiming Solareth's legacy."*
 
-The **Solar Empire of Menor** was the first great human empire of [[rosvania/Wiki/Rosvania\|Rosvania]] — the power that claimed the mantle of [[rosvania/Wiki/Solareth\|Solareth]] and, in its pride, provoked the sea-god's judgment.
+The **Solar Empire of Menor** was the first great human empire of [[rosvania/Wiki/Rosvania\|Rosvania]] — the power that claimed the mantle of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]] and, in its pride, provoked the sea-god's judgment.
 
 ## Rise
 
@@ -38,12 +38,12 @@ In the aftermath of the [[rosvania/Wiki/War of Life\|War of Life]], the first em
 
 ## Wars and expansion
 
-- Against the [[rosvania/Wiki/Races/Orcs\|Orcs]]: Menor's expansion was a constant, grinding war against the hordes of [[rosvania/Wiki/Gorthul-Maar\|Gorthul-Maar]].
-- Against the [[rosvania/Wiki/Races/Goblins\|Goblins]]: to fund its armies, Menor's legions pushed south, driving the Goblin tribes from the [[rosvania/Wiki/Emberwastes\|Emberwastes]] — the expulsion that forced the Goblins to found the [[rosvania/Wiki/Goblin Syndicates\|Goblin Syndicates]] in [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]].
+- Against the [[rosvania/Wiki/Races/Orcs\|Orcs]]: Menor's expansion was a constant, grinding war against the hordes of [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]].
+- Against the [[rosvania/Wiki/Races/Goblins\|Goblins]]: to fund its armies, Menor's legions pushed south, driving the Goblin tribes from the [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]] — the expulsion that forced the Goblins to found the [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]] in [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]].
 
 ## The fall
 
-In the [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]] (803–982 FA), Menor waged war against the Aquatic Empires. [[rosvania/Wiki/Erynos\|Erynos]] answered with a divine tsunami; the empire fell soon after, its capital drowned by the returning wave. The collapse opened the east to **[[rosvania/Wiki/Khar'doth the Uniter\|Khar'doth the Uniter]]** and his great Orc horde.
+In the [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]] (803–982 FA), Menor waged war against the Aquatic Empires. [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]] answered with a divine tsunami; the empire fell soon after, its capital drowned by the returning wave. The collapse opened the east to **[[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]]** and his great Orc horde.
 
 ## Legacy
 
@@ -52,7 +52,7 @@ In the [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]] (803–982 FA), Me
 
 ## See also
 
-- [[rosvania/Wiki/Sessions & Campaign/First Age\|First Age]] · [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]] · [[rosvania/Wiki/Erynos\|Erynos]] · [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] · [[rosvania/Wiki/Khar'doth the Uniter\|Khar'doth the Uniter]]
+- [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]] · [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]] · [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]] · [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] · [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]]
 
 ## Sources
 

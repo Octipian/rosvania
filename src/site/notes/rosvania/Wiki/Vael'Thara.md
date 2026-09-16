@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -24,12 +24,12 @@
 > **Titles** — The Star-Singer, the Elven Muse
 > **Type** — Deity ([[rosvania/Wiki/Firstborn Wardens\|Firstborn Warden]])
 > **Domain** — Stars, song, dreams
-> **Affiliation** — [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]], the [[rosvania/Wiki/Elves\|Elves]]
-> **Worshippers** — the Elves of [[rosvania/Wiki/Etharion\|Etharion]] (formerly), the spellweavers of the [[rosvania/Wiki/Alliance of Life\|Alliance of Life]]
+> **Affiliation** — [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]], the [[rosvania/Wiki/Races/Elves\|Elves]]
+> **Worshippers** — the Elves of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] (formerly), the spellweavers of the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]]
 
 > *"Who shaped the dreams of mortals into grace."*
 
-**Vael'Thara** is the **Star-Singer**, the Elven muse — Warden of stars, song, and the shaping of mortal dreams into beauty. The [[rosvania/Wiki/Elves\|Elves]] were born from starlight, and she is their first patron.
+**Vael'Thara** is the **Star-Singer**, the Elven muse — Warden of stars, song, and the shaping of mortal dreams into beauty. The [[rosvania/Wiki/Races/Elves\|Elves]] were born from starlight, and she is their first patron.
 
 ## Nature
 
@@ -37,18 +37,18 @@ Vael'Thara is the whisper of the night sky and the melody beneath all living son
 
 ## History
 
-- In the [[rosvania/Wiki/War of Life\|War of Life]], Vael'Thara guided the Elves of *Vael'Tharion* with her direct voice, making them the [[rosvania/Wiki/Alliance of Life\|Alliance of Life]]'s spellweavers and healers.
+- In the [[rosvania/Wiki/War of Life\|War of Life]], Vael'Thara guided the Elves of *Vael'Tharion* with her direct voice, making them the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]]'s spellweavers and healers.
 - Her guidance gave the Elves their grace and their arts, which they carried into the long ages.
-- When [[rosvania/Wiki/Etharion\|Etharion]] fell under the false radiance of the [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] and waged the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]], the Elves — shamed by their folly — renounced all divine worship. Vael'Thara's voice has not guided them openly since.
+- When [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] fell under the false radiance of the [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] and waged the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]], the Elves — shamed by their folly — renounced all divine worship. Vael'Thara's voice has not guided them openly since.
 
 ## Legacy
 
-- The Elves' renunciation of divine worship after the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] cut them off from their muse; the [[rosvania/Wiki/High Synod\|High Synod]] now debates fate in endless twilight.
-- In the [[rosvania/Wiki/Third Age\|Third Age]], the Elves hear the **Earth-Song** — the song of the world — twisting into a sorrowful dirge as the [[rosvania/Wiki/Doomlands\|Doomlands]] stir.
+- The Elves' renunciation of divine worship after the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] cut them off from their muse; the [[rosvania/Wiki/Factions & Organizations/High Synod\|High Synod]] now debates fate in endless twilight.
+- In the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], the Elves hear the **Earth-Song** — the song of the world — twisting into a sorrowful dirge as the [[rosvania/Wiki/Doomlands\|Doomlands]] stir.
 
 ## See also
 
-- [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/Elves\|Elves]] · [[rosvania/Wiki/Etharion\|Etharion]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]]
+- [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/Races/Elves\|Elves]] · [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]]
 
 ## Sources
 

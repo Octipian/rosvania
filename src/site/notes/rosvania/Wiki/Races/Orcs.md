@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,9 +23,9 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Forged race
 > **Origin** — Forged by [[rosvania/Wiki/Vharuk\|Vharuk]] from wolves and serpents
-> **Homeland** — [[rosvania/Wiki/Gorthul-Maar\|Gorthul-Maar]]
+> **Homeland** — [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]]
 > **Nature** — Brutal; a thirst for dominance
-> **Lords** — [[rosvania/Wiki/Khar'doth the Uniter\|Khar'doth the Uniter]] (past); Warlord [[rosvania/Wiki/Warlord Gorgath\|Gorgath]] (present)
+> **Lords** — [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]] (past); Warlord [[rosvania/Wiki/Characters/Warlord Gorgath\|Gorgath]] (present)
 > **War** — Against the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian border]]
 
 > *"A brutal people consumed by a thirst for dominance."*
@@ -34,12 +34,12 @@ The **Orcs** are the first and fiercest of the forged races — creatures of fir
 
 ## Origin
 
-While the elder races were made in the [[rosvania/Wiki/Unseen Father\|Father's]] image, Vharuk warped the great beasts of the mountains with his cold ambition, forging the Orcs as his mortal army. When their maker fell in the [[rosvania/Wiki/War of Life\|War of Life]], they scattered to the harshest corner of the world — [[rosvania/Wiki/Gorthul-Maar\|Gorthul-Maar]].
+While the elder races were made in the [[rosvania/Wiki/Unseen Father\|Father's]] image, Vharuk warped the great beasts of the mountains with his cold ambition, forging the Orcs as his mortal army. When their maker fell in the [[rosvania/Wiki/War of Life\|War of Life]], they scattered to the harshest corner of the world — [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]].
 
 ## Warlords
 
-- **[[rosvania/Wiki/Khar'doth the Uniter\|Khar'doth the Uniter]]:** the legendary warlord who rallied the tribes after the fall of [[Solar Empire of Menor\|Menor]] and ruled the eastern plains in the early [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] — the golden age of Orc-kind.
-- **Warlord [[rosvania/Wiki/Warlord Gorgath\|Gorgath]]:** the aggressive leader of the Cracking Age, whose audacious raids against the Aurelian border burn still in the [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]].
+- **[[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]]:** the legendary warlord who rallied the tribes after the fall of [[Solar Empire of Menor\|Menor]] and ruled the eastern plains in the early [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] — the golden age of Orc-kind.
+- **Warlord [[rosvania/Wiki/Characters/Warlord Gorgath\|Gorgath]]:** the aggressive leader of the Cracking Age, whose audacious raids against the Aurelian border burn still in the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]].
 
 ## The Third Age
 
@@ -47,7 +47,7 @@ Gorgath's raids are a serious, constant threat on the Aurelian border — a real
 
 ## See also
 
-- [[rosvania/Wiki/Gorthul-Maar\|Gorthul-Maar]] · [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Khar'doth the Uniter\|Khar'doth the Uniter]] · [[rosvania/Wiki/Warlord Gorgath\|Warlord Gorgath]] · [[rosvania/Wiki/Races/Races of Rosvania\|Races of Rosvania]]
+- [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]] · [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]] · [[rosvania/Wiki/Characters/Warlord Gorgath\|Warlord Gorgath]] · [[rosvania/Wiki/Races/Races of Rosvania\|Races of Rosvania]]
 
 ## Sources
 

@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -24,7 +24,7 @@
 > **Type** — Character (historical)
 > **Species** — [[rosvania/Wiki/Races/Elves\|Elf]]
 > **Title** — Queen of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]]
-> **Era** — The [[rosvania/Wiki/Sessions & Campaign/First Age\|First Age]]
+> **Era** — The [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]]
 > **Corruption** — The [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]]
 > **Fate** — Fell in revelation and remorse (War of the Radiant Blades)
 > **Legacy** — The Elves renounced divine worship after her fall
@@ -35,7 +35,7 @@
 
 ## The seduction
 
-Deep beneath the roots of Etharion, a whisper stirred — a fragment of [[rosvania/Wiki/Vharuk\|Vharuk]]'s will calling itself the **Whisperer Beneath the Roots**. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Solareth\|Solareth]]'s glory, it seduced Vael'Nir. Under its spell, Etharion became *Elarith, the Radiant Dominion*, and the Elves marched in holy fire against Men.
+Deep beneath the roots of Etharion, a whisper stirred — a fragment of [[rosvania/Wiki/Vharuk\|Vharuk]]'s will calling itself the **Whisperer Beneath the Roots**. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]]'s glory, it seduced Vael'Nir. Under its spell, Etharion became *Elarith, the Radiant Dominion*, and the Elves marched in holy fire against Men.
 
 ## The fall
 
@@ -43,7 +43,7 @@ The more the Elves beheld their own cruelty in the [[rosvania/Wiki/War of the Ra
 
 ## Legacy
 
-She is remembered with sorrow, not hatred: the proof that even queens can be unmade by false light — and that truth can survive the ruin of those who were deceived. Her memory is why the Elves renounced divine worship, and why the [[rosvania/Wiki/High Synod\|High Synod]] keeps its twilight counsel.
+She is remembered with sorrow, not hatred: the proof that even queens can be unmade by false light — and that truth can survive the ruin of those who were deceived. Her memory is why the Elves renounced divine worship, and why the [[rosvania/Wiki/Factions & Organizations/High Synod\|High Synod]] keeps its twilight counsel.
 
 ## See also
 

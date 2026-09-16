@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,19 +23,19 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Character (player character)
 > **Alias** — The warrior marked by divine scars
-> **Homeland** — [[rosvania/Wiki/Zaporizzia\|Zaporizzia]]
+> **Homeland** — [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]]
 > **Gifts** — Healing magic; transformation into a giant octopus
 > **Party** — The Chosen Party
-> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1]] (Year 1 [[rosvania/Wiki/Sessions & Campaign/Third Age\|TA]])
+> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1]] (Year 1 [[rosvania/Wiki/Eras & Timeline/Third Age\|TA]])
 > **Status** — Active
 
 > *"Kazzimir, a warrior marked by divine scars."*
 
-**Kazzimir** is the warrior of the Chosen Party marked by divine scars — a healer from the wetlands of [[rosvania/Wiki/Zaporizzia\|Zaporizzia]], and a man whose past keeps finding him.
+**Kazzimir** is the warrior of the Chosen Party marked by divine scars — a healer from the wetlands of [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]], and a man whose past keeps finding him.
 
 ## The party's beginning
 
-Kazzimir was drawn into the Chosen Party on the road to [[rosvania/Wiki/Arglaxx\|Arglaxx]]. His healing magic became a double-edged blade in the cursed forest: at the Trial of Will, his healing only strengthened the phantom illusion of [[rosvania/Wiki/Characters/Golgoth\|Golgoth]], feeding it life — until [[rosvania/Wiki/Characters/Floris Flex\|Floris Flex]] discerned and shattered the deceit.
+Kazzimir was drawn into the Chosen Party on the road to [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]]. His healing magic became a double-edged blade in the cursed forest: at the Trial of Will, his healing only strengthened the phantom illusion of [[rosvania/Wiki/Characters/Golgoth\|Golgoth]], feeding it life — until [[rosvania/Wiki/Characters/Floris Flex\|Floris Flex]] discerned and shattered the deceit.
 
 ## The Ashrend Peaks
 
@@ -43,7 +43,7 @@ Suspicion and fatigue clouded Kazzimir's judgment at the [[rosvania/Wiki/Ashrend
 
 ## The Deck
 
-In [[rosvania/Wiki/Lotusden\|Lotusden]], Kazzimir's draw from the [[rosvania/Wiki/Deck of Some Things\|Deck of Some Things]] tore open a rift that cast him into another realm for a **full day** — he returned mid-battle against the [[rosvania/Wiki/Necrotic King\|Necrotic King]], falling from the sky atop the monster itself, and took more wounds from his allies' misfires than from the enemy's blows.
+In [[rosvania/Wiki/Lotusden\|Lotusden]], Kazzimir's draw from the [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]] tore open a rift that cast him into another realm for a **full day** — he returned mid-battle against the [[rosvania/Wiki/Necrotic King\|Necrotic King]], falling from the sky atop the monster itself, and took more wounds from his allies' misfires than from the enemy's blows.
 
 ## The sea
 
@@ -51,7 +51,7 @@ In Year 3, Kazzimir dove into the sea and transformed into a giant octopus — o
 
 ## See also
 
-- [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]] · [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]] · [[rosvania/Wiki/Zaporizzia\|Zaporizzia]] · [[rosvania/Wiki/Deck of Some Things\|Deck of Some Things]]
+- [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]] · [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]] · [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]] · [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]]
 
 ## Sources
 

@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -24,7 +24,7 @@
 > **Type** — Character (player character)
 > **Alias** — The watcher from the shadows
 > **Role** — The unknown quantity of the Chosen Party
-> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1]] (Year 1 [[rosvania/Wiki/Sessions & Campaign/Third Age\|TA]])
+> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1]] (Year 1 [[rosvania/Wiki/Eras & Timeline/Third Age\|TA]])
 > **Allegiance** — Unknown to the lore
 > **Status** — Active
 
@@ -34,16 +34,16 @@
 
 ## The watcher
 
-At the goblin ambush on the road to [[rosvania/Wiki/Arglaxx\|Arglaxx]], Levren watched from the shadows as the battle unfolded — the fourth figure of the age, drawn into [[rosvania/Wiki/Characters/Golgoth\|Golgoth]]'s quest by fate, curiosity, or the promise of redemption.
+At the goblin ambush on the road to [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]], Levren watched from the shadows as the battle unfolded — the fourth figure of the age, drawn into [[rosvania/Wiki/Characters/Golgoth\|Golgoth]]'s quest by fate, curiosity, or the promise of redemption.
 
 ## Cautious and cursed
 
 - In [[rosvania/Wiki/Lotusden\|Lotusden]], where the blacksmith scammed both [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]] and [[rosvania/Wiki/Characters/Gerard\|Gerard]], Levren — more cautious — secured a single weapon worth the gold.
-- From the [[rosvania/Wiki/Deck of Some Things\|Deck of Some Things]], Levren's hand summoned a **vengeful paladin fated to hunt him** — a curse that followed the party to the [[rosvania/Wiki/Swamp of Sh'rek\|Swamp of Sh'rek]], where its paladin appeared from the reeds before a colossal hand of black tentacles dragged it screaming beneath the surface.
+- From the [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]], Levren's hand summoned a **vengeful paladin fated to hunt him** — a curse that followed the party to the [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]], where its paladin appeared from the reeds before a colossal hand of black tentacles dragged it screaming beneath the surface.
 
 ## See also
 
-- [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]] · [[rosvania/Wiki/Deck of Some Things\|Deck of Some Things]] · [[rosvania/Wiki/Characters/Golgoth\|Golgoth]]
+- [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]] · [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]] · [[rosvania/Wiki/Characters/Golgoth\|Golgoth]]
 
 ## Sources
 

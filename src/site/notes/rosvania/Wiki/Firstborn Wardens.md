@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,7 +23,7 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Divine spirits (gods)
 > **Creator** — The [[rosvania/Wiki/Unseen Father\|Unseen Father]]
-> **Loyal** — [[rosvania/Wiki/Solareth\|Solareth]], [[rosvania/Wiki/Namarielle\|Namarielle]], [[rosvania/Wiki/Korran-Dur\|Korran-Dur]], [[rosvania/Wiki/Vael'Thara\|Vael'Thara]], [[rosvania/Wiki/Erynos\|Erynos]], [[rosvania/Wiki/Serathis\|Serathis]], [[rosvania/Wiki/Athera\|Athera]]
+> **Loyal** — [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]], [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]], [[rosvania/Wiki/Realms & Geography/Korran-Dur\|Korran-Dur]], [[rosvania/Wiki/Vael'Thara\|Vael'Thara]], [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]], [[rosvania/Wiki/Realms & Geography/Serathis\|Serathis]], [[rosvania/Wiki/Characters/Athera\|Athera]]
 > **Fallen** — [[rosvania/Wiki/Vharuk\|Vharuk]], the Stillborn Flame
 > **Role** — Guiding and tending creation
 > **First war** — [[rosvania/Wiki/War of Life\|War of Life]]
@@ -38,13 +38,13 @@ Seven remained loyal; one fell.
 
 | Warden | Dominion | Fate |
 | --- | --- | --- |
-| [[rosvania/Wiki/Solareth\|Solareth]] | Sun's Flame, Valor and Dawn | Loyal |
-| [[rosvania/Wiki/Namarielle\|Namarielle]] | Lifebringer, Mother of Renewal | Loyal — her life-essence was corrupted by [[rosvania/Wiki/Vharuk\|Vharuk]] |
-| [[rosvania/Wiki/Korran-Dur\|Korran-Dur]] | Deep Warden, Father of Stone | Loyal |
+| [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]] | Sun's Flame, Valor and Dawn | Loyal |
+| [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]] | Lifebringer, Mother of Renewal | Loyal — her life-essence was corrupted by [[rosvania/Wiki/Vharuk\|Vharuk]] |
+| [[rosvania/Wiki/Realms & Geography/Korran-Dur\|Korran-Dur]] | Deep Warden, Father of Stone | Loyal |
 | [[rosvania/Wiki/Vael'Thara\|Vael'Thara]] | Star-Singer, muse of the Elves | Loyal |
-| [[rosvania/Wiki/Erynos\|Erynos]] | Tidebreaker, Lord of the Seas | Loyal |
-| [[rosvania/Wiki/Serathis\|Serathis]] | Shadowbinder, Keeper of Secrets | Loyal |
-| [[rosvania/Wiki/Athera\|Athera]] | Fateweaver, Oracle of the Divine Pattern | Loyal — co-sealed [[rosvania/Wiki/Vharuk\|Vharuk]] in the [[rosvania/Wiki/Doomlands\|Doomlands]] |
+| [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]] | Tidebreaker, Lord of the Seas | Loyal |
+| [[rosvania/Wiki/Realms & Geography/Serathis\|Serathis]] | Shadowbinder, Keeper of Secrets | Loyal |
+| [[rosvania/Wiki/Characters/Athera\|Athera]] | Fateweaver, Oracle of the Divine Pattern | Loyal — co-sealed [[rosvania/Wiki/Vharuk\|Vharuk]] in the [[rosvania/Wiki/Doomlands\|Doomlands]] |
 | [[rosvania/Wiki/Vharuk\|Vharuk]] | Stillborn Flame, Silence and Rest | **Fallen** — fell to pride and was defeated in the [[rosvania/Wiki/War of Life\|War of Life]] |
 
 ## Role
@@ -53,15 +53,15 @@ Each Warden was granted dominion over a part of the mortal world. They served as
 
 ## The Fall of Vharuk
 
-Of the eight, [[rosvania/Wiki/Vharuk\|Vharuk]] alone could not endure the clamor of mortal life. His pride twisted into the [[rosvania/Wiki/Doctrine of Desolation\|Doctrine of Desolation]], and he declared that *"to cleanse is to save."* He stole [[rosvania/Wiki/Namarielle\|Namarielle]]'s life-essence to birth the [[rosvania/Wiki/The Unmade\|The Unmade]], and forged the [[rosvania/Wiki/Orcs\|Orcs]] and [[rosvania/Wiki/Goblins\|Goblins]] in secret — launching the [[rosvania/Wiki/War of Life\|War of Life]].
+Of the eight, [[rosvania/Wiki/Vharuk\|Vharuk]] alone could not endure the clamor of mortal life. His pride twisted into the [[rosvania/Wiki/Deities & Gods/Doctrine of Desolation\|Doctrine of Desolation]], and he declared that *"to cleanse is to save."* He stole [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]]'s life-essence to birth the [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]], and forged the [[rosvania/Wiki/Races/Orcs\|Orcs]] and [[rosvania/Wiki/Races/Goblins\|Goblins]] in secret — launching the [[rosvania/Wiki/War of Life\|War of Life]].
 
-In the end, [[rosvania/Wiki/Solareth\|Solareth]] struck the final blow, and [[rosvania/Wiki/Athera\|Athera]] and [[rosvania/Wiki/Namarielle\|Namarielle]] sealed [[rosvania/Wiki/Vharuk\|Vharuk]]'s soul beneath the [[rosvania/Wiki/Doomlands\|Doomlands]].
+In the end, [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]] struck the final blow, and [[rosvania/Wiki/Characters/Athera\|Athera]] and [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]] sealed [[rosvania/Wiki/Vharuk\|Vharuk]]'s soul beneath the [[rosvania/Wiki/Doomlands\|Doomlands]].
 
 ## Legacy
 
-- The seven loyal Wardens withdrew after the [[rosvania/Wiki/War of Life\|War of Life]], their power dimmed; the world entered the [[rosvania/Wiki/First Age\|First Age]] under mortal hands.
-- The [[rosvania/Wiki/Elves\|Elves]] once worshipped the Wardens directly; after the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]], they renounced all divine worship.
-- The [[rosvania/Wiki/Protectors of the Realm\|Protectors of the Realm]], the human knightly order, hold that the Wardens still watch — and that one day they shall return.
+- The seven loyal Wardens withdrew after the [[rosvania/Wiki/War of Life\|War of Life]], their power dimmed; the world entered the [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]] under mortal hands.
+- The [[rosvania/Wiki/Races/Elves\|Elves]] once worshipped the Wardens directly; after the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]], they renounced all divine worship.
+- The [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]], the human knightly order, hold that the Wardens still watch — and that one day they shall return.
 
 ## See also
 

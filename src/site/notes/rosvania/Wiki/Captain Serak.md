@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -26,12 +26,12 @@
 > **Vessel** — The spectral *Drownkeeper*
 > **Crew** — Seafolk dripping with seawater and malice
 > **Gift** — Command over monsters of the deep; mind-seizing power
-> **First seen** — [[rosvania/Wiki/Session 3 - The Trial of Combat\|Session 3]] (Year 3 [[rosvania/Wiki/Third Age\|TA]])
-> **Current fate** — Withdrew before [[rosvania/Wiki/Erynos\|Erynos]]; whereabouts unknown
+> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3]] (Year 3 [[rosvania/Wiki/Eras & Timeline/Third Age\|TA]])
+> **Current fate** — Withdrew before [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]]; whereabouts unknown
 
 > *"Captain Serak, the Leviathan Caller, rose from the depths aboard his spectral vessel, The Drownkeeper, surrounded by seafolk dripping with seawater and malice."*
 
-**Captain Serak**, the **Leviathan Caller**, is a dread sea-lord of the [[rosvania/Wiki/Third Age\|Third Age]] — master of a spectral ship, a crew of malice-dripping seafolk, and the monsters of the deep.
+**Captain Serak**, the **Leviathan Caller**, is a dread sea-lord of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] — master of a spectral ship, a crew of malice-dripping seafolk, and the monsters of the deep.
 
 ## The ambush
 
@@ -41,7 +41,7 @@ In Year 3 TA, as the Chosen Party sailed the [[rosvania/Wiki/Good ol' Jacky\|Goo
 
 - Serak seized [[rosvania/Wiki/Kazzimir\|Kazzimir]]'s mind, forcing the transformed octopus-warrior to attack his own allies.
 - His assault should have splintered the Good ol' Jacky — but the cursed brigantine refused to sink. It endured. It suffered. It lived.
-- When the sky split open and **[[rosvania/Wiki/Erynos\|Erynos]]** manifested above the battlefield, Serak immediately withdrew beneath the waves — unwilling to challenge a god.
+- When the sky split open and **[[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]]** manifested above the battlefield, Serak immediately withdrew beneath the waves — unwilling to challenge a god.
 
 ## Status
 
@@ -49,7 +49,7 @@ Serak's fate after his withdrawal is unknown. The Tuzlan Reconquista fleet that 
 
 ## See also
 
-- [[rosvania/Wiki/Erynos\|Erynos]] · [[rosvania/Wiki/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]] · [[rosvania/Wiki/Good ol' Jacky\|Good ol' Jacky]] · [[rosvania/Wiki/Kazzimir\|Kazzimir]]
+- [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]] · [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]] · [[rosvania/Wiki/Good ol' Jacky\|Good ol' Jacky]] · [[rosvania/Wiki/Kazzimir\|Kazzimir]]
 
 ## Sources
 

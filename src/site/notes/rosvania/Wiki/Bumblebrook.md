@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/First Age\|⚜ First Age]] · [[rosvania/Wiki/Second Age\|Second Age]] · [[rosvania/Wiki/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -22,13 +22,13 @@
 > rf-imgslot
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Town (halfling)
-> **Location** — Between [[rosvania/Wiki/Bourgeosy\|Bourgeosy]] and the cursed forest
-> **People** — [[rosvania/Wiki/Halflings\|Halfling]] folk
-> **First seen** — [[rosvania/Wiki/Session 1 - The Chosen Party\|Session 1]] (Year 1 [[rosvania/Wiki/Third Age\|TA]])
+> **Location** — Between [[rosvania/Wiki/Races/Bourgeosy\|Bourgeosy]] and the cursed forest
+> **People** — [[rosvania/Wiki/Races/Halflings\|Halfling]] folk
+> **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1]] (Year 1 [[rosvania/Wiki/Eras & Timeline/Third Age\|TA]])
 
 > *"A haven of warm hearths and foolish hearts."*
 
-**Bumblebrook** is a halfling town of warm hearths and foolish hearts — a place the Chosen Party passed through on their way into the forest of the [[rosvania/Wiki/Cursed Map\|Cursed Map]]'s trial.
+**Bumblebrook** is a halfling town of warm hearths and foolish hearts — a place the Chosen Party passed through on their way into the forest of the [[rosvania/Wiki/Artifacts & Items/Cursed Map\|Cursed Map]]'s trial.
 
 ## Gerard's antics
 
@@ -36,7 +36,7 @@ During the party's rest, [[rosvania/Wiki/Gerard\|Gerard]]'s antics — testing d
 
 ## See also
 
-- [[rosvania/Wiki/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Gerard\|Gerard]] · [[rosvania/Wiki/Halflings\|Halflings]]
+- [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Gerard\|Gerard]] · [[rosvania/Wiki/Races/Halflings\|Halflings]]
 
 ## Sources
 

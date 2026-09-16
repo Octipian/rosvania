@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Sessions & Campaign/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Sessions & Campaign/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Sessions & Campaign/First Age\|⚜ First Age]] · [[rosvania/Wiki/Sessions & Campaign/Second Age\|Second Age]] · [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -24,7 +24,7 @@
 > **Type** — Corrupting presence
 > **Nature** — A fragment of [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]'s will
 > **Location** — Beneath the roots of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]]
-> **Era** — The [[rosvania/Wiki/Sessions & Campaign/First Age\|First Age]]
+> **Era** — The [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]]
 > **Work** — The corruption of Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]]; the Radiant Dominion
 > **Fate** — Consumed by its own deceit (c. 561 FA)
 
@@ -34,7 +34,7 @@ The **Whisperer Beneath the Roots** was a fragment of [[rosvania/Wiki/Deities & 
 
 ## The deceit
 
-In the Age of Empire and Shadow, while the gods were silent, the Whisperer stirred beneath the roots of the Elven realm. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Solareth\|Solareth]]'s glory, it seduced Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]]. Under its spell, Etharion became the *Radiant Dominion*, and the Elves marched in holy fire against Men.
+In the Age of Empire and Shadow, while the gods were silent, the Whisperer stirred beneath the roots of the Elven realm. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]]'s glory, it seduced Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]]. Under its spell, Etharion became the *Radiant Dominion*, and the Elves marched in holy fire against Men.
 
 ## The war and the breaking
 
@@ -43,7 +43,7 @@ Through the twenty-two years of the [[rosvania/Wiki/War of the Radiant Blades\|W
 ## Legacy
 
 - The Elves renounced divine worship, shamed by their folly.
-- The Whisperer proved what the [[rosvania/Wiki/Sessions & Campaign/Third Age\|Third Age]] must remember: that Vharuk's will does not need his body to work ruin — fragments of him walk the world still.
+- The Whisperer proved what the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] must remember: that Vharuk's will does not need his body to work ruin — fragments of him walk the world still.
 
 ## See also
 
