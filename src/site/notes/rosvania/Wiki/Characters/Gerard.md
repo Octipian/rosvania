@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -34,7 +34,7 @@
 
 ## In the party's beginning
 
-Gerard was drawn into the Chosen Party on the road to [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]], where the goblin ambush was ended by [[rosvania/Wiki/Characters/Golgoth\|Golgoth]]'s arrival. His antics became legend early: in [[rosvania/Wiki/Bumblebrook\|Bumblebrook]] — testing doors, pestering locals, and nearly starting a fire — he exasperated [[rosvania/Wiki/Characters/Floris Flex\|Floris Flex]] and drove the party to a tavern where laughter masked unease.
+Gerard was drawn into the Chosen Party on the road to [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]], where the goblin ambush was ended by [[rosvania/Wiki/Characters/Golgoth\|Golgoth]]'s arrival. His antics became legend early: in [[rosvania/Wiki/Realms & Geography/Bumblebrook\|Bumblebrook]] — testing doors, pestering locals, and nearly starting a fire — he exasperated [[rosvania/Wiki/Characters/Floris Flex\|Floris Flex]] and drove the party to a tavern where laughter masked unease.
 
 ## The Trial of Will
 
@@ -42,7 +42,7 @@ At the shrine, it was Gerard who defied the curse directly: he hurled the [[rosv
 
 ## The mountain and the swamp
 
-At the [[rosvania/Wiki/Ashrend Peaks\|Ashrend Peaks]], when the mountain troll's boulder split the earth and cut [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]] off from his comrades, Gerard cast a rope down the slope and pulled him to safety. In the [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]], he fought beside the others against the [[rosvania/Wiki/Necrotic King\|Necrotic King]] — proving the reckless sellsword had become something more.
+At the [[rosvania/Wiki/Realms & Geography/Ashrend Peaks\|Ashrend Peaks]], when the mountain troll's boulder split the earth and cut [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]] off from his comrades, Gerard cast a rope down the slope and pulled him to safety. In the [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]], he fought beside the others against the [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]] — proving the reckless sellsword had become something more.
 
 ## The Trial of Combat
 

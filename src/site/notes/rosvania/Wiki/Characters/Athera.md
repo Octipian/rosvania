@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -20,12 +20,12 @@
 > [!infobox]
 > # Athera
 > rf-imgslot
-> ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
+> ![Athera.png\|180](/img/user/images/Athera.png)
 > **Titles** — The Fateweaver, Oracle of the Divine Pattern
-> **Type** — Deity ([[rosvania/Wiki/Firstborn Wardens\|Firstborn Warden]])
+> **Type** — Deity ([[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Warden]])
 > **Domain** — Destiny, prophecy, the divine pattern
-> **Affiliation** — [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]]
-> **Notable acts** — Binding [[rosvania/Wiki/Vharuk\|Vharuk]] beneath the [[rosvania/Wiki/Doomlands\|Doomlands]]
+> **Affiliation** — [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]]
+> **Notable acts** — Binding [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] beneath the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]
 
 > *"Who alone glimpsed the threads of destiny."*
 
@@ -33,12 +33,12 @@
 
 ## Nature
 
-Athera sees the pattern of the world entire: past, present, and the many possible futures. Her knowledge is a burden as much as a gift — she saw the fall of [[rosvania/Wiki/Vharuk\|Vharuk]] before it came to pass, and could not prevent it.
+Athera sees the pattern of the world entire: past, present, and the many possible futures. Her knowledge is a burden as much as a gift — she saw the fall of [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] before it came to pass, and could not prevent it.
 
 ## History
 
 - In the [[rosvania/Wiki/War of Life\|War of Life]], Athera's sight guided the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]] to its final victory.
-- At the war's end, it was Athera and [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]] who bound [[rosvania/Wiki/Vharuk\|Vharuk]]'s shattered soul beneath the [[rosvania/Wiki/Doomlands\|Doomlands]], sealing his prison in eternal night.
+- At the war's end, it was Athera and [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]] who bound [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]'s shattered soul beneath the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]], sealing his prison in eternal night.
 - The seals she forged held for ages — until the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]]'s **Cracking Age**, when they began to weaken, and the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] dawned with the breaking of the First Seal.
 
 ## Legacy
@@ -48,7 +48,7 @@ Athera sees the pattern of the world entire: past, present, and the many possibl
 
 ## See also
 
-- [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/Doomlands\|Doomlands]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]]
+- [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]]
 
 ## Sources
 

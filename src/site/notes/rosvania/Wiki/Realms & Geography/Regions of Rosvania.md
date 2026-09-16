@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -25,8 +25,8 @@ An index of the known lands of [[rosvania/Wiki/Rosvania\|Rosvania]], from the fr
 
 ## The Far North
 
-- **[[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]** — the frozen prison of [[rosvania/Wiki/Vharuk\|Vharuk]]; origin of the Breath of Vharuk, the devouring blizzard of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]].
-- **[[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]]** — the fallen fortress in the far north where [[rosvania/Wiki/Vharuk\|Vharuk]] was defeated.
+- **[[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]** — the frozen prison of [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]; origin of the Breath of Vharuk, the devouring blizzard of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]].
+- **[[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]]** — the fallen fortress in the far north where [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] was defeated.
 - **[[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]]** — the north-central mountains; sealed halls of the [[rosvania/Wiki/Races/Dwarves\|Dwarves]].
 
 ## The Northwest
@@ -35,7 +35,7 @@ An index of the known lands of [[rosvania/Wiki/Rosvania\|Rosvania]], from the fr
 
 ## The Center
 
-- **[[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]]** — the golden empire of Men, ruled from [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]] by [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]].
+- **[[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]]** — the golden empire of Men, ruled from [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]] by [[rosvania/Wiki/Rulers/Emperor Taryon V\|Emperor Taryon V]].
 - **[[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]]** — capital of the Dominion, with a whisper of hidden counsel in its halls.
 
 ## The Southwest
@@ -56,7 +56,7 @@ An index of the known lands of [[rosvania/Wiki/Rosvania\|Rosvania]], from the fr
 ## The Wetlands
 
 - **[[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]]** — Kazzimir's swampy homeland.
-- **[[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]]** — the plague-ridden mire, cradle of the [[rosvania/Wiki/Necrotic King\|Necrotic King]].
+- **[[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]]** — the plague-ridden mire, cradle of the [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]].
 
 ## Notable Cities & Sites
 

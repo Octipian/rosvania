@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -22,14 +22,14 @@
 > rf-imgslot
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Character (NPC rogue)
-> **Location** — [[rosvania/Wiki/Lotusden\|Lotusden]]
+> **Location** — [[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]]
 > **First seen** — [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2]] (Year 2 [[rosvania/Wiki/Eras & Timeline/Third Age\|TA]])
 > **Met** — The Chosen Party of [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]], [[rosvania/Wiki/Characters/Gerard\|Gerard]], [[rosvania/Wiki/Characters/Levren\|Levren]]
 > **Role** — Guide through the City of Lotuses
 
 > *"Tarres Veylen, a rogue who guided them to a blacksmith said to deal in strange artifacts."*
 
-**Tarres Veylen** is a rogue of [[rosvania/Wiki/Lotusden\|Lotusden]] who guided the Chosen Party through the tiefling city of crimson lanterns in Year 2 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]].
+**Tarres Veylen** is a rogue of [[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]] who guided the Chosen Party through the tiefling city of crimson lanterns in Year 2 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]].
 
 ## Role
 
@@ -39,7 +39,7 @@ Tarres's own allegiance, and whether the ambush that followed was fortune or des
 
 ## See also
 
-- [[rosvania/Wiki/Lotusden\|Lotusden]] · [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]]
+- [[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]] · [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]]
 
 ## Sources
 

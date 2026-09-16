@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -25,16 +25,16 @@
 > **Alias** — The black plains
 > **Location** — The northeast of [[rosvania/Wiki/Rosvania\|Rosvania]]
 > **People** — The [[rosvania/Wiki/Races/Orcs\|Orcs]]
-> **History** — Forged from the beasts of the mountains by [[rosvania/Wiki/Vharuk\|Vharuk]]
+> **History** — Forged from the beasts of the mountains by [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]
 > **Lords** — [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]] (past); Warlord [[rosvania/Wiki/Characters/Warlord Gorgath\|Gorgath]] (present)
 
 > *"A brutal people consumed by a thirst for dominance who would make their home in the northeastern lands of Gorthul-Maar."*
 
-**Gorthul-Maar** is the black northeastern plain that is the ancestral home of the [[rosvania/Wiki/Races/Orcs\|Orcs]] — the land to which they retreated after the fall of [[rosvania/Wiki/Vharuk\|Vharuk]], and from which they have twice risen to challenge the world.
+**Gorthul-Maar** is the black northeastern plain that is the ancestral home of the [[rosvania/Wiki/Races/Orcs\|Orcs]] — the land to which they retreated after the fall of [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]], and from which they have twice risen to challenge the world.
 
 ## History
 
-- The Orcs were forged by [[rosvania/Wiki/Vharuk\|Vharuk]] from the great wolves and serpents of the mountains; after his defeat in the [[rosvania/Wiki/War of Life\|War of Life]], they scattered to Gorthul-Maar, the harshest corner of the world.
+- The Orcs were forged by [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] from the great wolves and serpents of the mountains; after his defeat in the [[rosvania/Wiki/War of Life\|War of Life]], they scattered to Gorthul-Maar, the harshest corner of the world.
 - In the [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]], the tribes were united by **[[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]]**, who conquered the fallen east after the [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]] and ruled the plains for a golden age of Orc-kind.
 - In the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]], the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] pushed the hordes back north of the [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]].
 - In the Cracking Age, Warlord **[[rosvania/Wiki/Characters/Warlord Gorgath\|Gorgath]]** rose and began audacious raids against the Aurelian border — a threat that still burns in the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]].
@@ -45,7 +45,7 @@ Gorgath's raids are a serious, constant threat on the borders of the [[rosvania/
 
 ## See also
 
-- [[rosvania/Wiki/Races/Orcs\|Orcs]] · [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]] · [[rosvania/Wiki/Characters/Warlord Gorgath\|Warlord Gorgath]] · [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]] · [[rosvania/Wiki/Vharuk\|Vharuk]]
+- [[rosvania/Wiki/Races/Orcs\|Orcs]] · [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]] · [[rosvania/Wiki/Characters/Warlord Gorgath\|Warlord Gorgath]] · [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]
 
 ## Sources
 

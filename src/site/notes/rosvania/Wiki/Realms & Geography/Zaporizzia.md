@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,13 +23,13 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Region
 > **Location** — The wetlands of [[rosvania/Wiki/Rosvania\|Rosvania]]
-> **People** — [[rosvania/Wiki/Races/Men\|Men]]; homeland of [[rosvania/Wiki/Kazzimir\|Kazzimir]]
+> **People** — [[rosvania/Wiki/Races/Men\|Men]]; homeland of [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]]
 > **Also nearby** — The [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]]
 > **Notable** — Return of the hollow-eyed wizard (Year 2 [[rosvania/Wiki/Eras & Timeline/Third Age\|TA]])
 
 > *"The survivors, battered and mud-soaked, returned to Kazzimir's homeland (Zaporizzia)."*
 
-**Zaporizzia** is the marshy homeland of [[rosvania/Wiki/Kazzimir\|Kazzimir]], the warrior of the Chosen Party marked by divine scars. Little is recorded of its founding; the lore remembers it as the place of the party's first turnings.
+**Zaporizzia** is the marshy homeland of [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]], the warrior of the Chosen Party marked by divine scars. Little is recorded of its founding; the lore remembers it as the place of the party's first turnings.
 
 ## Known events
 
@@ -38,7 +38,7 @@
 
 ## See also
 
-- [[rosvania/Wiki/Kazzimir\|Kazzimir]] · [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]]
+- [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]] · [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]]
 
 ## Sources
 

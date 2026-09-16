@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,7 +23,7 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Lesser kindred
 > **Origin** — Unrecorded in the lore
-> **Homelands** — Cities such as [[rosvania/Wiki/Lotusden\|Lotusden]]
+> **Homelands** — Cities such as [[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]]
 > **Nature** — Crimson lanterns and thieves' honor
 > **Known places** — Lotusden, the City of Lotuses
 
@@ -33,11 +33,11 @@ The **Tieflings** are a sharp-edged people of [[rosvania/Wiki/Rosvania\|Rosvania
 
 ## Known places
 
-- **[[rosvania/Wiki/Lotusden\|Lotusden]]** — the City of Lotuses, where the Chosen Party met [[rosvania/Wiki/Characters/Tarres Veylen\|Tarres Veylen]] and acquired the [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]] in Year 2 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]].
+- **[[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]]** — the City of Lotuses, where the Chosen Party met [[rosvania/Wiki/Characters/Tarres Veylen\|Tarres Veylen]] and acquired the [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]] in Year 2 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]].
 
 ## See also
 
-- [[rosvania/Wiki/Lotusden\|Lotusden]] · [[rosvania/Wiki/Races/Races of Rosvania\|Races of Rosvania]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]]
+- [[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]] · [[rosvania/Wiki/Races/Races of Rosvania\|Races of Rosvania]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]]
 
 ## Sources
 

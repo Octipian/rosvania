@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -30,7 +30,7 @@
 
 > *"Thus ended the First Age — in salt, ruin, silence, and the triumphant war-cries of the Orcs."*
 
-The **First Age** (0–982 FA), called the **Age of Gods and Empires**, began in the aftermath of the [[rosvania/Wiki/War of Life\|War of Life]] and ended in the drowning of the first mortal empires. It is the age in which the [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] withdrew and humanity first reached for the heavens — and fell.
+The **First Age** (0–982 FA), called the **Age of Gods and Empires**, began in the aftermath of the [[rosvania/Wiki/War of Life\|War of Life]] and ended in the drowning of the first mortal empires. It is the age in which the [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]] withdrew and humanity first reached for the heavens — and fell.
 
 ## 0–10 FA — The War of Life's End
 
@@ -42,9 +42,9 @@ From ruin rose the Men of Tuzland and, east of the Tuzland plains, the first hum
 
 ## 481–802 FA — The Age of Empire and Shadow
 
-With the gods silent, mortals proclaimed themselves divine. The [[Solar Empire of Menor\|Solar Empire of Menor]] spread its banners east, driving the Orcs into the [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]] and enslaving the Goblin tribes — who turned from open war to shadow, founding the [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]] in [[rosvania/Wiki/Vael'nore\|Vael'nore]].
+With the gods silent, mortals proclaimed themselves divine. The [[Solar Empire of Menor\|Solar Empire of Menor]] spread its banners east, driving the Orcs into the [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]] and enslaving the Goblin tribes — who turned from open war to shadow, founding the [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]] in [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]].
 
-In this age the greatest deceit since [[rosvania/Wiki/Vharuk\|Vharuk]] took root: the [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]], a fragment of the fallen god's will, seduced Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]] of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]]. Her realm became the Radiant Dominion, and its Elves marched in holy fire against Men in the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] (539–561 FA). When Vael'Nir fell, struck down in revelation and remorse, the curse broke — and the Elves renounced divine worship forever.
+In this age the greatest deceit since [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] took root: the [[rosvania/Wiki/Deities & Gods/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]], a fragment of the fallen god's will, seduced Queen [[rosvania/Wiki/Realms & Geography/Vael'Nir\|Vael'Nir]] of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]]. Her realm became the Radiant Dominion, and its Elves marched in holy fire against Men in the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] (539–561 FA). When Vael'Nir fell, struck down in revelation and remorse, the curse broke — and the Elves renounced divine worship forever.
 
 ## 803–982 FA — The Shattered Sea War
 

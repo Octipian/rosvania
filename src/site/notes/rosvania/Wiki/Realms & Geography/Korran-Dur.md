@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -20,11 +20,11 @@
 > [!infobox]
 > # Korran-Dur
 > rf-imgslot
-> ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
+> ![Korran-Dur.png\|180](/img/user/images/Korran-Dur.png)
 > **Titles** — The Deep Warden, Father of Stone
-> **Type** — Deity ([[rosvania/Wiki/Firstborn Wardens\|Firstborn Warden]])
+> **Type** — Deity ([[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Warden]])
 > **Domain** — Stone, mountains, the hidden forges
-> **Affiliation** — [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]], the [[rosvania/Wiki/Races/Dwarves\|Dwarves]] of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]]
+> **Affiliation** — [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]], the [[rosvania/Wiki/Races/Dwarves\|Dwarves]] of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]]
 > **Notable acts** — Forging light-forged steel with his children
 
 > *"Guardian of the Dwarves and the hidden forges."*
@@ -37,7 +37,7 @@ Korran-Dur is the mountain-heart from which the Dwarves were born by the Third D
 
 ## History
 
-- In the [[rosvania/Wiki/War of Life\|War of Life]], Korran-Dur guided the [[rosvania/Wiki/Races/Dwarves\|Dwarves]] of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] to forge **[[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|light-forged steel]]** — the only metal that could wound [[rosvania/Wiki/Vharuk\|Vharuk]]'s kin, the [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]].
+- In the [[rosvania/Wiki/War of Life\|War of Life]], Korran-Dur guided the [[rosvania/Wiki/Races/Dwarves\|Dwarves]] of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] to forge **[[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|light-forged steel]]** — the only metal that could wound [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]'s kin, the [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]].
 - The Dwarves of the war were the Alliance's great armorers, arming the hosts of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]].
 - After the war he withdrew; his children sealed the gates of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] in later ages and toiled on without him.
 
@@ -48,7 +48,7 @@ Korran-Dur is the mountain-heart from which the Dwarves were born by the Third D
 
 ## See also
 
-- [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/Races/Dwarves\|Dwarves]] · [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] · [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Metals of Rosvania]]
+- [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/Races/Dwarves\|Dwarves]] · [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] · [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Metals of Rosvania]]
 
 ## Sources
 

@@ -10,7 +10,7 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
 > <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
@@ -20,14 +20,14 @@
 > [!infobox]
 > # Vharuk
 > rf-imgslot
-> ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
+> ![Vharuk.png\|180](/img/user/images/Vharuk.png)
 > **Titles** — The Stillborn Flame; Warden of Silence and Rest
 > **Type** — Deity ([[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Warden]]), **fallen**
 > **Domain** — Silence, rest, stillness between worlds
 > **Heresy** — The [[rosvania/Wiki/Deities & Gods/Doctrine of Desolation\|Doctrine of Desolation]]
 > **Works** — The [[rosvania/Wiki/Races/Orcs\|Orcs]], the [[rosvania/Wiki/Races/Goblins\|Goblins]], the [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]]
 > **Agents** — [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]] (the Hidden Witness), the [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]]
-> **Prison** — The [[rosvania/Wiki/Doomlands\|Doomlands]], sealed by [[rosvania/Wiki/Characters/Athera\|Athera]] and [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]]
+> **Prison** — The [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]], sealed by [[rosvania/Wiki/Characters/Athera\|Athera]] and [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]]
 > **Status** — First Seal broken; stirring (Year 3 TA)
 
 > *"To cleanse is to save."* — Vharuk, proclaiming the [[rosvania/Wiki/Deities & Gods/Doctrine of Desolation\|Doctrine of Desolation]]
@@ -52,13 +52,13 @@ This heresy he called the **[[rosvania/Wiki/Deities & Gods/Doctrine of Desolatio
 
 When his corruption was discovered, Vharuk declared war upon all life, proclaiming that *"to cleanse is to save."* The [[rosvania/Wiki/Deities & Gods/Unseen Father\|Unseen Father]], heartbroken, withdrew from the world, decreeing that His children must defend what He had given them.
 
-The [[rosvania/Wiki/War of Life\|War of Life]] raged across the heavens. In the year 10 FA, the hosts of the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]] stormed the [[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]] in the far north. **[[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]] struck the final blow, shattering Vharuk's body** — but his soul was bound, not destroyed. [[rosvania/Wiki/Characters/Athera\|Athera]] and [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]] sealed him beneath the [[rosvania/Wiki/Doomlands\|Doomlands]], freezing his prison in eternal night.
+The [[rosvania/Wiki/War of Life\|War of Life]] raged across the heavens. In the year 10 FA, the hosts of the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]] stormed the [[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]] in the far north. **[[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]] struck the final blow, shattering Vharuk's body** — but his soul was bound, not destroyed. [[rosvania/Wiki/Characters/Athera\|Athera]] and [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]] sealed him beneath the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]], freezing his prison in eternal night.
 
 ## The Dreaming God
 
 Imprisoned but not dead, Vharuk dreams and works through remnants of his will:
 
-- **The Whisperer Beneath the Roots** ([[rosvania/Wiki/Eras & Timeline/First Age\|First Age]]) — a fragment of his mind that seduced Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]], deceiving the [[rosvania/Wiki/Races/Elves\|Elves]] into transforming their kingdom into the fanatic **Radiant Dominion**. It was consumed by its own deceit.
+- **The Whisperer Beneath the Roots** ([[rosvania/Wiki/Eras & Timeline/First Age\|First Age]]) — a fragment of his mind that seduced Queen [[rosvania/Wiki/Realms & Geography/Vael'Nir\|Vael'Nir]], deceiving the [[rosvania/Wiki/Races/Elves\|Elves]] into transforming their kingdom into the fanatic **Radiant Dominion**. It was consumed by its own deceit.
 - **[[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]]** — his "right hand," a mortal fragment of his will who walks among kings as the Hidden Witness, measuring mortal hearts before Desolation awakens.
 - **The [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]]** — reborn from the mists of the old war in the [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]], a herald of the coming silence.
 
@@ -69,11 +69,11 @@ In the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]], the **Seals of 
 - **Immortality:** his body was shattered, yet his essence could not be slain.
 - **Corruption of life:** she can warp living things into mockeries — the Orcs, the Goblins, the Unmade.
 - **Influence beyond imprisonment:** fragments of his will (the Whisperer, the Hidden Witness) act in the world while he sleeps.
-- **Symbolism:** his is the cold lightlessness of the [[rosvania/Wiki/Doomlands\|Doomlands]]; his breath is the blizzard that devours light and life.
+- **Symbolism:** his is the cold lightlessness of the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]; his breath is the blizzard that devours light and life.
 
 ## See also
 
-- [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Doctrine of Desolation\|Doctrine of Desolation]] · [[rosvania/Wiki/Doomlands\|Doomlands]] · [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]] · [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]] · [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]
+- [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Doctrine of Desolation\|Doctrine of Desolation]] · [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] · [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]] · [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]] · [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]
 
 ## Sources
 

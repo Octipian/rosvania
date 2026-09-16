@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -24,16 +24,16 @@
 > **Type** — War
 > **Period** — 539–561 FA ([[rosvania/Wiki/Eras & Timeline/First Age\|First Age]])
 > **Belligerents** — The Radiant Dominion ([[rosvania/Wiki/Races/Elves\|Elves]]) vs. humankind
-> **Cause** — The [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]], a fragment of [[rosvania/Wiki/Vharuk\|Vharuk]]'s will
+> **Cause** — The [[rosvania/Wiki/Deities & Gods/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]], a fragment of [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]'s will
 > **Outcome** — The curse breaks; the [[rosvania/Wiki/Races/Elves\|Elves]] renounce divine worship
 
 > *"A slaughter of purity and faith. Fields burned. Forests died. The rivers ran red with the blood of both kin and foe."*
 
-The **War of the Radiant Blades** (539–561 FA) was a war waged by the Elven realm of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] against humankind, born of the greatest deceit since [[rosvania/Wiki/Vharuk\|Vharuk]] himself — the false radiance of the [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]].
+The **War of the Radiant Blades** (539–561 FA) was a war waged by the Elven realm of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] against humankind, born of the greatest deceit since [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] himself — the false radiance of the [[rosvania/Wiki/Deities & Gods/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]].
 
 ## The deceit
 
-Deep beneath the roots of Etharion, a whisper stirred — a fragment of Vharuk's will calling itself the **Whisperer Beneath the Roots**. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]]'s glory, it seduced Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]]. Under its spell, Etharion was refashioned as the **Radiant Dominion**, and its Elves marched in holy fire against Men.
+Deep beneath the roots of Etharion, a whisper stirred — a fragment of Vharuk's will calling itself the **Whisperer Beneath the Roots**. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]]'s glory, it seduced Queen [[rosvania/Wiki/Realms & Geography/Vael'Nir\|Vael'Nir]]. Under its spell, Etharion was refashioned as the **Radiant Dominion**, and its Elves marched in holy fire against Men.
 
 ## The war
 
@@ -41,7 +41,7 @@ The war was a slaughter of purity and faith — twenty-two years of burned field
 
 ## The breaking
 
-When Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]] fell — struck down in revelation and remorse — the curse broke. The Elves renounced divine worship, shamed by their folly. The Whisperer was consumed by its own deceit. Only silence remained.
+When Queen [[rosvania/Wiki/Realms & Geography/Vael'Nir\|Vael'Nir]] fell — struck down in revelation and remorse — the curse broke. The Elves renounced divine worship, shamed by their folly. The Whisperer was consumed by its own deceit. Only silence remained.
 
 ## Aftermath
 
@@ -50,7 +50,7 @@ When Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]] fell — struck down in revelati
 
 ## See also
 
-- [[Queen Vael'Nir\|Queen Vael'Nir]] · [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] · [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] · [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]] · [[rosvania/Wiki/Vharuk\|Vharuk]]
+- [[Queen Vael'Nir\|Queen Vael'Nir]] · [[rosvania/Wiki/Deities & Gods/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] · [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] · [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]
 
 ## Sources
 

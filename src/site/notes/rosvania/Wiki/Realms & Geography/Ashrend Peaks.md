@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -32,7 +32,7 @@ The **Ashrend Peaks** are the mountain heights crossed by the Chosen Party in Ye
 
 ## The ambush and the vengeance
 
-Beneath a moonless sky, the party met four goblins on the pass. Suspicion and fatigue clouded [[rosvania/Wiki/Kazzimir\|Kazzimir]]'s judgment; blades were drawn before words. When the skirmish ended, only one goblin escaped into the dark.
+Beneath a moonless sky, the party met four goblins on the pass. Suspicion and fatigue clouded [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]]'s judgment; blades were drawn before words. When the skirmish ended, only one goblin escaped into the dark.
 
 That night vengeance came: the survivor returned with a horde — dozens of kin and a mountain troll large enough to shake the cliffs. The beast hurled a boulder that split the earth, cutting Kazzimir off from his comrades. As he fled, an **Eldritch Tree Guardian** rose from the woods and collided with the troll, hurling boulders and shaking the valley. The party escaped with neither horses nor sleep.
 

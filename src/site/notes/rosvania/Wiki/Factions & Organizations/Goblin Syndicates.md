@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -22,7 +22,7 @@
 > rf-imgslot
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Slave-trading syndicates
-> **Location** — [[rosvania/Wiki/Vael'nore\|Vael'nore]] and the shadow economy of [[rosvania/Wiki/Rosvania\|Rosvania]]
+> **Location** — [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]] and the shadow economy of [[rosvania/Wiki/Rosvania\|Rosvania]]
 > **Founding** — [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]], after the expulsion from the [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]]
 > **Members** — [[rosvania/Wiki/Races/Goblins\|Goblins]] (merchant-slavers)
 > **Known figures** — Grak the Chain-Master, the lanista Batrok
@@ -35,11 +35,11 @@ The **Goblin Syndicates** are the merchant-slaver organizations of the [[rosvani
 
 ## Origins
 
-Driven from their ancestral home in the [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]] by the expansion of the [[Solar Empire of Menor\|Solar Empire of Menor]], the Goblins retreated to the forests of [[rosvania/Wiki/Vael'nore\|Vael'nore]]. There they learned the lesson of the age: those who lose by the sword must win by the chain. Under the leadership of figures like **Grak the Chain-Master**, they formed the first Syndicates.
+Driven from their ancestral home in the [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]] by the expansion of the [[Solar Empire of Menor\|Solar Empire of Menor]], the Goblins retreated to the forests of [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]]. There they learned the lesson of the age: those who lose by the sword must win by the chain. Under the leadership of figures like **Grak the Chain-Master**, they formed the first Syndicates.
 
 ## The trade
 
-- **Slavery:** the Syndicates' core enterprise — selling misery like gold, from the slave-pens of [[rosvania/Wiki/Vael'nore\|Vael'nore]] to markets across the continent.
+- **Slavery:** the Syndicates' core enterprise — selling misery like gold, from the slave-pens of [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]] to markets across the continent.
 - **Gladiators:** in the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]]'s Quiet Reign, the lanista **Batrok** rose to prominence by providing gladiators for the arenas of the continent — bloodsport the Syndicates fed as freely as the slave trade itself.
 
 ## The Third Age
@@ -48,7 +48,7 @@ The Syndicates flourish in the shadows of the bright merchant cities of the east
 
 ## See also
 
-- [[rosvania/Wiki/Races/Goblins\|Goblins]] · [[rosvania/Wiki/Vael'nore\|Vael'nore]] · [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]] · [[Solar Empire of Menor\|Solar Empire of Menor]]
+- [[rosvania/Wiki/Races/Goblins\|Goblins]] · [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]] · [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]] · [[Solar Empire of Menor\|Solar Empire of Menor]]
 
 ## Sources
 

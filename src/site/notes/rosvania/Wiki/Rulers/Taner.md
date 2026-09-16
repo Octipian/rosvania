@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -42,4 +42,4 @@ His descendants would carry on the name through the golden age of the Concord �
 
 ## See also
 
-- [[rosvania/Wiki/Rulers/Tuzlak the Great King\|Tuzlak the Great King]] · [[rosvania/Wiki/Rulers/The Big G\|The Big G]] · [[rosvania/Wiki/Rulers/Taner IV\|Taner IV]] · [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Tuzland and the Whispering Sands]] · [[rosvania/Wiki/Rulers of Rosvania\|Rulers of Rosvania]] · [[rosvania/Wiki/Rosvania Navigation\|Rosvania Navigation]]
+- [[rosvania/Wiki/Rulers/Tuzlak the Great King\|Tuzlak the Great King]] · [[rosvania/Wiki/Rulers/The Big G\|The Big G]] · [[rosvania/Wiki/Rulers/Taner IV\|Taner IV]] · [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Tuzland and the Whispering Sands]] · [[rosvania/Wiki/Rulers/Rulers of Rosvania\|Rulers of Rosvania]] · [[rosvania/Wiki/Rosvania Navigation\|Rosvania Navigation]]

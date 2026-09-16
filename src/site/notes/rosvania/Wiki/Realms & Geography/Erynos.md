@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -20,11 +20,11 @@
 > [!infobox]
 > # Erynos
 > rf-imgslot
-> ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
+> ![Erynos.png\|180](/img/user/images/Erynos.png)
 > **Titles** — The Tidebreaker, Lord of the Seas
-> **Type** — Deity ([[rosvania/Wiki/Firstborn Wardens\|Firstborn Warden]])
+> **Type** — Deity ([[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Warden]])
 > **Domain** — Ocean, tide, storm
-> **Affiliation** — [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]]
+> **Affiliation** — [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]]
 > **Notable acts** — The divine tsunami of the [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]]; the annihilation of the Tuzlan Reconquista fleet (Year 3 TA)
 
 > *"Whose wrath and mercy flowed as one."*
@@ -38,7 +38,7 @@ Erynos is the ocean itself: patient, vast, nourishing in calm and annihilating i
 ## History
 
 - **The [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]] (803–982 FA):** When Old Tuzland and [[Solar Empire of Menor\|Menor]] waged war against the Aquatic Empires out of greed, Erynos rose in wrath and cast a divine tsunami — erasing half of Tuzland's coast, creating the [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Whispering Sands]], and drowning [[Solar Empire of Menor\|Menor]]'s capital by the returning wave. The collapse of Menor opened the east to [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]].
-- **Year 3 TA (the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]):** Erynos manifested above the sea during the party's clash with [[rosvania/Wiki/Captain Serak\|Captain Serak]], the Leviathan Caller. Serak withdrew at once, unwilling to challenge a god. The Tuzlan fleet behind him — fifty ships screaming of a holy *Reconquista* — fired into the storm; Erynos annihilated them all in moments, leaving a graveyard of burning timbers and silence.
+- **Year 3 TA (the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]):** Erynos manifested above the sea during the party's clash with [[rosvania/Wiki/Characters/Captain Serak\|Captain Serak]], the Leviathan Caller. Serak withdrew at once, unwilling to challenge a god. The Tuzlan fleet behind him — fifty ships screaming of a holy *Reconquista* — fired into the storm; Erynos annihilated them all in moments, leaving a graveyard of burning timbers and silence.
 
 ## Legacy
 
@@ -47,7 +47,7 @@ Erynos is the ocean itself: patient, vast, nourishing in calm and annihilating i
 
 ## See also
 
-- [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]] · [[rosvania/Wiki/Captain Serak\|Captain Serak]] · [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Tuzland and the Whispering Sands]]
+- [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]] · [[rosvania/Wiki/Characters/Captain Serak\|Captain Serak]] · [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Tuzland and the Whispering Sands]]
 
 ## Sources
 

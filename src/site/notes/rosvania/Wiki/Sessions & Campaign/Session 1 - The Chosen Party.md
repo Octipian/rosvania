@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,20 +23,20 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Session log
 > **Year** — 1 [[rosvania/Wiki/Eras & Timeline/Third Age\|TA]]
-> **Party** — [[rosvania/Wiki/Floris Flex\|Floris Flex]], [[rosvania/Wiki/Gerard\|Gerard]], [[rosvania/Wiki/Kazzimir\|Kazzimir]], [[rosvania/Wiki/Levren\|Levren]]
-> **Key figures** — [[rosvania/Wiki/Golgoth\|Golgoth]]
-> **Places** — The road to [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]] · [[rosvania/Wiki/Races/Bourgeosy\|Bourgeosy]] · [[rosvania/Wiki/Bumblebrook\|Bumblebrook]] · the ancient shrine
+> **Party** — [[rosvania/Wiki/Characters/Floris Flex\|Floris Flex]], [[rosvania/Wiki/Characters/Gerard\|Gerard]], [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]], [[rosvania/Wiki/Characters/Levren\|Levren]]
+> **Key figures** — [[rosvania/Wiki/Characters/Golgoth\|Golgoth]]
+> **Places** — The road to [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]] · [[rosvania/Wiki/Races/Bourgeosy\|Bourgeosy]] · [[rosvania/Wiki/Realms & Geography/Bumblebrook\|Bumblebrook]] · the ancient shrine
 > **Items** — The [[rosvania/Wiki/Artifacts & Items/Cursed Map\|Cursed Map]]
 
 > *"A Fateful Encounter: Upon the wind-swept road to Arglaxx, three wanderers... found themselves drawn together amid a goblin ambush."*
 
-The first session of the campaign — the gathering of the Chosen Party in Year 1 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], when the First Seal of the [[rosvania/Wiki/Doomlands\|Doomlands]] had just broken.
+The first session of the campaign — the gathering of the Chosen Party in Year 1 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], when the First Seal of the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] had just broken.
 
 ## A fateful encounter
 
-Upon the wind-swept road to [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]], three wanderers — [[rosvania/Wiki/Floris Flex\|Floris Flex]], scholar of forbidden arts; [[rosvania/Wiki/Gerard\|Gerard]], reckless sellsword; and [[rosvania/Wiki/Kazzimir\|Kazzimir]], warrior marked by divine scars — were drawn together amid a goblin ambush. From the shadows watched [[rosvania/Wiki/Levren\|Levren]], whose allegiance none yet knew.
+Upon the wind-swept road to [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]], three wanderers — [[rosvania/Wiki/Characters/Floris Flex\|Floris Flex]], scholar of forbidden arts; [[rosvania/Wiki/Characters/Gerard\|Gerard]], reckless sellsword; and [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]], warrior marked by divine scars — were drawn together amid a goblin ambush. From the shadows watched [[rosvania/Wiki/Characters/Levren\|Levren]], whose allegiance none yet knew.
 
-As steel clashed and magic flared, the battle was ended not by man nor spell — but by the arrival of [[rosvania/Wiki/Golgoth\|Golgoth]], the last of the elder drakes, whose wings blotted the sun.
+As steel clashed and magic flared, the battle was ended not by man nor spell — but by the arrival of [[rosvania/Wiki/Characters/Golgoth\|Golgoth]], the last of the elder drakes, whose wings blotted the sun.
 
 ## A quest is given
 
@@ -49,7 +49,7 @@ In [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]], a city of dust and deceit, the
 ## The journey south
 
 - In [[rosvania/Wiki/Races/Bourgeosy\|Bourgeosy]], a learned mage studied the map — and, horror-seized, vanished that very night.
-- In [[rosvania/Wiki/Bumblebrook\|Bumblebrook]], Gerard's antics — testing doors, nearly starting a fire — exasperated Floris and drove the party to a tavern where laughter masked unease.
+- In [[rosvania/Wiki/Realms & Geography/Bumblebrook\|Bumblebrook]], Gerard's antics — testing doors, nearly starting a fire — exasperated Floris and drove the party to a tavern where laughter masked unease.
 - In a forest drenched in mud and memory, the party faced an illusion of Golgoth conjured from the map's malice; Kazzimir's healing fed the phantom until Floris discerned and shattered the deceit.
 
 ## The Trial of Will
@@ -60,7 +60,7 @@ The real Golgoth appeared, wings black against the dusk: the trial was passed, t
 
 ## See also
 
-- [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign Chronicle]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]] · [[rosvania/Wiki/Artifacts & Items/Cursed Map\|Cursed Map]] · [[rosvania/Wiki/Golgoth\|Golgoth]]
+- [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign Chronicle]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]] · [[rosvania/Wiki/Artifacts & Items/Cursed Map\|Cursed Map]] · [[rosvania/Wiki/Characters/Golgoth\|Golgoth]]
 
 ## Sources
 

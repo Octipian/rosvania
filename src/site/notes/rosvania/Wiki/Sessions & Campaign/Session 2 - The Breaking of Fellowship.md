@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,19 +23,19 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Session log
 > **Year** — 2 [[rosvania/Wiki/Eras & Timeline/Third Age\|TA]]
-> **Party** — [[rosvania/Wiki/Gerard\|Gerard]], [[rosvania/Wiki/Kazzimir\|Kazzimir]], [[rosvania/Wiki/Levren\|Levren]]
-> **Departure** — [[rosvania/Wiki/Floris Flex\|Floris Flex]]
-> **Places** — The [[rosvania/Wiki/Ashrend Peaks\|Ashrend Peaks]] · [[rosvania/Wiki/Lotusden\|Lotusden]] · the [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]] · [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]]
+> **Party** — [[rosvania/Wiki/Characters/Gerard\|Gerard]], [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]], [[rosvania/Wiki/Characters/Levren\|Levren]]
+> **Departure** — [[rosvania/Wiki/Characters/Floris Flex\|Floris Flex]]
+> **Places** — The [[rosvania/Wiki/Realms & Geography/Ashrend Peaks\|Ashrend Peaks]] · [[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]] · the [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]] · [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]]
 > **Items** — The [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]]
-> **Enemy** — The [[rosvania/Wiki/Necrotic King\|Necrotic King]]
+> **Enemy** — The [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]]
 
 > *"When dawn came, Floris Flex departed. His pride had grown heavy, and he left believing his path higher than the rest."*
 
-The second session of the campaign — the breaking of the original fellowship, and the rise of the [[rosvania/Wiki/Necrotic King\|Necrotic King]].
+The second session of the campaign — the breaking of the original fellowship, and the rise of the [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]].
 
 ## The breaking
 
-At dawn, [[rosvania/Wiki/Floris Flex\|Floris Flex]] departed. The remaining three — [[rosvania/Wiki/Kazzimir\|Kazzimir]], [[rosvania/Wiki/Gerard\|Gerard]], and [[rosvania/Wiki/Levren\|Levren]] — soon met a plague-stricken girl from the [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]], one Kazzimir had known before. She warned of shadows stirring in her homeland, and they set out toward the swamp.
+At dawn, [[rosvania/Wiki/Characters/Floris Flex\|Floris Flex]] departed. The remaining three — [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]], [[rosvania/Wiki/Characters/Gerard\|Gerard]], and [[rosvania/Wiki/Characters/Levren\|Levren]] — soon met a plague-stricken girl from the [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]], one Kazzimir had known before. She warned of shadows stirring in her homeland, and they set out toward the swamp.
 
 ## The Ashrend Peaks
 
@@ -45,13 +45,13 @@ That night vengeance came: a horde of dozens and a mountain troll large enough t
 
 ## The City of Lotuses
 
-By dawn they reached [[rosvania/Wiki/Lotusden\|Lotusden]], a tiefling city of crimson lanterns and thieves' honor. There met **[[rosvania/Wiki/Characters/Tarres Veylen\|Tarres Veylen]]**, who guided them to a blacksmith of strange artifacts — whose silver tongue scammed both Kazzimir and Gerard, while Levren secured a single weapon worth the gold.
+By dawn they reached [[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]], a tiefling city of crimson lanterns and thieves' honor. There met **[[rosvania/Wiki/Characters/Tarres Veylen\|Tarres Veylen]]**, who guided them to a blacksmith of strange artifacts — whose silver tongue scammed both Kazzimir and Gerard, while Levren secured a single weapon worth the gold.
 
 Then came the **[[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]]**. Levren's draw summoned a vengeful paladin fated to hunt him; Kazzimir's draw tore open a rift that cast him into another realm for a full day.
 
 ## The Swamp of Sh'rek
 
-At the swamp, the plague-girl revealed her true self — the vessel of the **[[rosvania/Wiki/Necrotic King\|Necrotic King]]**, reborn from the mists of the old war. Undead legions from the Rizzhian War rose at his call. Kazzimir returned mid-battle, falling from the sky atop the monster itself, taking more wounds from allies' misfires than enemy blows.
+At the swamp, the plague-girl revealed her true self — the vessel of the **[[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]]**, reborn from the mists of the old war. Undead legions from the Rizzhian War rose at his call. Kazzimir returned mid-battle, falling from the sky atop the monster itself, taking more wounds from allies' misfires than enemy blows.
 
 When the swamp fell silent, the paladin who sought Levren's death rose from the reeds — before a colossal hand of black tentacles dragged him screaming beneath the surface.
 
@@ -65,7 +65,7 @@ The winds from the north howled once more. The new age was accelerating.
 
 ## See also
 
-- [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign Chronicle]] · [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]] · [[rosvania/Wiki/Necrotic King\|Necrotic King]] · [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]]
+- [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign Chronicle]] · [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]] · [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]] · [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]]
 
 ## Sources
 

@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -32,11 +32,11 @@
 
 ## Gerard's antics
 
-During the party's rest, [[rosvania/Wiki/Gerard\|Gerard]]'s antics — testing doors, pestering locals, and nearly starting a fire — exasperated [[rosvania/Wiki/Floris Flex\|Floris Flex]] and drove the companions to the comfort of a tavern, where laughter masked unease. The winds of the north were already howling beyond the hearth-light.
+During the party's rest, [[rosvania/Wiki/Characters/Gerard\|Gerard]]'s antics — testing doors, pestering locals, and nearly starting a fire — exasperated [[rosvania/Wiki/Characters/Floris Flex\|Floris Flex]] and drove the companions to the comfort of a tavern, where laughter masked unease. The winds of the north were already howling beyond the hearth-light.
 
 ## See also
 
-- [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Gerard\|Gerard]] · [[rosvania/Wiki/Races/Halflings\|Halflings]]
+- [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Characters/Gerard\|Gerard]] · [[rosvania/Wiki/Races/Halflings\|Halflings]]
 
 ## Sources
 

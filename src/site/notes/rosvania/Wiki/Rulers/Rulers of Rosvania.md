@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -27,7 +27,7 @@
 > **Nature** — A dynastic chronicle of the realms and their lords
 
 > *"Every crown in Rosvania is a promise written in blood — and every promise, in time, is broken."*
-> — The Hidden Witness, [[rosvania/Wiki/Vorun Khar\|Vorun Khar]]
+> — The Hidden Witness, [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]]
 
 This is the dynastic chronicle of Rosvania — the kings, queens, emperors, and warlords who have shaped the agesais, together with the events that ended each reign.
 
@@ -62,7 +62,7 @@ The human realm of the western valleys and the Whispering Sands — half-divine 
 | Rule | Ruler | Reign & note |
 | --- | --- | --- |
 | 0–230 FA | **Guided by Vael'Thara** — archmage-led, no monarch | The Elves rule by wisdom, not crown. |
-| 231–480 FA | **Queen Vael'Nir** — first crown of the Radiant Dominion | *Later corrupted by the [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]].* |
+| 231–480 FA | **Queen Vael'Nir** — first crown of the Radiant Dominion | *Later corrupted by the [[rosvania/Wiki/Deities & Gods/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]].* |
 | 481–678 FA | **Queen Vael'Nir of Elarith** | *Reigns through the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]].* |
 | Post-678 FA – 1501 SA | **The Archmage Council** rules | No queen since; the [[rosvania/Wiki/Factions & Organizations/High Synod\|High Synod]] holds the Elves. |
 
@@ -103,15 +103,15 @@ The human realm of the western valleys and the Whispering Sands — half-divine 
 
 | Rule | Ruler | Reign & note |
 | --- | --- | --- |
-| Before all ages – 10 FA | **[[rosvania/Wiki/Vharuk\|Vharuk]]**, God of Desolation — active through the [[rosvania/Wiki/War of Life\|War of Life]] | The Stillborn Flame of the [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]]. |
-| 10 FA onward | Imprisoned beneath the [[rosvania/Wiki/Doomlands\|Doomlands]] | Sealed by the Wardens; his power still dreams. |
-| 0 FA – 1501 SA | **[[rosvania/Wiki/Vorun Khar\|Vorun Khar]]** — mortal fragment, walks among mortals | The Hidden Witness, measuring hearts before Desolation awakens. |
+| Before all ages – 10 FA | **[[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]**, God of Desolation — active through the [[rosvania/Wiki/War of Life\|War of Life]] | The Stillborn Flame of the [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]]. |
+| 10 FA onward | Imprisoned beneath the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] | Sealed by the Wardens; his power still dreams. |
+| 0 FA – 1501 SA | **[[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]]** — mortal fragment, walks among mortals | The Hidden Witness, measuring hearts before Desolation awakens. |
 
 ## See also
 
 - [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline of Rosvania]] · [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]
 - [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Tuzland and the Whispering Sands]] · [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] · [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] · [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]]
-- [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] · [[rosvania/Wiki/Vorun Khar\|Vorun Khar]] · [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Necrotic King\|Necrotic King]]
+- [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] · [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] · [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]]
 
 ## Sources
 

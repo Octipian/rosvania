@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -26,7 +26,7 @@ An index of the great metals of [[rosvania/Wiki/Rosvania\|Rosvania]] — the ore
 ## Light-Forged Steel
 
 - **Forged by:** the [[rosvania/Wiki/Races/Dwarves\|Dwarves]] of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]], under [[rosvania/Wiki/Realms & Geography/Korran-Dur\|Korran-Dur]], in the [[rosvania/Wiki/War of Life\|War of Life]].
-- **Property:** the only metal that could wound [[rosvania/Wiki/Vharuk\|Vharuk]]'s kin — the [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]].
+- **Property:** the only metal that could wound [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]'s kin — the [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]].
 - **Use:** armed the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]] against the legions of emptiness.
 
 ## Solarite
@@ -40,7 +40,7 @@ An index of the great metals of [[rosvania/Wiki/Rosvania\|Rosvania]] — the ore
 - **Found:** in the deep halls of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]].
 - **Nature:** a strange, *living* metal.
 - **Property:** said to resist the chill of Vharuk's Breath.
-- **Use:** in the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], the sons of Durak smelt weapons of it against the coming cold; [[rosvania/Wiki/Brother Tarsis\|Brother Tarsis]] carries a hammer forged from it in service of the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]].
+- **Use:** in the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], the sons of Durak smelt weapons of it against the coming cold; [[rosvania/Wiki/Characters/Brother Tarsis\|Brother Tarsis]] carries a hammer forged from it in service of the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]].
 
 ## See also
 

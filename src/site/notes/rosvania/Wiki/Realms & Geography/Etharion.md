@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -36,16 +36,16 @@
 ## History
 
 - In the [[rosvania/Wiki/War of Life\|War of Life]], the spellweavers of Etharion's precursor were the heart of the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]]'s magic.
-- In the [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]], the [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] seduced Queen [[rosvania/Wiki/Realms & Geography/Vael'Nir\|Vael'Nir]]; Etharion became **Elarith, the Radiant Dominion**, and waged the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] upon humankind. When Vael'Nir fell, the curse broke, and the Elves renounced all divine worship.
+- In the [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]], the [[rosvania/Wiki/Deities & Gods/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] seduced Queen [[rosvania/Wiki/Realms & Geography/Vael'Nir\|Vael'Nir]]; Etharion became **Elarith, the Radiant Dominion**, and waged the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] upon humankind. When Vael'Nir fell, the curse broke, and the Elves renounced all divine worship.
 - Ever since, the [[rosvania/Wiki/Factions & Organizations/High Synod\|High Synod]] has governed the realm in endless twilight, hidden from the world.
 
 ## The Third Age
 
-The Eldertree no longer merely trembles — it shrieks. The Earth-Song, the voice of the world that the Elves alone hear, has been twisted by a foul note: the rise of the [[rosvania/Wiki/Necrotic King\|Necrotic King]], a profound mockery of life and a perversion of [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]]'s domain. The Synod's endless debate is shattered. The time for isolation is over — the Elves must decide whether to walk beside mortals once more, as in the days of the [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]].
+The Eldertree no longer merely trembles — it shrieks. The Earth-Song, the voice of the world that the Elves alone hear, has been twisted by a foul note: the rise of the [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]], a profound mockery of life and a perversion of [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]]'s domain. The Synod's endless debate is shattered. The time for isolation is over — the Elves must decide whether to walk beside mortals once more, as in the days of the [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]].
 
 ## See also
 
-- [[rosvania/Wiki/Races/Elves\|Elves]] · [[rosvania/Wiki/Factions & Organizations/High Synod\|High Synod]] · [[rosvania/Wiki/Realms & Geography/Vael'Nir\|Vael'Nir]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] · [[rosvania/Wiki/Necrotic King\|Necrotic King]]
+- [[rosvania/Wiki/Races/Elves\|Elves]] · [[rosvania/Wiki/Factions & Organizations/High Synod\|High Synod]] · [[rosvania/Wiki/Realms & Geography/Vael'Nir\|Vael'Nir]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] · [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]]
 
 ## Sources
 

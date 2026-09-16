@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -26,7 +26,7 @@
 > **Title** — Warlord of [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]]
 > **Era** — The Cracking Age ([[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]]) – present
 > **Method** — Audacious raids against the Aurelian border
-> **Role in the age** — The very real war distracting the world from the [[rosvania/Wiki/Doomlands\|Doomlands]]
+> **Role in the age** — The very real war distracting the world from the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]
 
 > *"A new, aggressive leader, Warlord Gorgath, rose to power in Gorthul-Maar and began launching audacious raids against the Aurelian border."*
 
@@ -38,9 +38,9 @@ In the Cracking Age of the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Ag
 
 ## The Third Age
 
-By Year 1 TA, the Orc raids under Gorgath were a serious threat on the Aurelian border — a real, burning conflict that consumed the armies and attention of [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]]. This very real war is the perfect distraction: it keeps the world's eyes southward while the true darkness gathers strength in the [[rosvania/Wiki/Doomlands\|Doomlands]] to the north.
+By Year 1 TA, the Orc raids under Gorgath were a serious threat on the Aurelian border — a real, burning conflict that consumed the armies and attention of [[rosvania/Wiki/Rulers/Emperor Taryon V\|Emperor Taryon V]]. This very real war is the perfect distraction: it keeps the world's eyes southward while the true darkness gathers strength in the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] to the north.
 
-Unwittingly or not, Gorgath is the shield of [[rosvania/Wiki/Vorun Khar\|Vorun Khar]]'s work — the noise that hides the silence.
+Unwittingly or not, Gorgath is the shield of [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]]'s work — the noise that hides the silence.
 
 ## See also
 

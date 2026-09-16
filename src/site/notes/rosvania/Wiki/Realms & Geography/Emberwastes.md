@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -33,7 +33,7 @@ The **Emberwastes** are the burning southern woods of [[rosvania/Wiki/Rosvania\|
 
 ## History
 
-- The Goblins were forged by [[rosvania/Wiki/Vharuk\|Vharuk]] from the crawling things of the deep earth; after his fall, they infested the Emberwastes, preying on the weak.
+- The Goblins were forged by [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] from the crawling things of the deep earth; after his fall, they infested the Emberwastes, preying on the weak.
 - For centuries they held the south — until the [[Solar Empire of Menor\|Solar Empire of Menor]] drove their tribes from their ancestral home during the expansion wars of the [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]].
 - The expulsion forced the Goblins into the forests of [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]], where they abandoned open warfare for slavery — the birth of the Syndicates.
 

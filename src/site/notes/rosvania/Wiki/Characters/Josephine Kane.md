@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -34,7 +34,7 @@
 
 ## The trial
 
-As the Chosen Party reached the Trial of Combat, the air was alive with her singing — a ballad of [[rosvania/Wiki/Characters/Floris Flex\|Floris Flex]], the departed scholar, known to none present. She served as a judge alongside Commander [[rosvania/Wiki/Vorlag\|Vorlag]] of the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]] and [[rosvania/Wiki/Characters/Brother Tarsis\|Brother Tarsis]], the dwarven warrior-priest.
+As the Chosen Party reached the Trial of Combat, the air was alive with her singing — a ballad of [[rosvania/Wiki/Characters/Floris Flex\|Floris Flex]], the departed scholar, known to none present. She served as a judge alongside Commander [[rosvania/Wiki/Deities & Gods/Vorlag\|Vorlag]] of the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]] and [[rosvania/Wiki/Characters/Brother Tarsis\|Brother Tarsis]], the dwarven warrior-priest.
 
 ## The mystery
 
@@ -42,7 +42,7 @@ No one knew why Josephine Kane was present, or what she hides behind her gentle 
 
 ## See also
 
-- [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]] · [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]] · [[rosvania/Wiki/Characters/Floris Flex\|Floris Flex]] · [[rosvania/Wiki/Vorlag\|Vorlag]]
+- [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]] · [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]] · [[rosvania/Wiki/Characters/Floris Flex\|Floris Flex]] · [[rosvania/Wiki/Deities & Gods/Vorlag\|Vorlag]]
 
 ## Sources
 

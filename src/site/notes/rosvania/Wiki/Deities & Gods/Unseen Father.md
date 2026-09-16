@@ -10,7 +10,7 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
 > <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
@@ -20,7 +20,7 @@
 > [!infobox]
 > # The Unseen Father
 > rf-imgslot
-> ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
+> ![Unseen-Father.png\|180](/img/user/images/Unseen-Father.png)
 > **Titles** — The Source and Sovereign of All Being
 > **Type** — Creator god (nameless, eternal)
 > **Acts** — The Three Decrees; the forging of the [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]]
@@ -44,7 +44,7 @@ Thus was formed the first harmony: a kingdom of light and silence.
 
 ## The Firstborn Wardens
 
-To tend His creation, the Father drew from His own essence **eight divine spirits** — the [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]] — granting each dominion over a part of the world: [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]], [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]], [[rosvania/Wiki/Realms & Geography/Korran-Dur\|Korran-Dur]], [[rosvania/Wiki/Vael'Thara\|Vael'Thara]], [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]], [[rosvania/Wiki/Realms & Geography/Serathis\|Serathis]], [[rosvania/Wiki/Characters/Athera\|Athera]], and [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]].
+To tend His creation, the Father drew from His own essence **eight divine spirits** — the [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]] — granting each dominion over a part of the world: [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]], [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]], [[rosvania/Wiki/Realms & Geography/Korran-Dur\|Korran-Dur]], [[rosvania/Wiki/Realms & Geography/Vael'Thara\|Vael'Thara]], [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]], [[rosvania/Wiki/Realms & Geography/Serathis\|Serathis]], [[rosvania/Wiki/Characters/Athera\|Athera]], and [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]].
 
 ## The Withdrawal
 

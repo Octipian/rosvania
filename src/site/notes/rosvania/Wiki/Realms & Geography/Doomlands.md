@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,14 +23,14 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Region (frozen wasteland)
 > **Location** — The far north of [[rosvania/Wiki/Rosvania\|Rosvania]]
-> **Prisoner** — [[rosvania/Wiki/Vharuk\|Vharuk]], sealed beneath the ice
+> **Prisoner** — [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]], sealed beneath the ice
 > **Sealed by** — [[rosvania/Wiki/Characters/Athera\|Athera]] and [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]]
 > **Plague** — The Breath of Vharuk (unending blizzard)
 > **Current state** — First Seal broken ([[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]])
 
 > *"A prison of eternal ice and silence."*
 
-The **Doomlands** are the frozen desolation of the far north — the prison of [[rosvania/Wiki/Vharuk\|Vharuk]] the Stillborn Flame, sealed beneath eternal ice and night by [[rosvania/Wiki/Characters/Athera\|Athera]] and [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]] at the end of the [[rosvania/Wiki/War of Life\|War of Life]].
+The **Doomlands** are the frozen desolation of the far north — the prison of [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] the Stillborn Flame, sealed beneath eternal ice and night by [[rosvania/Wiki/Characters/Athera\|Athera]] and [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]] at the end of the [[rosvania/Wiki/War of Life\|War of Life]].
 
 ## The prison
 
@@ -51,7 +51,7 @@ In the Cracking Age of the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Ag
 
 ## See also
 
-- [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]] · [[rosvania/Wiki/Factions & Organizations/Frost-Reavers\|Frost-Reavers]] · [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]
+- [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] · [[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]] · [[rosvania/Wiki/Factions & Organizations/Frost-Reavers\|Frost-Reavers]] · [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]
 
 ## Sources
 

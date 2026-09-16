@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -22,7 +22,7 @@
 > rf-imgslot
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Forged race
-> **Origin** — Forged by [[rosvania/Wiki/Vharuk\|Vharuk]] from wolves and serpents
+> **Origin** — Forged by [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] from wolves and serpents
 > **Homeland** — [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]]
 > **Nature** — Brutal; a thirst for dominance
 > **Lords** — [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]] (past); Warlord [[rosvania/Wiki/Characters/Warlord Gorgath\|Gorgath]] (present)
@@ -30,11 +30,11 @@
 
 > *"A brutal people consumed by a thirst for dominance."*
 
-The **Orcs** are the first and fiercest of the forged races — creatures of fire and fury, made by [[rosvania/Wiki/Vharuk\|Vharuk]] from the great wolves and serpents of the mountains in the image of conquest.
+The **Orcs** are the first and fiercest of the forged races — creatures of fire and fury, made by [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] from the great wolves and serpents of the mountains in the image of conquest.
 
 ## Origin
 
-While the elder races were made in the [[rosvania/Wiki/Unseen Father\|Father's]] image, Vharuk warped the great beasts of the mountains with his cold ambition, forging the Orcs as his mortal army. When their maker fell in the [[rosvania/Wiki/War of Life\|War of Life]], they scattered to the harshest corner of the world — [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]].
+While the elder races were made in the [[rosvania/Wiki/Deities & Gods/Unseen Father\|Father's]] image, Vharuk warped the great beasts of the mountains with his cold ambition, forging the Orcs as his mortal army. When their maker fell in the [[rosvania/Wiki/War of Life\|War of Life]], they scattered to the harshest corner of the world — [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]].
 
 ## Warlords
 
@@ -43,11 +43,11 @@ While the elder races were made in the [[rosvania/Wiki/Unseen Father\|Father's]]
 
 ## The Third Age
 
-Gorgath's raids are a serious, constant threat on the Aurelian border — a real war that keeps the eyes of [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]] fixed southward. Unknowingly, the Orcs serve the purposes of the hidden north: as long as the world wars with the Orcs, none watch the [[rosvania/Wiki/Doomlands\|Doomlands]].
+Gorgath's raids are a serious, constant threat on the Aurelian border — a real war that keeps the eyes of [[rosvania/Wiki/Rulers/Emperor Taryon V\|Emperor Taryon V]] fixed southward. Unknowingly, the Orcs serve the purposes of the hidden north: as long as the world wars with the Orcs, none watch the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]].
 
 ## See also
 
-- [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]] · [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]] · [[rosvania/Wiki/Characters/Warlord Gorgath\|Warlord Gorgath]] · [[rosvania/Wiki/Races/Races of Rosvania\|Races of Rosvania]]
+- [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] · [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]] · [[rosvania/Wiki/Characters/Warlord Gorgath\|Warlord Gorgath]] · [[rosvania/Wiki/Races/Races of Rosvania\|Races of Rosvania]]
 
 ## Sources
 

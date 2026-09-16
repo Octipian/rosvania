@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -20,11 +20,11 @@
 > [!infobox]
 > # Vael'Thara
 > rf-imgslot
-> ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
+> ![Vael'Thara.png\|180](/img/user/images/Vael'Thara.png)
 > **Titles** — The Star-Singer, the Elven Muse
-> **Type** — Deity ([[rosvania/Wiki/Firstborn Wardens\|Firstborn Warden]])
+> **Type** — Deity ([[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Warden]])
 > **Domain** — Stars, song, dreams
-> **Affiliation** — [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]], the [[rosvania/Wiki/Races/Elves\|Elves]]
+> **Affiliation** — [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]], the [[rosvania/Wiki/Races/Elves\|Elves]]
 > **Worshippers** — the Elves of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] (formerly), the spellweavers of the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]]
 
 > *"Who shaped the dreams of mortals into grace."*
@@ -39,7 +39,7 @@ Vael'Thara is the whisper of the night sky and the melody beneath all living son
 
 - In the [[rosvania/Wiki/War of Life\|War of Life]], Vael'Thara guided the Elves of *Vael'Tharion* with her direct voice, making them the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]]'s spellweavers and healers.
 - Her guidance gave the Elves their grace and their arts, which they carried into the long ages.
-- When [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] fell under the false radiance of the [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] and waged the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]], the Elves — shamed by their folly — renounced all divine worship. Vael'Thara's voice has not guided them openly since.
+- When [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] fell under the false radiance of the [[rosvania/Wiki/Deities & Gods/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] and waged the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]], the Elves — shamed by their folly — renounced all divine worship. Vael'Thara's voice has not guided them openly since.
 
 ## Legacy
 
@@ -48,7 +48,7 @@ Vael'Thara is the whisper of the night sky and the melody beneath all living son
 
 ## See also
 
-- [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/Races/Elves\|Elves]] · [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]]
+- [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/Races/Elves\|Elves]] · [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]]
 
 ## Sources
 

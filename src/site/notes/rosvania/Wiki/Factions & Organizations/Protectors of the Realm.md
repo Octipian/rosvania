@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -25,7 +25,7 @@
 > **Location** — The northern highlands
 > **Founding** — The Cracking Age (1301–1459 SA, [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]])
 > **Vow** — To guard against evils seen and unseen
-> **Commander** — [[rosvania/Wiki/Vorlag\|Vorlag]]
+> **Commander** — [[rosvania/Wiki/Deities & Gods/Vorlag\|Vorlag]]
 > **Trial site** — The [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]]
 > **Status** — Active ([[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]])
 
@@ -35,19 +35,19 @@ The **Protectors of the Realm** are the knightly order of the northern highlands
 
 ## Founding
 
-Forged in the uneasy Cracking Age of the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]], when the seals of the [[rosvania/Wiki/Doomlands\|Doomlands]] weakened and entire Aurelian legions vanished in the north, the Protectors were born of the belief that the world needed watchers who served no crown.
+Forged in the uneasy Cracking Age of the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]], when the seals of the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] weakened and entire Aurelian legions vanished in the north, the Protectors were born of the belief that the world needed watchers who served no crown.
 
 ## The Five Trials
 
-The Protectors test their would-be members through the **Five Trials**, held at the [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]]. In Year 3 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], the Chosen Party won the **Trial of Combat** — a brutal 3v3 tournament judged by Commander [[rosvania/Wiki/Vorlag\|Vorlag]], [[rosvania/Wiki/Brother Tarsis\|Brother Tarsis]], and [[rosvania/Wiki/Characters/Josephine Kane\|Josephine Kane]] — unlocking the path to the remaining trials.
+The Protectors test their would-be members through the **Five Trials**, held at the [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]]. In Year 3 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], the Chosen Party won the **Trial of Combat** — a brutal 3v3 tournament judged by Commander [[rosvania/Wiki/Deities & Gods/Vorlag\|Vorlag]], [[rosvania/Wiki/Characters/Brother Tarsis\|Brother Tarsis]], and [[rosvania/Wiki/Characters/Josephine Kane\|Josephine Kane]] — unlocking the path to the remaining trials.
 
 ## The Third Age
 
-Among the scattered survivors of the order, whispers persist of a stirring host — the [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]], legions that do not sleep beneath the aurora-less sky of the [[rosvania/Wiki/Doomlands\|Doomlands]]. The hollow-eyed wizard of [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]] spoke their doctrine plainly: *"You must finish the Trials. Only then will the Protectors of the Realm accept you… and only then may the world stand a chance."*
+Among the scattered survivors of the order, whispers persist of a stirring host — the [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]], legions that do not sleep beneath the aurora-less sky of the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]. The hollow-eyed wizard of [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]] spoke their doctrine plainly: *"You must finish the Trials. Only then will the Protectors of the Realm accept you… and only then may the world stand a chance."*
 
 ## See also
 
-- [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] · [[rosvania/Wiki/Vorlag\|Vorlag]] · [[rosvania/Wiki/Brother Tarsis\|Brother Tarsis]] · [[rosvania/Wiki/Characters/Josephine Kane\|Josephine Kane]] · [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]]
+- [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] · [[rosvania/Wiki/Deities & Gods/Vorlag\|Vorlag]] · [[rosvania/Wiki/Characters/Brother Tarsis\|Brother Tarsis]] · [[rosvania/Wiki/Characters/Josephine Kane\|Josephine Kane]] · [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]]
 
 ## Sources
 

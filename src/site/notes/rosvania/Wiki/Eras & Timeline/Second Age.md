@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -39,11 +39,11 @@ The divine light was gone. Empires lay shattered. The [[rosvania/Wiki/Races/Orcs
 
 ## 313–689 SA — The Forgeborn Era
 
-From the chaos rose the human lords of the southwest, forging the [[rosvania/Wiki/Factions & Organizations/Tuzlean Concord\|Tuzlean Concord]]. Eastward, in the ruins of [[Solar Empire of Menor\|Menor]], scholars rediscovered [[rosvania/Wiki/Metals of Rosvania\|Solarite]] — the metal of fallen stars. From their work rose the **[[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]]**, built not on faith but on reason and reclamation. Its armies, clad in solar-forged steel, pushed the Orc hordes back north into the [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]].
+From the chaos rose the human lords of the southwest, forging the [[rosvania/Wiki/Factions & Organizations/Tuzlean Concord\|Tuzlean Concord]]. Eastward, in the ruins of [[Solar Empire of Menor\|Menor]], scholars rediscovered [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Solarite]] — the metal of fallen stars. From their work rose the **[[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]]**, built not on faith but on reason and reclamation. Its armies, clad in solar-forged steel, pushed the Orc hordes back north into the [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]].
 
 ## 690–974 SA — The War of Bloodlines
 
-Within Tuzland, noble houses turned blade against blade. The [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]] consumed three centuries. From its chaos rose [[rosvania/Wiki/Taner IV\|Taner IV]], last of the half-divine commanders — but his death shattered unity. The survivors turned pirate, birthing the [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]]; from their rebellion rose the [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]], bound by oath rather than crown.
+Within Tuzland, noble houses turned blade against blade. The [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]] consumed three centuries. From its chaos rose [[rosvania/Wiki/Rulers/Taner IV\|Taner IV]], last of the half-divine commanders — but his death shattered unity. The survivors turned pirate, birthing the [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]]; from their rebellion rose the [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]], bound by oath rather than crown.
 
 ## 975–1300 SA — The Quiet Reign
 
@@ -51,11 +51,11 @@ A weary calm settled. The Aurelian Dominion stood ascendant, its borders sealed 
 
 ## 1301–1459 SA — The Cracking Age
 
-Beneath the silence, something stirred. The Seals of the [[rosvania/Wiki/Doomlands\|Doomlands]] began to weaken; Aurelian legions sent to the frozen north never returned. Warlord [[rosvania/Wiki/Characters/Warlord Gorgath\|Gorgath]] united the Orc clans and raided the borders. In the northern highlands, the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]] were forged.
+Beneath the silence, something stirred. The Seals of the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] began to weaken; Aurelian legions sent to the frozen north never returned. Warlord [[rosvania/Wiki/Characters/Warlord Gorgath\|Gorgath]] united the Orc clans and raided the borders. In the northern highlands, the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]] were forged.
 
 ## 1460–1501 SA — The Still Years
 
-Forty winters of tension, not peace. The Orc raids became a serious threat; Emperor [[Taryon V\|Taryon V]] channeled his armies to the border. Beneath the noise of war, [[rosvania/Wiki/Vorun Khar\|Vorun Khar]] — the Hidden Witness — walked among kings, measuring mortal hearts while the true darkness gathered in the [[rosvania/Wiki/Doomlands\|Doomlands]]. *"Even false light can look like hope."*
+Forty winters of tension, not peace. The Orc raids became a serious threat; Emperor [[Taryon V\|Taryon V]] channeled his armies to the border. Beneath the noise of war, [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]] — the Hidden Witness — walked among kings, measuring mortal hearts while the true darkness gathered in the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]. *"Even false light can look like hope."*
 
 ## Legacies
 

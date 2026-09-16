@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -34,9 +34,9 @@
 
 ## The Deck
 
-In Lotusden, the party met **[[rosvania/Wiki/Characters/Tarres Veylen\|Tarres Veylen]]**, a rogue who guided them to a blacksmith dealing in strange artifacts. The blacksmith's silver tongue proved sharper than his blades — he scammed both [[rosvania/Wiki/Kazzimir\|Kazzimir]] and [[rosvania/Wiki/Gerard\|Gerard]], while [[rosvania/Wiki/Levren\|Levren]], more cautious, secured a single weapon worth the gold.
+In Lotusden, the party met **[[rosvania/Wiki/Characters/Tarres Veylen\|Tarres Veylen]]**, a rogue who guided them to a blacksmith dealing in strange artifacts. The blacksmith's silver tongue proved sharper than his blades — he scammed both [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]] and [[rosvania/Wiki/Characters/Gerard\|Gerard]], while [[rosvania/Wiki/Characters/Levren\|Levren]], more cautious, secured a single weapon worth the gold.
 
-Then came the deck — *"a deck of some things,"* the blacksmith called it. Each card drawn bent reality in cruel and unexpected ways: [[rosvania/Wiki/Levren\|Levren]]'s hand summoned a vengeful paladin fated to hunt him, while [[rosvania/Wiki/Kazzimir\|Kazzimir]]'s draw tore open a rift that cast him into another realm for a full day.
+Then came the deck — *"a deck of some things,"* the blacksmith called it. Each card drawn bent reality in cruel and unexpected ways: [[rosvania/Wiki/Characters/Levren\|Levren]]'s hand summoned a vengeful paladin fated to hunt him, while [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]]'s draw tore open a rift that cast him into another realm for a full day.
 
 ## See also
 

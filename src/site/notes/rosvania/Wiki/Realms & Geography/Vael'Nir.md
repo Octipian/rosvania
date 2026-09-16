@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -25,17 +25,17 @@
 > **Species** — [[rosvania/Wiki/Races/Elves\|Elf]]
 > **Title** — Queen of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]]
 > **Era** — The [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]]
-> **Corruption** — The [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]]
+> **Corruption** — The [[rosvania/Wiki/Deities & Gods/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]]
 > **Fate** — Fell in revelation and remorse (War of the Radiant Blades)
 > **Legacy** — The Elves renounced divine worship after her fall
 
 > *"When Vael'Nir fell, struck down in revelation and remorse, the curse was broken."*
 
-**Queen Vael'Nir** was the Queen of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] — the Elven sovereign seduced by the greatest deceit since [[rosvania/Wiki/Vharuk\|Vharuk]], and the instrument of her people's shame.
+**Queen Vael'Nir** was the Queen of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] — the Elven sovereign seduced by the greatest deceit since [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]], and the instrument of her people's shame.
 
 ## The seduction
 
-Deep beneath the roots of Etharion, a whisper stirred — a fragment of [[rosvania/Wiki/Vharuk\|Vharuk]]'s will calling itself the **Whisperer Beneath the Roots**. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]]'s glory, it seduced Vael'Nir. Under its spell, Etharion became *Elarith, the Radiant Dominion*, and the Elves marched in holy fire against Men.
+Deep beneath the roots of Etharion, a whisper stirred — a fragment of [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]'s will calling itself the **Whisperer Beneath the Roots**. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]]'s glory, it seduced Vael'Nir. Under its spell, Etharion became *Elarith, the Radiant Dominion*, and the Elves marched in holy fire against Men.
 
 ## The fall
 
@@ -47,7 +47,7 @@ She is remembered with sorrow, not hatred: the proof that even queens can be unm
 
 ## See also
 
-- [[rosvania/Wiki/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] · [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] · [[rosvania/Wiki/Races/Elves\|Elves]]
+- [[rosvania/Wiki/Deities & Gods/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] · [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] · [[rosvania/Wiki/Races/Elves\|Elves]]
 
 ## Sources
 

@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -25,7 +25,7 @@
 > **Alias** — The War of Bloodlines
 > **Period** — 690–974 SA ([[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]])
 > **Belligerents** — The noble houses of Tuzland
-> **Key figure** — [[rosvania/Wiki/Taner IV\|Taner IV]], last of the half-divine commanders
+> **Key figure** — [[rosvania/Wiki/Rulers/Taner IV\|Taner IV]], last of the half-divine commanders
 > **Outcome** — Tuzland shattered; the [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]] and the [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] arise
 
 > *"With victory came corruption. Within Tuzland, noble houses turned blade against blade."*
@@ -34,7 +34,7 @@ The **Tuzlean Civil War**, also called the **War of Bloodlines**, was a conflict
 
 ## The war
 
-With the Orc threat pushed back, ambition turned inward. The noble houses of Tuzland turned on one another, and the war lasted nearly three centuries. From the chaos rose the legendary **[[rosvania/Wiki/Taner IV\|Taner IV]]**, last of the half-divine commanders — a relic of the age when gods still whispered.
+With the Orc threat pushed back, ambition turned inward. The noble houses of Tuzland turned on one another, and the war lasted nearly three centuries. From the chaos rose the legendary **[[rosvania/Wiki/Rulers/Taner IV\|Taner IV]]**, last of the half-divine commanders — a relic of the age when gods still whispered.
 
 ## The death of unity
 
@@ -48,7 +48,7 @@ Taner's death ended the hope of unity. His heirs tore apart what he had built, a
 
 ## See also
 
-- [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]] · [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] · [[rosvania/Wiki/Taner IV\|Taner IV]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]]
+- [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]] · [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] · [[rosvania/Wiki/Rulers/Taner IV\|Taner IV]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]]
 
 ## Sources
 

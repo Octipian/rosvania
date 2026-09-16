@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,7 +23,7 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — City (capital)
 > **Location** — The heart of the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]]
-> **Ruler** — [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]]
+> **Ruler** — [[rosvania/Wiki/Rulers/Emperor Taryon V\|Emperor Taryon V]]
 > **Notable** — A whisper of counsel none can trace
 > **Current state** — A court of smiles hiding decay ([[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]])
 
@@ -33,11 +33,11 @@
 
 ## The hidden counsel
 
-Beneath the courtly smiles and priestly decrees of Velmoria, a quiet influence seeps through the halls — a whisper of counsel none can trace. The lore names it the work of the **Hidden Witness**, shaping the empire's blindness while the true peril gathers strength unseen. From the Velmorian court, [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]] calls the omens of the north mere superstition.
+Beneath the courtly smiles and priestly decrees of Velmoria, a quiet influence seeps through the halls — a whisper of counsel none can trace. The lore names it the work of the **Hidden Witness**, shaping the empire's blindness while the true peril gathers strength unseen. From the Velmorian court, [[rosvania/Wiki/Rulers/Emperor Taryon V\|Emperor Taryon V]] calls the omens of the north mere superstition.
 
 ## See also
 
-- [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] · [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]] · [[rosvania/Wiki/Vorun Khar\|Vorun Khar]]
+- [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] · [[rosvania/Wiki/Rulers/Emperor Taryon V\|Emperor Taryon V]] · [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]]
 
 ## Sources
 

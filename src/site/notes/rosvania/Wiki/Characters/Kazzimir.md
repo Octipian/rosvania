@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -39,11 +39,11 @@ Kazzimir was drawn into the Chosen Party on the road to [[rosvania/Wiki/Characte
 
 ## The Ashrend Peaks
 
-Suspicion and fatigue clouded Kazzimir's judgment at the [[rosvania/Wiki/Ashrend Peaks\|Ashrend Peaks]], where blades were drawn before words against four goblins. That night the vengeance came — a horde and a mountain troll whose hurled boulder split the earth, cutting him off from his comrades. Wounded, he fled down the slope; [[rosvania/Wiki/Characters/Gerard\|Gerard]]'s rope pulled him to safety.
+Suspicion and fatigue clouded Kazzimir's judgment at the [[rosvania/Wiki/Realms & Geography/Ashrend Peaks\|Ashrend Peaks]], where blades were drawn before words against four goblins. That night the vengeance came — a horde and a mountain troll whose hurled boulder split the earth, cutting him off from his comrades. Wounded, he fled down the slope; [[rosvania/Wiki/Characters/Gerard\|Gerard]]'s rope pulled him to safety.
 
 ## The Deck
 
-In [[rosvania/Wiki/Lotusden\|Lotusden]], Kazzimir's draw from the [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]] tore open a rift that cast him into another realm for a **full day** — he returned mid-battle against the [[rosvania/Wiki/Necrotic King\|Necrotic King]], falling from the sky atop the monster itself, and took more wounds from his allies' misfires than from the enemy's blows.
+In [[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]], Kazzimir's draw from the [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]] tore open a rift that cast him into another realm for a **full day** — he returned mid-battle against the [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]], falling from the sky atop the monster itself, and took more wounds from his allies' misfires than from the enemy's blows.
 
 ## The sea
 

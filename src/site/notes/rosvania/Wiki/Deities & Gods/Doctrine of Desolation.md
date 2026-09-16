@@ -10,7 +10,7 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
 > <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
@@ -50,11 +50,11 @@ Vharuk, who cherished the unbroken calm, came to despise mortal clamor — their
 
 ## The Third Age
 
-As the seals of the [[rosvania/Wiki/Doomlands\|Doomlands]] weaken and the Breath of Vharuk crawls southward, the faithful of the doctrine (if any walked openly) would call it not doom but *deliverance*: the return of the world to the Father's original silence. Against this, the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]] and the Chosen Party of the age are the world's only answer.
+As the seals of the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] weaken and the Breath of Vharuk crawls southward, the faithful of the doctrine (if any walked openly) would call it not doom but *deliverance*: the return of the world to the Father's original silence. Against this, the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]] and the Chosen Party of the age are the world's only answer.
 
 ## See also
 
-- [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] · [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Doomlands\|Doomlands]]
+- [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] · [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]
 
 ## Sources
 

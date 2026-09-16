@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,7 +23,7 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Trading confederation
 > **Alias** — The Accord
-> **Location** — The eastern lands ([[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]], [[rosvania/Wiki/Vael'nore\|Vael'nore]])
+> **Location** — The eastern lands ([[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]], [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]])
 > **Character** — Bright, bountiful, gold and laughter
 > **Prophets** — Speak of shadows beneath the sea
 > **Status** — Active ([[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]])
@@ -34,15 +34,15 @@ The **Silver Accord** is the trading confederation of the eastern lands of [[ros
 
 ## The Accord
 
-The Accord binds the merchant powers of the [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]] and [[rosvania/Wiki/Vael'nore\|Vael'nore]] into a single, thriving economy. To the east, the tidings from the north are distant myths — sailors' tales carried on cold winds.
+The Accord binds the merchant powers of the [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]] and [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]] into a single, thriving economy. To the east, the tidings from the north are distant myths — sailors' tales carried on cold winds.
 
 ## The prophets
 
-Yet in the temples of the Accord, prophets speak of shadows beneath the sea, and of a time when even the trade-winds will fall still. Among the sorcerers and sages of the Accord, whispers also tell of a **Hidden Witness** — a wanderer of countless names, wise and patient, walking among kings and beggars alike. Some say he is only myth. Others fear he is [[rosvania/Wiki/Vorun Khar\|Vorun Khar]], sent to measure the hearts of men before the world's final silence.
+Yet in the temples of the Accord, prophets speak of shadows beneath the sea, and of a time when even the trade-winds will fall still. Among the sorcerers and sages of the Accord, whispers also tell of a **Hidden Witness** — a wanderer of countless names, wise and patient, walking among kings and beggars alike. Some say he is only myth. Others fear he is [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]], sent to measure the hearts of men before the world's final silence.
 
 ## See also
 
-- [[rosvania/Wiki/Vael'nore\|Vael'nore]] · [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]] · [[rosvania/Wiki/Vorun Khar\|Vorun Khar]] · [[rosvania/Wiki/Rosvania\|Rosvania]]
+- [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]] · [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]] · [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]] · [[rosvania/Wiki/Rosvania\|Rosvania]]
 
 ## Sources
 

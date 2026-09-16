@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -36,10 +36,10 @@ This is a chronological index of the known history of [[rosvania/Wiki/Rosvania\|
 
 | Years | Event |
 | --- | --- |
-| 0–10 FA | The [[rosvania/Wiki/War of Life\|War of Life]] ends at the [[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]]; [[rosvania/Wiki/Vharuk\|Vharuk]] is sealed in the [[rosvania/Wiki/Doomlands\|Doomlands]]. The Wardens withdraw. |
+| 0–10 FA | The [[rosvania/Wiki/War of Life\|War of Life]] ends at the [[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]]; [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] is sealed in the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]. The Wardens withdraw. |
 | 11–480 FA | The Rebuilding. The Orcs retreat to [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]], the Goblins to the [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]]. [[Solar Empire of Menor\|Menor]] arises east of Tuzland. |
-| 481–802 FA | The Age of Empire and Shadow. The [[Solar Empire of Menor\|Solar Empire of Menor]] wars on the Orcs; the Goblins found the [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]] in [[rosvania/Wiki/Vael'nore\|Vael'nore]]. |
-| 539–561 FA | [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] — the Elves of the Radiant Dominion march against Men; the fall of Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]]. |
+| 481–802 FA | The Age of Empire and Shadow. The [[Solar Empire of Menor\|Solar Empire of Menor]] wars on the Orcs; the Goblins found the [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]] in [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]]. |
+| 539–561 FA | [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] — the Elves of the Radiant Dominion march against Men; the fall of Queen [[rosvania/Wiki/Realms & Geography/Vael'Nir\|Vael'Nir]]. |
 | 803–982 FA | [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]] — [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]] drowns the coasts of Tuzland and Menor; [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]] conquers the fallen east. |
 
 ## Second Age (0–1501 SA) — Age of Mortals
@@ -47,20 +47,20 @@ This is a chronological index of the known history of [[rosvania/Wiki/Rosvania\|
 | Years | Event |
 | --- | --- |
 | 0–312 SA | The Years of Ash — dark age of famine and wandering; Orc dominion in the east; the slave trade of the [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]] flourishes. |
-| 313–689 SA | The Forgeborn Era — the [[rosvania/Wiki/Factions & Organizations/Tuzlean Concord\|Tuzlean Concord]] rises; scholars rediscover [[rosvania/Wiki/Metals of Rosvania\|Solarite]]; the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] is founded and drives the Orcs north. |
-| 690–974 SA | The War of Bloodlines — the [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]]; the age of [[rosvania/Wiki/Taner IV\|Taner IV]] ends in division; the [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]] are born; the [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] declares independence. |
+| 313–689 SA | The Forgeborn Era — the [[rosvania/Wiki/Factions & Organizations/Tuzlean Concord\|Tuzlean Concord]] rises; scholars rediscover [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Solarite]]; the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] is founded and drives the Orcs north. |
+| 690–974 SA | The War of Bloodlines — the [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]]; the age of [[rosvania/Wiki/Rulers/Taner IV\|Taner IV]] ends in division; the [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]] are born; the [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] declares independence. |
 | 975–1300 SA | The Quiet Reign — Aurelian's wall; the Syndicates' gladiator trade peaks under Batrok; Tuzland fractures into pirate enclaves. |
 | 1301–1459 SA | The Cracking Age — the seals weaken; Aurelian legions vanish in the north; Warlord [[rosvania/Wiki/Characters/Warlord Gorgath\|Gorgath]] raids the border; the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]] are forged. |
-| 1460–1501 SA | The Still Years — forty winters of tension; [[rosvania/Wiki/Vorun Khar\|Vorun Khar]] walks among kings as the Hidden Witness. |
+| 1460–1501 SA | The Still Years — forty winters of tension; [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]] walks among kings as the Hidden Witness. |
 
 ## Third Age (1 TA – ?) — Age of Shadow and Return
 
 | Years | Event |
 | --- | --- |
-| 1 TA | The First Seal of the [[rosvania/Wiki/Doomlands\|Doomlands]] breaks. The Chosen Party gathers: [[rosvania/Wiki/Floris Flex\|Floris Flex]], [[rosvania/Wiki/Gerard\|Gerard]], [[rosvania/Wiki/Kazzimir\|Kazzimir]] and [[rosvania/Wiki/Levren\|Levren]] meet upon the road to [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]]. |
-| 1 TA | The [[rosvania/Wiki/Artifacts & Items/Cursed Map\|Cursed Map]]; the journey through [[rosvania/Wiki/Races/Bourgeosy\|Bourgeosy]] and [[rosvania/Wiki/Bumblebrook\|Bumblebrook]]; the Trial of Will. |
-| 2 TA | The [[Session 2: The Breaking of Fellowship\|Breaking of Fellowship]]; [[rosvania/Wiki/Lotusden\|Lotusden]]; the [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]]; the [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]] and the [[rosvania/Wiki/Necrotic King\|Necrotic King]]. |
-| 3 TA | The Trial of Combat aboard the [[rosvania/Wiki/Good ol' Jacky\|Good ol' Jacky]]; the fall of [[rosvania/Wiki/Captain Serak\|Captain Serak]]'s fleet; the judgment of [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]]. |
+| 1 TA | The First Seal of the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] breaks. The Chosen Party gathers: [[rosvania/Wiki/Characters/Floris Flex\|Floris Flex]], [[rosvania/Wiki/Characters/Gerard\|Gerard]], [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]] and [[rosvania/Wiki/Characters/Levren\|Levren]] meet upon the road to [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]]. |
+| 1 TA | The [[rosvania/Wiki/Artifacts & Items/Cursed Map\|Cursed Map]]; the journey through [[rosvania/Wiki/Races/Bourgeosy\|Bourgeosy]] and [[rosvania/Wiki/Realms & Geography/Bumblebrook\|Bumblebrook]]; the Trial of Will. |
+| 2 TA | The [[Session 2: The Breaking of Fellowship\|Breaking of Fellowship]]; [[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]]; the [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]]; the [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]] and the [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]]. |
+| 3 TA | The Trial of Combat aboard the [[rosvania/Wiki/Characters/Good ol' Jacky\|Good ol' Jacky]]; the fall of [[rosvania/Wiki/Characters/Captain Serak\|Captain Serak]]'s fleet; the judgment of [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]]. |
 
 ## See also
 

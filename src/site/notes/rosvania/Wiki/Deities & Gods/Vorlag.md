@@ -10,7 +10,7 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
 > <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
@@ -32,7 +32,7 @@
 
 ## Role in the trials
 
-Vorlag judged the brutal 3v3 tournament alongside [[rosvania/Wiki/Characters/Josephine Kane\|Josephine Kane]] and [[rosvania/Wiki/Brother Tarsis\|Brother Tarsis]]. His presence marked the moment the Chosen Party drew the attention of the order that may one day accept them into its ranks.
+Vorlag judged the brutal 3v3 tournament alongside [[rosvania/Wiki/Characters/Josephine Kane\|Josephine Kane]] and [[rosvania/Wiki/Characters/Brother Tarsis\|Brother Tarsis]]. His presence marked the moment the Chosen Party drew the attention of the order that may one day accept them into its ranks.
 
 ## See also
 

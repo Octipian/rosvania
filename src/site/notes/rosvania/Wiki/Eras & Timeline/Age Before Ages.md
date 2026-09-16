@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -24,7 +24,7 @@
 > **Type** — Era (pre-history)
 > **Period** — Before time was counted
 > **Followed by** — The [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]] (0 FA)
-> **Key events** — The Three Decrees → the forging of the [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] → the fall of [[rosvania/Wiki/Vharuk\|Vharuk]] → the [[rosvania/Wiki/War of Life\|War of Life]]
+> **Key events** — The Three Decrees → the forging of the [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]] → the fall of [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] → the [[rosvania/Wiki/War of Life\|War of Life]]
 
 > *"Before time was counted, before the first dawn rose, there was only the Unseen Father."*
 
@@ -32,15 +32,15 @@ The **Age Before Ages** is the pre-literal history of [[rosvania/Wiki/Rosvania\|
 
 ## The Forging
 
-The [[rosvania/Wiki/Unseen Father\|Unseen Father]], nameless and eternal, desired harmony from the vast nothing. By His **Three Decrees** — earth from sky, sun and stars in motion, and life upon the clay — He shaped the silence into song. The [[rosvania/Wiki/Races/Elves\|Elves]] awoke from starlight, the [[rosvania/Wiki/Races/Dwarves\|Dwarves]] from mountain-heart, and [[rosvania/Wiki/Races/Men\|Men]] from the soil between them.
+The [[rosvania/Wiki/Deities & Gods/Unseen Father\|Unseen Father]], nameless and eternal, desired harmony from the vast nothing. By His **Three Decrees** — earth from sky, sun and stars in motion, and life upon the clay — He shaped the silence into song. The [[rosvania/Wiki/Races/Elves\|Elves]] awoke from starlight, the [[rosvania/Wiki/Races/Dwarves\|Dwarves]] from mountain-heart, and [[rosvania/Wiki/Races/Men\|Men]] from the soil between them.
 
 ## The Wardens and the Fall
 
-To tend His creation, the Father drew from His essence the eight [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]]. All was balance — until [[rosvania/Wiki/Vharuk\|Vharuk]], Warden of Silence, beheld mortal clamor and despised its noise. In secret he forged the [[rosvania/Wiki/Races/Orcs\|Orcs]] and [[rosvania/Wiki/Races/Goblins\|Goblins]], corrupted [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]]'s essence into the [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]], and proclaimed the [[rosvania/Wiki/Deities & Gods/Doctrine of Desolation\|Doctrine of Desolation]].
+To tend His creation, the Father drew from His essence the eight [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]]. All was balance — until [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]], Warden of Silence, beheld mortal clamor and despised its noise. In secret he forged the [[rosvania/Wiki/Races/Orcs\|Orcs]] and [[rosvania/Wiki/Races/Goblins\|Goblins]], corrupted [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]]'s essence into the [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]], and proclaimed the [[rosvania/Wiki/Deities & Gods/Doctrine of Desolation\|Doctrine of Desolation]].
 
 ## The War of Life
 
-Vharuk's betrayal brought the [[rosvania/Wiki/War of Life\|War of Life]] — a divine civil war in which the loyal Wardens and the mortal races united under the banners of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]]. It ended in the year that would become 10 FA, with Vharuk's body shattered at the [[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]] and his soul sealed beneath the [[rosvania/Wiki/Doomlands\|Doomlands]].
+Vharuk's betrayal brought the [[rosvania/Wiki/War of Life\|War of Life]] — a divine civil war in which the loyal Wardens and the mortal races united under the banners of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]]. It ended in the year that would become 10 FA, with Vharuk's body shattered at the [[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]] and his soul sealed beneath the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]].
 
 ## Aftermath
 
@@ -48,7 +48,7 @@ The Father withdrew. The Wardens dimmed. Mortals stood among the ashes of gods �
 
 ## See also
 
-- [[rosvania/Wiki/Unseen Father\|Unseen Father]] · [[rosvania/Wiki/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline of Rosvania]]
+- [[rosvania/Wiki/Deities & Gods/Unseen Father\|Unseen Father]] · [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline of Rosvania]]
 
 ## Sources
 

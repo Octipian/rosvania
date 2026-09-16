@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,13 +23,13 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Fortress (ruin)
 > **Location** — The far north of [[rosvania/Wiki/Rosvania\|Rosvania]]
-> **Master** — [[rosvania/Wiki/Vharuk\|Vharuk]] (formerly)
+> **Master** — [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] (formerly)
 > **Event** — The final battle of the [[rosvania/Wiki/War of Life\|War of Life]] (Year 10 FA)
 > **Now** — A monument of victory and grief, swallowed by the [[rosvania/Wiki/Realms & Geography/Doomlands\|northern dark]]
 
 > *"The combined hosts stormed the Black Spire of Mourning in the far north."*
 
-The **Black Spire of Mourning** is the fortress of the far north where the [[rosvania/Wiki/War of Life\|War of Life]] reached its end — the stronghold of [[rosvania/Wiki/Vharuk\|Vharuk]] the Stillborn Flame, and the place where his body was shattered.
+The **Black Spire of Mourning** is the fortress of the far north where the [[rosvania/Wiki/War of Life\|War of Life]] reached its end — the stronghold of [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] the Stillborn Flame, and the place where his body was shattered.
 
 ## The final battle
 
@@ -41,7 +41,7 @@ The Spire stands in the creeping shadow of the [[rosvania/Wiki/Realms & Geograph
 
 ## See also
 
-- [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]] · [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]
+- [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] · [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]] · [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]
 
 ## Sources
 

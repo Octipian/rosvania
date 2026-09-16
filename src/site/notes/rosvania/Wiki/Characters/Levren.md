@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -38,7 +38,7 @@ At the goblin ambush on the road to [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]
 
 ## Cautious and cursed
 
-- In [[rosvania/Wiki/Lotusden\|Lotusden]], where the blacksmith scammed both [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]] and [[rosvania/Wiki/Characters/Gerard\|Gerard]], Levren — more cautious — secured a single weapon worth the gold.
+- In [[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]], where the blacksmith scammed both [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]] and [[rosvania/Wiki/Characters/Gerard\|Gerard]], Levren — more cautious — secured a single weapon worth the gold.
 - From the [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]], Levren's hand summoned a **vengeful paladin fated to hunt him** — a curse that followed the party to the [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]], where its paladin appeared from the reeds before a colossal hand of black tentacles dragged it screaming beneath the surface.
 
 ## See also

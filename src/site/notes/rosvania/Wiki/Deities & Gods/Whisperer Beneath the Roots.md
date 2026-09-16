@@ -10,7 +10,7 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
 > <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
@@ -25,7 +25,7 @@
 > **Nature** — A fragment of [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]'s will
 > **Location** — Beneath the roots of [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]]
 > **Era** — The [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]]
-> **Work** — The corruption of Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]]; the Radiant Dominion
+> **Work** — The corruption of Queen [[rosvania/Wiki/Realms & Geography/Vael'Nir\|Vael'Nir]]; the Radiant Dominion
 > **Fate** — Consumed by its own deceit (c. 561 FA)
 
 > *"Cloaked in false radiance, it seduced Queen Vael'Nir of the Elves, promising the return of Solareth's glory."*
@@ -34,7 +34,7 @@ The **Whisperer Beneath the Roots** was a fragment of [[rosvania/Wiki/Deities & 
 
 ## The deceit
 
-In the Age of Empire and Shadow, while the gods were silent, the Whisperer stirred beneath the roots of the Elven realm. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]]'s glory, it seduced Queen [[rosvania/Wiki/Vael'Nir\|Vael'Nir]]. Under its spell, Etharion became the *Radiant Dominion*, and the Elves marched in holy fire against Men.
+In the Age of Empire and Shadow, while the gods were silent, the Whisperer stirred beneath the roots of the Elven realm. Cloaked in false radiance and promising the return of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]]'s glory, it seduced Queen [[rosvania/Wiki/Realms & Geography/Vael'Nir\|Vael'Nir]]. Under its spell, Etharion became the *Radiant Dominion*, and the Elves marched in holy fire against Men.
 
 ## The war and the breaking
 

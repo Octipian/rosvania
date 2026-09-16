@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -24,7 +24,7 @@
 > **Type** — Empire (human)
 > **Alias** — The Domain of Aurelian, the golden empire
 > **Location** — The center of [[rosvania/Wiki/Rosvania\|Rosvania]]
-> **Ruler** — [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]]
+> **Ruler** — [[rosvania/Wiki/Rulers/Emperor Taryon V\|Emperor Taryon V]]
 > **Capital** — [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]]
 > **Founded** — [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]], the Forgeborn Era
 > **Current state** — Caught between two shadows ([[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]])
@@ -45,13 +45,13 @@ Under the long peace, the Dominion grew disciplined, radiant — a machine of em
 
 The golden empire still stands proud, its sun-towers burning against a darkening horizon — yet its splendor hides decay:
 
-- [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]] calls the omens of the north mere superstition and marshals no armies beyond the border.
+- [[rosvania/Wiki/Rulers/Emperor Taryon V\|Emperor Taryon V]] calls the omens of the north mere superstition and marshals no armies beyond the border.
 - A quiet influence — counsel none can trace — seeps through the halls of [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]], shaping the empire's blindness while the true peril gathers strength unseen.
 - In Year 2 TA, the rise of a necrotic plague on the southern border cannot be denied: the empire is caught **between two shadows** — the Undead armies of the south consuming its attention, while the true doom of the north gathers strength.
 
 ## See also
 
-- [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]] · [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]] · [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]] · [[Solar Empire of Menor\|Solar Empire of Menor]] · [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Metals of Rosvania]]
+- [[rosvania/Wiki/Rulers/Emperor Taryon V\|Emperor Taryon V]] · [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]] · [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]] · [[Solar Empire of Menor\|Solar Empire of Menor]] · [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Metals of Rosvania]]
 
 ## Sources
 

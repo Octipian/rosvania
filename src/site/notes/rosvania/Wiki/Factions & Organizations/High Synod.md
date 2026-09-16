@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -37,11 +37,11 @@ For ages, the Synod has debated one question in endless twilight: whether the El
 
 ## The Third Age
 
-The luxury ended when the Eldertree began to shriek. The rise of the **[[rosvania/Wiki/Necrotic King\|Necrotic King]]** — a profound mockery of life and perversion of [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]]'s domain — shattered the Synod's endless debate. The time for isolation is over; a decision, long delayed, must now be made. Its choice may shape the fate of all the living.
+The luxury ended when the Eldertree began to shriek. The rise of the **[[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]]** — a profound mockery of life and perversion of [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]]'s domain — shattered the Synod's endless debate. The time for isolation is over; a decision, long delayed, must now be made. Its choice may shape the fate of all the living.
 
 ## See also
 
-- [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] · [[rosvania/Wiki/Races/Elves\|Elves]] · [[rosvania/Wiki/Necrotic King\|Necrotic King]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]]
+- [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] · [[rosvania/Wiki/Races/Elves\|Elves]] · [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]]
 
 ## Sources
 

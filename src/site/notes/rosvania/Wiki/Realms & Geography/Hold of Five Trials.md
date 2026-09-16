@@ -11,7 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -26,7 +26,7 @@
 > **Founding** — After the [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]] ([[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]])
 > **Bond** — Oath, not crown
 > **Trial site** — The [[Session 3: The Trial of Combat\|Trial of Combat]] (Year 3 [[rosvania/Wiki/Eras & Timeline/Third Age\|TA]])
-> **Judges** — [[rosvania/Wiki/Vorlag\|Vorlag]], [[rosvania/Wiki/Brother Tarsis\|Brother Tarsis]], [[rosvania/Wiki/Characters/Josephine Kane\|Josephine Kane]]
+> **Judges** — [[rosvania/Wiki/Deities & Gods/Vorlag\|Vorlag]], [[rosvania/Wiki/Characters/Brother Tarsis\|Brother Tarsis]], [[rosvania/Wiki/Characters/Josephine Kane\|Josephine Kane]]
 
 > *"A realm of warriors bound by oath rather than crown."*
 
@@ -38,7 +38,7 @@ From the wreck of the [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]], th
 
 ## The Trials
 
-The Hold gives its name to the five trials by which warriors prove themselves — the road of the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]]. In Year 3 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], the Chosen Party entered the **Trial of Combat**: a brutal 3v3 tournament judged by [[rosvania/Wiki/Characters/Josephine Kane\|Josephine Kane]], [[rosvania/Wiki/Vorlag\|Vorlag]], Commander of the Protectors, and [[rosvania/Wiki/Brother Tarsis\|Brother Tarsis]], a dwarven warrior-priest carrying a hammer forged from the [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Deep's Gift]]. Through grit and blood, the party earned victory — unlocking the path to the next trials.
+The Hold gives its name to the five trials by which warriors prove themselves — the road of the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]]. In Year 3 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], the Chosen Party entered the **Trial of Combat**: a brutal 3v3 tournament judged by [[rosvania/Wiki/Characters/Josephine Kane\|Josephine Kane]], [[rosvania/Wiki/Deities & Gods/Vorlag\|Vorlag]], Commander of the Protectors, and [[rosvania/Wiki/Characters/Brother Tarsis\|Brother Tarsis]], a dwarven warrior-priest carrying a hammer forged from the [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Deep's Gift]]. Through grit and blood, the party earned victory — unlocking the path to the next trials.
 
 ## The Third Age
 

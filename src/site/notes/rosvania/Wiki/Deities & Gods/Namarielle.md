@@ -10,7 +10,7 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
 > <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
@@ -20,13 +20,13 @@
 > [!infobox]
 > # Namarielle
 > rf-imgslot
-> ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
+> ![Namarielle.png\|180](/img/user/images/Namarielle.png)
 > **Titles** — The Lifebringer, Mother of Renewal
 > **Type** — Deity ([[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Warden]])
 > **Domain** — Life, renewal, the growing world
 > **Affiliation** — [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]], [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]]
 > **Enemies** — [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]], the [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]], the [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]]
-> **Notable acts** — Sealing [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] in the [[rosvania/Wiki/Doomlands\|Doomlands]]
+> **Notable acts** — Sealing [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] in the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]
 
 > *"Who taught the forests to breathe."*
 
@@ -43,12 +43,12 @@ Before the [[rosvania/Wiki/War of Life\|War of Life]], [[rosvania/Wiki/Deities &
 ## History
 
 - In the [[rosvania/Wiki/War of Life\|War of Life]], Namarielle fought beside [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]] in the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]] as healer and renewer.
-- At the war's end, she joined [[rosvania/Wiki/Characters/Athera\|Athera]] in binding [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]'s soul beneath the [[rosvania/Wiki/Doomlands\|Doomlands]] — a prison of eternal ice and silence.
+- At the war's end, she joined [[rosvania/Wiki/Characters/Athera\|Athera]] in binding [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]'s soul beneath the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] — a prison of eternal ice and silence.
 - In the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], the rise of the [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]] — a mockery of life "profound" enough to shatter the [[rosvania/Wiki/Factions & Organizations/High Synod\|High Synod]]'s centuries of debate — is seen as a perversion of her very domain.
 
 ## Legacy
 
-- The [[rosvania/Wiki/Races/Dwarves\|Dwarves]] say the [[rosvania/Wiki/Metals of Rosvania\|Deep's Gift]] resists the chill of Vharuk's Breath; the [[rosvania/Wiki/Races/Elves\|Elves]] say her voice still weeps under the world.
+- The [[rosvania/Wiki/Races/Dwarves\|Dwarves]] say the [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Deep's Gift]] resists the chill of Vharuk's Breath; the [[rosvania/Wiki/Races/Elves\|Elves]] say her voice still weeps under the world.
 - The [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]]'s rebirth from the mists of the old war is a wound upon her domain that all the living feel.
 
 ## See also

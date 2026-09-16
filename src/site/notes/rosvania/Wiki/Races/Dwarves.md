@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -25,7 +25,7 @@
 > **Origin** — Born from mountain-heart by the Third Decree
 > **Patron** — [[rosvania/Wiki/Realms & Geography/Korran-Dur\|Korran-Dur]], the Deep Warden
 > **Homeland** — [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]]
-> **Craft** — [[rosvania/Wiki/Metals of Rosvania\|Light-forged steel]], the Deep's Gift
+> **Craft** — [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Light-forged steel]], the Deep's Gift
 > **Status** — Sealed in grim preparation ([[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]])
 
 > *"The Dwarves from mountain-heart."*
@@ -38,16 +38,16 @@ The Dwarves are the smiths and wardens of the deep places: enduring, craft-proud
 
 ## History
 
-- **[[rosvania/Wiki/War of Life\|War of Life]]:** guided by Korran-Dur, the Dwarves of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] forged **light-forged steel** — the only metal that could wound [[rosvania/Wiki/Vharuk\|Vharuk]]'s kin, the [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]]. They armed the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]] itself.
+- **[[rosvania/Wiki/War of Life\|War of Life]]:** guided by Korran-Dur, the Dwarves of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] forged **light-forged steel** — the only metal that could wound [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]'s kin, the [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]]. They armed the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]] itself.
 - **Ages of isolation:** through the ages, Durakheim endured behind its gates, its forges never silent.
 
 ## The Third Age
 
-The gates of Durakheim are sealed; no traveler enters, no envoy departs. From within comes the ceaseless thunder of the forges, where the sons of Durak smelt weapons from the **[[rosvania/Wiki/Metals of Rosvania\|Deep's Gift]]** — a strange, living metal said to resist the chill of Vharuk's Breath. Their grim silence is absolute: they prepare for a final war they believe cannot be won. Among their number, [[rosvania/Wiki/Brother Tarsis\|Brother Tarsis]] carries a hammer of the Deep's Gift in the service of the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]].
+The gates of Durakheim are sealed; no traveler enters, no envoy departs. From within comes the ceaseless thunder of the forges, where the sons of Durak smelt weapons from the **[[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Deep's Gift]]** — a strange, living metal said to resist the chill of Vharuk's Breath. Their grim silence is absolute: they prepare for a final war they believe cannot be won. Among their number, [[rosvania/Wiki/Characters/Brother Tarsis\|Brother Tarsis]] carries a hammer of the Deep's Gift in the service of the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]].
 
 ## See also
 
-- [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] · [[rosvania/Wiki/Realms & Geography/Korran-Dur\|Korran-Dur]] · [[rosvania/Wiki/Metals of Rosvania\|Metals of Rosvania]] · [[rosvania/Wiki/Brother Tarsis\|Brother Tarsis]] · [[rosvania/Wiki/Races/Races of Rosvania\|Races of Rosvania]]
+- [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] · [[rosvania/Wiki/Realms & Geography/Korran-Dur\|Korran-Dur]] · [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Metals of Rosvania]] · [[rosvania/Wiki/Characters/Brother Tarsis\|Brother Tarsis]] · [[rosvania/Wiki/Races/Races of Rosvania\|Races of Rosvania]]
 
 ## Sources
 

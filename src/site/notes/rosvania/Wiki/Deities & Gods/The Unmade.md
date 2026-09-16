@@ -10,7 +10,7 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
 > <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
@@ -25,7 +25,7 @@
 > **Creator** — [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]], from the stolen essence of [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]]
 > **Nature** — Perfect in their emptiness
 > **Threat** — "Legions that do not sleep"
-> **Where** — Beneath the [[rosvania/Wiki/Doomlands\|Doomlands]]
+> **Where** — Beneath the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]
 
 > *"Beings neither living nor dead, perfect in their emptiness."*
 
@@ -39,16 +39,16 @@ Before his betrayal was revealed, Vharuk took from Namarielle the breath of rene
 
 - **Neither living nor dead** — they exist in the hollow stillness Vharuk adored; death cannot claim what never truly lived.
 - **Perfect in emptiness** — empty of passion, of will, of the noise of life; they are the [[rosvania/Wiki/Deities & Gods/Doctrine of Desolation\|Doctrine of Desolation]] made flesh.
-- **Their master's kin** — only [[rosvania/Wiki/Metals of Rosvania\|light-forged steel]] could wound them in the [[rosvania/Wiki/War of Life\|War of Life]].
+- **Their master's kin** — only [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|light-forged steel]] could wound them in the [[rosvania/Wiki/War of Life\|War of Life]].
 
 ## History
 
 - **[[rosvania/Wiki/War of Life\|War of Life]]:** The [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]] fought the Unmade across the burning heavens; the [[rosvania/Wiki/Races/Dwarves\|Dwarves]] of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] forged the only weapon that could harm them.
-- **[[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]:** Whispers among the scattered survivors of the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]] tell of a stirring host — "legions that do not sleep," waiting beneath the aurora-less sky of the [[rosvania/Wiki/Doomlands\|Doomlands]], as the First Seal breaks.
+- **[[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]:** Whispers among the scattered survivors of the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]] tell of a stirring host — "legions that do not sleep," waiting beneath the aurora-less sky of the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]], as the First Seal breaks.
 
 ## See also
 
-- [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] · [[rosvania/Wiki/Deities & Gods/Doctrine of Desolation\|Doctrine of Desolation]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Doomlands\|Doomlands]]
+- [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] · [[rosvania/Wiki/Deities & Gods/Doctrine of Desolation\|Doctrine of Desolation]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]
 
 ## Sources
 

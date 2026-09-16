@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -22,16 +22,16 @@
 > rf-imgslot
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Forged race
-> **Origin** — Forged by [[rosvania/Wiki/Vharuk\|Vharuk]] from the crawling things of the deep earth
+> **Origin** — Forged by [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] from the crawling things of the deep earth
 > **Old homeland** — The [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]] (lost)
-> **New homeland** — [[rosvania/Wiki/Vael'nore\|Vael'nore]]
+> **New homeland** — [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]]
 > **Nature** — Petty, greedy, thriving on ruin
 > **Organizations** — The [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]]
 > **Known figures** — Grak the Chain-Master, the lanista Batrok
 
 > *"A race of petty, greedy creatures who would thrive on the misery of others."*
 
-The **Goblins** are the second of [[rosvania/Wiki/Vharuk\|Vharuk]]'s forged races — mean and covetous, made from the crawling things of the deep earth, and prosperous only in the ruin of others.
+The **Goblins** are the second of [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]'s forged races — mean and covetous, made from the crawling things of the deep earth, and prosperous only in the ruin of others.
 
 ## Origin and exile
 
@@ -39,7 +39,7 @@ Forged by Vharuk before the [[rosvania/Wiki/War of Life\|War of Life]], the Gobl
 
 ## The Syndicates
 
-In the forests of [[rosvania/Wiki/Vael'nore\|Vael'nore]], the Goblins abandoned open warfare for an insidious enterprise: slavery. Under figures like **Grak the Chain-Master**, they formed the first [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]]. In the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]], the lanista **Batrok** grew rich providing gladiators for the arenas of the continent.
+In the forests of [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]], the Goblins abandoned open warfare for an insidious enterprise: slavery. Under figures like **Grak the Chain-Master**, they formed the first [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]]. In the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]], the lanista **Batrok** grew rich providing gladiators for the arenas of the continent.
 
 ## The Third Age
 
@@ -47,7 +47,7 @@ The Syndicates flourish beneath the bright markets of the east — a quiet rot t
 
 ## See also
 
-- [[rosvania/Wiki/Vael'nore\|Vael'nore]] · [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]] · [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]] · [[rosvania/Wiki/Vharuk\|Vharuk]] · [[rosvania/Wiki/Races/Races of Rosvania\|Races of Rosvania]]
+- [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]] · [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]] · [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] · [[rosvania/Wiki/Races/Races of Rosvania\|Races of Rosvania]]
 
 ## Sources
 

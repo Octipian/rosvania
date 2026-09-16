@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -41,11 +41,11 @@ Men are the race of the middle: not long-lived as the Elves nor unyielding as th
 - **[[rosvania/Wiki/War of Life\|War of Life]]:** Tuzland sent a small host to the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]] — but its champions, the Demigods of the Hammered Sun, were children of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]]'s blessing.
 - **[[rosvania/Wiki/Eras & Timeline/First Age\|First Age]]:** the first human empire, [[Solar Empire of Menor\|Menor]], arose and fell in pride; Tuzland was half-drowned by [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]].
 - **[[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]]:** the [[rosvania/Wiki/Factions & Organizations/Tuzlean Concord\|Tuzlean Concord]] and then the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] rebuilt the world of Men; the [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]] divided the west; the [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]] took the coasts.
-- **[[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]:** the Dominion stands at the center — caught between the very real Orc war in the [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]] and the hidden doom of the north, its emperor blind to the whisper in [[rosvania/Wiki/Velmoria\|Velmoria]]'s halls.
+- **[[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]:** the Dominion stands at the center — caught between the very real Orc war in the [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]] and the hidden doom of the north, its emperor blind to the whisper in [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]]'s halls.
 
 ## See also
 
-- [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] · [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Tuzland and the Whispering Sands]] · [[Solar Empire of Menor\|Solar Empire of Menor]] · [[rosvania/Wiki/Emperor Taryon V\|Emperor Taryon V]] · [[rosvania/Wiki/Races/Races of Rosvania\|Races of Rosvania]]
+- [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] · [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Tuzland and the Whispering Sands]] · [[Solar Empire of Menor\|Solar Empire of Menor]] · [[rosvania/Wiki/Rulers/Emperor Taryon V\|Emperor Taryon V]] · [[rosvania/Wiki/Races/Races of Rosvania\|Races of Rosvania]]
 
 ## Sources
 

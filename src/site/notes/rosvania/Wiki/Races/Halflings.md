@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -23,7 +23,7 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Lesser kindred
 > **Origin** — Unrecorded in the lore
-> **Homelands** — Towns such as [[rosvania/Wiki/Bumblebrook\|Bumblebrook]]
+> **Homelands** — Towns such as [[rosvania/Wiki/Realms & Geography/Bumblebrook\|Bumblebrook]]
 > **Nature** — Warm hearths, foolish hearts
 > **Known places** — Bumblebrook, a haven along the party's road
 
@@ -33,11 +33,11 @@ The **Halflings** are a small, warm-hearted people of [[rosvania/Wiki/Rosvania\|
 
 ## Known places
 
-- **[[rosvania/Wiki/Bumblebrook\|Bumblebrook]]** — a halfling town on the road south, where the Chosen Party rested in Year 1 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]. There, laughter masked unease as the winds of the north howled beyond the hearth-light.
+- **[[rosvania/Wiki/Realms & Geography/Bumblebrook\|Bumblebrook]]** — a halfling town on the road south, where the Chosen Party rested in Year 1 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]. There, laughter masked unease as the winds of the north howled beyond the hearth-light.
 
 ## See also
 
-- [[rosvania/Wiki/Bumblebrook\|Bumblebrook]] · [[rosvania/Wiki/Races/Races of Rosvania\|Races of Rosvania]] · [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]]
+- [[rosvania/Wiki/Realms & Geography/Bumblebrook\|Bumblebrook]] · [[rosvania/Wiki/Races/Races of Rosvania\|Races of Rosvania]] · [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]]
 
 ## Sources
 

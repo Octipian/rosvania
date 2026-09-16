@@ -10,8 +10,8 @@
 
 
 
-> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Vharuk\|Vharuk]]</sub>
+> [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
 
 </div></div>
@@ -40,15 +40,15 @@ In Arglaxx, the party found an escaped goblin clutching the map. The parchment p
 ## The journey south
 
 - In [[rosvania/Wiki/Races/Bourgeosy\|Bourgeosy]], a learned mage agreed to study the map. When he peered into its depths, horror seized him; that very night he vanished — fleeing, or hiding from what he had seen. He would return, hollow-eyed, in [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]].
-- In the forest beyond [[rosvania/Wiki/Bumblebrook\|Bumblebrook]], the map's malice conjured an illusion of [[rosvania/Wiki/Golgoth\|Golgoth]]; [[rosvania/Wiki/Kazzimir\|Kazzimir]]'s healing only strengthened the phantom until [[rosvania/Wiki/Floris Flex\|Floris Flex]] discerned and shattered the deceit.
+- In the forest beyond [[rosvania/Wiki/Realms & Geography/Bumblebrook\|Bumblebrook]], the map's malice conjured an illusion of [[rosvania/Wiki/Characters/Golgoth\|Golgoth]]; [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]]'s healing only strengthened the phantom until [[rosvania/Wiki/Characters/Floris Flex\|Floris Flex]] discerned and shattered the deceit.
 
 ## The Trial of Will
 
-At the ancient shrine, the party's courage was tested. In desperation, Floris called forth an undead demon to seize control of the curse; [[rosvania/Wiki/Gerard\|Gerard]] hurled the map into the rift — and Floris, acting on instinct, caught it. That single act, born of pride and protection alike, satisfied the shrine's trial. The map was kept — and with it, the hunger it carries.
+At the ancient shrine, the party's courage was tested. In desperation, Floris called forth an undead demon to seize control of the curse; [[rosvania/Wiki/Characters/Gerard\|Gerard]] hurled the map into the rift — and Floris, acting on instinct, caught it. That single act, born of pride and protection alike, satisfied the shrine's trial. The map was kept — and with it, the hunger it carries.
 
 ## See also
 
-- [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]] · [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Floris Flex\|Floris Flex]] · [[rosvania/Wiki/Golgoth\|Golgoth]] · [[rosvania/Wiki/Races/Bourgeosy\|Bourgeosy]]
+- [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]] · [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Characters/Floris Flex\|Floris Flex]] · [[rosvania/Wiki/Characters/Golgoth\|Golgoth]] · [[rosvania/Wiki/Races/Bourgeosy\|Bourgeosy]]
 
 ## Sources
 
