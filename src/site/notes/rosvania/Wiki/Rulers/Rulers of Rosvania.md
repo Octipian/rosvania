@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rosvania/wiki/rulers-of-rosvania/","title":"Rulers of Rosvania","tags":["rosvania/history","type/index"],"dg-note-properties":{"title":"Rulers of Rosvania","tags":["rosvania/history","type/index"],"type":"Index","aliases":["the Dynasties of Rosvania","the Thrones of Rosvania"],"summary":"The dynasties, monarchs, and warlords who have ruled the realms of Rosvania across the ages"}}
+{"dg-publish":true,"permalink":"/rosvania/wiki/rulers/rulers-of-rosvania/","title":"Rulers of Rosvania","tags":["rosvania/history","type/index"],"dg-note-properties":{"title":"Rulers of Rosvania","tags":["rosvania/history","type/index"],"type":"Index","aliases":["the Dynasties of Rosvania","the Thrones of Rosvania"],"summary":"The dynasties, monarchs, and warlords who have ruled the realms of Rosvania across the ages"}}
 ---
 
 
