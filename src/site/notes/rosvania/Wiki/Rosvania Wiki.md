@@ -13,6 +13,11 @@
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
 > <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
+> 🔍 **Search the wiki** — type in the box below (or press `Ctrl+Shift+F` for the full search pane).
+
+```query
+path:rosvania/Wiki
+```
 
 </div></div>
 
@@ -56,8 +61,8 @@ The world stands in the **[[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]
 - **Frozen north:** [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] · **Mountains:** [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] · **Northwest forests:** [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]]
 - **Heartland empire:** [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] · **Shattered southwest:** [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Tuzland and the Whispering Sands]]
 - **Orc lands:** [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]] · **Goblin wastes:** [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]] · **Eastern lands:** [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]] · [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]]
-- **Wetlands & homeland of [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]]:** [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]] · [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]]
-- **Cities and sites:** [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]] · [[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]] · [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] · [[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]]
+- **Wetlands & homeland of [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]]:** [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]] · [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]] · [[rosvania/Wiki/Realms & Geography/Rizzhia\|Rizzhia]] (fallen)
+- **Cities and sites:** [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]] · [[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]] · [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] · [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]] · [[rosvania/Wiki/Realms & Geography/Ruins of Varethil\|Ruins of Varethil]] · [[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]]
 
 ## History & Wars
 

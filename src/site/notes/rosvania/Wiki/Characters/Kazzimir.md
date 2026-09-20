@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rosvania/wiki/characters/kazzimir/","title":"Kazzimir","tags":["rosvania/character","rosvania/pc","type/character"],"dg-note-properties":{"title":"Kazzimir","tags":["rosvania/character","rosvania/pc","type/character"],"type":"Character (player character)","aliases":["the warrior marked by divine scars"],"species":"Unknown (warrior)","homeland":"Zaporizzia","class":"Warrior; healer; can transform into a giant octopus","role":"Member of the Chosen Party","first_appearance":"Session 1 (Year 1 TA)","status":"Active"}}
+{"dg-publish":true,"permalink":"/rosvania/wiki/characters/kazzimir/","title":"Kazzimir","tags":["rosvania/character","rosvania/pc","type/character"],"dg-note-properties":{"title":"Kazzimir","tags":["rosvania/character","rosvania/pc","type/character"],"type":"Character (player character)","aliases":["the warrior marked by divine scars"],"species":"Dhampir (reborn in the Swamp of Sh'rek, c. 1495 SA)","homeland":"Zaporizzia","class":"Warrior; healer; can transform into a giant octopus","role":"Member of the Chosen Party","first_appearance":"Session 1 (Year 1 TA)","status":"Active"}}
 ---
 
 
@@ -13,6 +13,11 @@
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
 > <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
+> 🔍 **Search the wiki** — type in the box below (or press `Ctrl+Shift+F` for the full search pane).
+
+```query
+path:rosvania/Wiki
+```
 
 </div></div>
 
@@ -23,6 +28,7 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Character (player character)
 > **Alias** — The warrior marked by divine scars
+> **Species** — Dhampir
 > **Homeland** — [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]]
 > **Gifts** — Healing magic; transformation into a giant octopus
 > **Party** — The Chosen Party
@@ -32,6 +38,10 @@
 > *"Kazzimir, a warrior marked by divine scars."*
 
 **Kazzimir** is the warrior of the Chosen Party marked by divine scars — a healer from the wetlands of [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]], and a man whose past keeps finding him.
+
+## The mire's mark
+
+Kazzimir grew up in [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]] on the edge of the [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]], and spent his early years selling death for coin as a mercenary, loyal to none of the realms that kept fighting over the mire. In c. 1495 SA he died in the deep marsh during a flare-up of the Rizzhian War — in ground still faintly claimed by [[rosvania/Wiki/Characters/Athera\|Athera]]'s forgotten power — and woke into something caught between two powers: Athera's wildness and the [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]]'s rot. Neither the King's servant nor fully alive, he became a **Dhampir**. He lived in the swamp for roughly nine years, learning to shapeshift, losing count of the moons and of his old name; roughly two decades after his death he re-emerged, old enough that almost no one from his mercenary days would recognize him — the identity of "Kazzimir the mercenary" shed entirely.
 
 ## The party's beginning
 
@@ -51,7 +61,7 @@ In Year 3, Kazzimir dove into the sea and transformed into a giant octopus — o
 
 ## See also
 
-- [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]] · [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]] · [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]] · [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]]
+- [[rosvania/Wiki/Sessions & Campaign/Session 1 - The Chosen Party\|Session 1 - The Chosen Party]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]] · [[rosvania/Wiki/Sessions & Campaign/Session 3 - The Trial of Combat\|Session 3 - The Trial of Combat]] · [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]] · [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]] · [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]] · [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]]
 
 ## Sources
 

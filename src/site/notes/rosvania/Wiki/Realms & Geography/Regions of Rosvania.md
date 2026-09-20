@@ -13,6 +13,11 @@
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
 > <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
+> 🔍 **Search the wiki** — type in the box below (or press `Ctrl+Shift+F` for the full search pane).
+
+```query
+path:rosvania/Wiki
+```
 
 </div></div>
 
@@ -57,6 +62,7 @@ An index of the known lands of [[rosvania/Wiki/Rosvania\|Rosvania]], from the fr
 
 - **[[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]]** — Kazzimir's swampy homeland.
 - **[[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]]** — the plague-ridden mire, cradle of the [[rosvania/Wiki/Deities & Gods/Necrotic King\|Necrotic King]].
+- **[[rosvania/Wiki/Realms & Geography/Rizzhia\|Rizzhia]]** — the fallen marsh kingdom that became the Swamp of Sh'rek.
 
 ## Notable Cities & Sites
 
@@ -64,6 +70,7 @@ An index of the known lands of [[rosvania/Wiki/Rosvania\|Rosvania]], from the fr
 - **[[rosvania/Wiki/Races/Bourgeosy\|Bourgeosy]]** — the bustling city where the mage fled the [[rosvania/Wiki/Artifacts & Items/Cursed Map\|Cursed Map]].
 - **[[rosvania/Wiki/Realms & Geography/Bumblebrook\|Bumblebrook]]** — the halfling town of warm hearths and foolish hearts.
 - **[[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]]** — the tiefling city of crimson lanterns and thieves' honor.
+- **[[rosvania/Wiki/Realms & Geography/Ruins of Varethil\|Ruins of Varethil]]** — the burned mining city beneath [[rosvania/Wiki/Realms & Geography/Ashrend Peaks\|Ashrend Peaks]], swallowed by dragonfire in 1487 SA.
 
 ## See also
 

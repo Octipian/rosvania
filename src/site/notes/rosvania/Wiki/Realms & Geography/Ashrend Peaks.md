@@ -13,6 +13,11 @@
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
 > <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
+> 🔍 **Search the wiki** — type in the box below (or press `Ctrl+Shift+F` for the full search pane).
+
+```query
+path:rosvania/Wiki
+```
 
 </div></div>
 
@@ -30,6 +35,10 @@
 
 The **Ashrend Peaks** are the mountain heights crossed by the Chosen Party in Year 2 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] — the site of one of their most desperate battles.
 
+## The lost city of Varethil
+
+The peak once hosted a city at its foot: **Varethil**, a mining town founded in 1240 SA on the sunmetal trade and chartered by the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] in 1245 SA. In 1487 SA — **the Burning** — a nesting dragon was driven off by the city's militia, only to return over the rooftops in a storm of fire; the burning support timbers beneath the ore-tunnels collapsed and took parts of the city down with them. It was never rebuilt; its ruins appear on the map as [[rosvania/Wiki/Realms & Geography/Ruins of Varethil\|Ruins of Varethil]].
+
 ## The ambush and the vengeance
 
 Beneath a moonless sky, the party met four goblins on the pass. Suspicion and fatigue clouded [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]]'s judgment; blades were drawn before words. When the skirmish ended, only one goblin escaped into the dark.
@@ -38,7 +47,7 @@ That night vengeance came: the survivor returned with a horde — dozens of kin 
 
 ## See also
 
-- [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]] · [[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]]
+- [[rosvania/Wiki/Realms & Geography/Ruins of Varethil\|Ruins of Varethil]] · [[rosvania/Wiki/Sessions & Campaign/Session 2 - The Breaking of Fellowship\|Session 2 - The Breaking of Fellowship]] · [[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]]
 
 ## Sources
 

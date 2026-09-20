@@ -13,6 +13,11 @@
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
 > <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
 
+> 🔍 **Search the wiki** — type in the box below (or press `Ctrl+Shift+F` for the full search pane).
+
+```query
+path:rosvania/Wiki
+```
 
 </div></div>
 
@@ -35,6 +40,12 @@ An index of the great metals of [[rosvania/Wiki/Rosvania\|Rosvania]] — the ore
 - **Nature:** the metal of fallen stars.
 - **Use:** the armies of the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] marched with solar-forged steel; its engineers raised sun-towers of the working. The Dominion is "built not on faith, but on the desperate need to reclaim their homeland" — Solarite is its reason made metal.
 
+## Sunmetal
+
+- **Found:** in veins beneath [[rosvania/Wiki/Realms & Geography/Ashrend Peaks\|Ashrend Peak]].
+- **Nature:** a rare fire-touched gold.
+- **History:** the ore that founded [[rosvania/Wiki/Realms & Geography/Ruins of Varethil\|Varethil]] — its discovery drew the prospectors whose claim the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] chartered as a city in 1245 SA, and it made the town modestly wealthy until the richest veins ran dry in the later [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]].
+
 ## The Deep's Gift
 
 - **Found:** in the deep halls of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]].
@@ -44,7 +55,7 @@ An index of the great metals of [[rosvania/Wiki/Rosvania\|Rosvania]] — the ore
 
 ## See also
 
-- [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] · [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]]
+- [[rosvania/Wiki/Realms & Geography/Ruins of Varethil\|Ruins of Varethil]] · [[rosvania/Wiki/Realms & Geography/Ashrend Peaks\|Ashrend Peaks]] · [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] · [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]]
 
 ## Sources
 
