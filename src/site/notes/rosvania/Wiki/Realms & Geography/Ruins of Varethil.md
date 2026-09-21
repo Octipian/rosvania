@@ -19,7 +19,7 @@
 > [!infobox]
 > # Ruins of Varethil
 > rf-imgslot
-> ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
+> ![Varethil-before.png\|180](/img/user/images/Varethil-before.png) ![Ruins_of_Varethil.png\|180](/img/user/images/Ruins_of_Varethil.png)
 > **Type** — City (ruin)
 > **Alias** — Varethil (1240–1487 SA)
 > **Location** — The foot of [[rosvania/Wiki/Realms & Geography/Ashrend Peaks\|Ashrend Peak]], on the southern trade road toward the [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]]

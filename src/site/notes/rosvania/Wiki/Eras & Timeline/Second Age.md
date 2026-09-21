@@ -46,6 +46,11 @@ From the chaos rose the human lords of the southwest, forging the [[rosvania/Wik
 
 Within Tuzland, noble houses turned blade against blade. The [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]] consumed three centuries. From its chaos rose [[rosvania/Wiki/Rulers/Taner IV\|Taner IV]], last of the half-divine commanders — but his death shattered unity. The survivors turned pirate, birthing the [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]]; from their rebellion rose the [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]], bound by oath rather than crown.
 
+This is also, not coincidentally, when [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]]'s own ducal line loses its grip and fractures into competing city-states — the entire continent destabilizing in this exact three-century window.
+
+> [!question] For the table
+> Whether that continental collapse is coincidence or something actively destabilizing the world — [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]] already walking? an early tremor from the weakening [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] seals? — is a thread worth deciding.
+
 ## 975–1300 SA — The Quiet Reign
 
 A weary calm settled. The Aurelian Dominion stood ascendant, its borders sealed by a titanic wall against the north; Emperor Aerion reunified the Domain (975 SA) and Emperor Solric built the golden age that gave [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]] its Palace of the Sun and the [[rosvania/Wiki/Races/Bourgeosy\|City of Bourgeosy]]. The Syndicates' gladiators died in bloodsport across the continent under the lanista Batrok. Tuzland fractured into petty kingdoms and pirate enclaves. The mining boomtown of [[rosvania/Wiki/Realms & Geography/Ruins of Varethil\|Varethil]] was founded (c. 1240 SA), feeding off the Domain's prosperity.

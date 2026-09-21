@@ -19,7 +19,7 @@
 > [!infobox]
 > # Velmoria
 > rf-imgslot
-> ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
+> ![Velmoria_2TA.png\|180](/img/user/images/Velmoria_2TA.png)
 > **Type** — City (capital)
 > **Location** — The heart of the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]]
 > **Ruler** — [[rosvania/Wiki/Rulers/Emperor Taryon V\|Emperor Taryon V]]

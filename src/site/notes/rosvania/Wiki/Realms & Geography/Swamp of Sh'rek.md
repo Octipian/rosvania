@@ -19,7 +19,7 @@
 > [!infobox]
 > # Swamp of Sh'rek
 > rf-imgslot
-> ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
+> ![Swamp_of_Shrek_2TA.png\|180](/img/user/images/Swamp_of_Shrek_2TA.png)
 > **Type** — Region (plague-marsh)
 > **Location** — The wetlands near [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]]
 > **Founded** — c. 40–60 SA (the kingdom of Rizzhia)

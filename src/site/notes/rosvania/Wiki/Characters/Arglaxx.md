@@ -19,7 +19,7 @@
 > [!infobox]
 > # Arglaxx
 > rf-imgslot
-> ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
+> ![Town_of_Arglaxx.png\|180](/img/user/images/Town_of_Arglaxx.png)
 > **Type** — City
 > **Alias** — The city of dust and deceit
 > **Location** — On the road to the east of [[rosvania/Wiki/Rosvania\|Rosvania]]
