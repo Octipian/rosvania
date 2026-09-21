@@ -11,25 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
-
-## Interactive map
-
-```leaflet
-id: rosvania-world-map
-image: [[Rosvania.png]]
-height: 500px
-lat: 50
-long: 50
-minZoom: 0
-maxZoom: 4
-defaultZoom: 0
-zoomDelta: 1
-unit: miles
-scale: 1
-darkMode: false
-showAllMarkers: true
-```
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] · [[rosvania/Wiki/Eras & Timeline/Rosvania - The Chronicles\|The Chronicles]]</sub>
 
 </div></div>
 
@@ -79,7 +61,7 @@ With the breaking of the First Seal, the Still Years ended. The [[rosvania/Wiki/
 
 ## See also
 
-- [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline of Rosvania]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions of Rosvania]] · [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]]
+- [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline of Rosvania]] · [[rosvania/Wiki/Eras & Timeline/Rosvania - The Chronicles\|The Chronicles of Rosvania]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions of Rosvania]] · [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]]
 - The campaign: [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign Chronicle]]
 
 ## Sources

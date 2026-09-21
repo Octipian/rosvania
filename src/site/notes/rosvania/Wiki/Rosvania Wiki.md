@@ -11,25 +11,7 @@
 
 
 > [!navbar] **[[rosvania/Wiki/Rosvania Wiki\|🏠 Home]]** · [[rosvania/Wiki/Races/Races of Rosvania\|Races]] · [[rosvania/Wiki/Realms & Geography/Regions of Rosvania\|Regions]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline]] · [[rosvania/Wiki/Eras & Timeline/Campaign Chronicle\|Campaign]] · [Source Lore](/img/user/rosvania/Rosvania%20lore.pdf)
-> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]</sub>
-
-## Interactive map
-
-```leaflet
-id: rosvania-world-map
-image: [[Rosvania.png]]
-height: 500px
-lat: 50
-long: 50
-minZoom: 0
-maxZoom: 4
-defaultZoom: 0
-zoomDelta: 1
-unit: miles
-scale: 1
-darkMode: false
-showAllMarkers: true
-```
+> <sub>[[rosvania/Wiki/Eras & Timeline/First Age\|⚜ First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] · [[rosvania/Wiki/Eras & Timeline/Rosvania - The Chronicles\|The Chronicles]]</sub>
 
 </div></div>
 
@@ -81,6 +63,7 @@ The world stands in the **[[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]
 
 - [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] · [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]] · [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]]
 - The ages of the world: [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]] · [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] · [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]
+- **Full history:** [[rosvania/Wiki/Eras & Timeline/Rosvania - The Chronicles\|The Chronicles of Rosvania]] — the chronicle from the forging of the world to the present year
 
 ## Factions
 
@@ -120,3 +103,4 @@ The world stands in the **[[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]
 ## Sources
 
 > **Primary source:** [Rosvania lore.pdf](/img/user/rosvania/Rosvania%20lore.pdf) — *The lore of Rosvania* (19 pages, Ages Before Ages to Year 3 TA).
+> **Full chronicle:** [[rosvania/Wiki/Eras & Timeline/Rosvania - The Chronicles\|The Chronicles of Rosvania]] — the world's complete history in one telling.
