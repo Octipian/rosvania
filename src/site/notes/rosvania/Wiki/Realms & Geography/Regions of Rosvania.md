@@ -32,6 +32,10 @@ An index of the known lands of [[rosvania/Wiki/Rosvania\|Rosvania]], from the fr
 
 - **[[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]]** — the deep forests of the [[rosvania/Wiki/Races/Elves\|Elves]]; home of the Eldertree and the [[rosvania/Wiki/Factions & Organizations/High Synod\|High Synod]].
 
+## The Frontier
+
+- **[[rosvania/Wiki/Factions & Organizations/Silver Accord\|Silver Accord]]** — the marchland crusader state wedged between [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]], [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]], and [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]]; its knights hold the Orc border on the Kor-gul line and man the frozen watch over the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] as the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]].
+
 ## The Center
 
 - **[[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]]** — the golden empire of Men, ruled from [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]] by [[rosvania/Wiki/Rulers/Emperor Taryon V\|Emperor Taryon V]].
@@ -46,7 +50,7 @@ An index of the known lands of [[rosvania/Wiki/Rosvania\|Rosvania]], from the fr
 
 - **[[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]]** — the northeastern plains; border of the Orc raids, walled against [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]].
 - **[[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]]** — the black plains, brutal homeland of the [[rosvania/Wiki/Races/Orcs\|Orcs]].
-- **[[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]]** — southeastern forests and trade cities of the [[rosvania/Wiki/Factions & Organizations/Silver Accord\|Silver Accord]]; lair of the [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]].
+- **[[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]]** — southeastern forests and trade cities of the east; lair of the [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]].
 
 ## The South
 

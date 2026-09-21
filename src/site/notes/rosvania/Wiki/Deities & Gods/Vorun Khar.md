@@ -41,6 +41,7 @@ Vorun Khar is not a god, but a fragment of one — a mortal echo of the Stillbor
 - A friend to kings, a wanderer among scholars, a voice of reason — he bends the great to blindness without ever being seen to bend.
 - He uses the very real Orc threat of Warlord [[rosvania/Wiki/Characters/Warlord Gorgath\|Gorgath]] to distract [[rosvania/Wiki/Rulers/Emperor Taryon V\|Emperor Taryon V]], ensuring the world remains blind to the true darkness stirring in the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]].
 - In [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]], his is the "quiet influence" that seeps through the halls — "a whisper of counsel none can trace."
+- Some theologians whisper that his freedom to walk unwatched is itself a veil of [[rosvania/Wiki/Realms & Geography/Serathis\|Serathis]] — for concealment does not discriminate about who it protects.
 
 ## The Third Age
 

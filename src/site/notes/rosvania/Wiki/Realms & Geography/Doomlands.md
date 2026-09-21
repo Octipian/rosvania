@@ -44,6 +44,10 @@ From the Doomlands comes the **Breath of Vharuk** — an unending blizzard that 
 - The **[[rosvania/Wiki/Factions & Organizations/Frost-Reavers\|Frost-Reavers]]** — pale marauders of the ice who sail black ships upon storm-torn seas.
 - The **[[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]]** — "legions that do not sleep," stirring in whispers beneath the aurora-less sky.
 
+## Black Ice
+
+Imprisonment leaves residue. When [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] was bound beneath the ice, some of his unraveling essence froze into shards of matte-black, faintly warm ice that never fully melts — **[[rosvania/Wiki/Realms & Geography/Black Ice\|Black Ice]]**. It forms naturally in the frozen waters around the Doomlands and the islands of the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]], which is why that watch is a containment line rather than a border patrol. A god of desolation does not get sealed away cleanly.
+
 ## The Third Age
 
 In the Cracking Age of the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]], the seals began to weaken; entire Aurelian legions vanished in expeditions to the north. In Year 1 of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], the **First Seal broke** — and the age of waiting was done. The wise know the storm will not stop until it has reached the whole world.

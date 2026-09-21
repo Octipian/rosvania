@@ -45,6 +45,15 @@ Vharuk's betrayal brought the [[rosvania/Wiki/War of Life\|War of Life]] — a d
 
 The Father withdrew. The Wardens dimmed. Mortals stood among the ashes of gods — and the [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]] began.
 
+The war had cost the six loyal Wardens each something of themselves:
+
+- [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]] struck the killing blow against Vharuk's body — and his light has never burned as bright since.
+- [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]] helped bind Vharuk beneath the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] alongside [[rosvania/Wiki/Characters/Athera\|Athera]], at the cost of her own essence bleeding into that prison forever.
+- [[rosvania/Wiki/Realms & Geography/Korran-Dur\|Korran-Dur]] withdrew fully into the stone — deeper than even the [[rosvania/Wiki/Races/Dwarves\|Dwarves]] of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] can follow. The Deep's Gift is his last unspoken blessing.
+- [[rosvania/Wiki/Realms & Geography/Vael'Thara\|Vael'Thara]] grieved hardest over the Elves' fall in the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]]; unlike the others she never fully withdrew — the Eldertree's Earth-Song is hers, still singing.
+- [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]] never forgave the arrogance that would become the [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]] — the only Warden confirmed to still manifest in the mortal world.
+- [[rosvania/Wiki/Realms & Geography/Serathis\|Serathis]] keeps concealment itself — neutral, protecting any secret, for anyone.
+
 ## See also
 
 - [[rosvania/Wiki/Deities & Gods/Unseen Father\|Unseen Father]] · [[rosvania/Wiki/Deities & Gods/Firstborn Wardens\|Firstborn Wardens]] · [[rosvania/Wiki/War of Life\|War of Life]] · [[rosvania/Wiki/Eras & Timeline/Timeline of Rosvania\|Timeline of Rosvania]]

@@ -35,6 +35,8 @@
 
 In the chaos that followed the [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]] — as [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]] drowned [[Solar Empire of Menor\|Menor]] and the world's power lay leaderless — Khar'doth rallied the scattered Orc tribes under a single banner for the first time since the [[rosvania/Wiki/War of Life\|War of Life]].
 
+He did not conquer a defended empire; he walked into a **power vacuum** — grieving, leaderless survivors with nothing left to organize resistance. And he did not invent Orc unity from nothing: centuries of necessity on the black plains had already produced the warlord hierarchy he merely completed. His was the first union of *all* the clans, not the first unity itself.
+
 ## The conquest
 
 Leading a great horde south from Gorthul-Maar, Khar'doth conquered the leaderless eastern lands. So ended the First Age — in salt, ruin, silence, and the triumphant war-cries of his Orcs.

@@ -34,7 +34,9 @@ The **Second Age** (0–1501 SA), the **Age of Mortals**, is the long era in whi
 
 ## 0–312 SA — The Years of Ash
 
-The divine light was gone. Empires lay shattered. The [[rosvania/Wiki/Races/Orcs\|Orcs]] ruled the eastern plains under [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]]; the [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]] grew rich on chains and misery; humanity wandered in hunger and exile. A dark age for mortals, a golden age for the savage kin.
+The divine light was gone. Empires lay shattered. The [[rosvania/Wiki/Races/Orcs\|Orcs]] ruled the eastern plains under [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]]; the [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]] grew rich on chains and misery; humanity wandered in hunger and exile. This was not a war humanity was losing — it was humanity **too broken to even fight**. A dark age for mortals, a golden age for the savage kin.
+
+The one bright spot of new nation-building in the ash was **[[rosvania/Wiki/Realms & Geography/Rizzhia\|Rizzhia]]** (c. 40–60 SA): refugees of drowned Menor and broken Tuzland, pushing into the western marshlands none else wanted. It rose and fell entirely within these years — falling to a lesser chieftain's siege and plague c. 290 SA — making it arguably the **first Second Age nation to rise and fall**, already a ghost by the time recovery began.
 
 ## 313–689 SA — The Forgeborn Era
 
@@ -46,15 +48,17 @@ Within Tuzland, noble houses turned blade against blade. The [[rosvania/Wiki/Tuz
 
 ## 975–1300 SA — The Quiet Reign
 
-A weary calm settled. The Aurelian Dominion stood ascendant, its borders sealed by a titanic wall against the north. The Syndicates' gladiators died in bloodsport across the continent. Tuzland fractured into petty kingdoms and pirate enclaves.
+A weary calm settled. The Aurelian Dominion stood ascendant, its borders sealed by a titanic wall against the north; Emperor Aerion reunified the Domain (975 SA) and Emperor Solric built the golden age that gave [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]] its Palace of the Sun and the [[rosvania/Wiki/Races/Bourgeosy\|City of Bourgeosy]]. The Syndicates' gladiators died in bloodsport across the continent under the lanista Batrok. Tuzland fractured into petty kingdoms and pirate enclaves. The mining boomtown of [[rosvania/Wiki/Realms & Geography/Ruins of Varethil\|Varethil]] was founded (c. 1240 SA), feeding off the Domain's prosperity.
 
 ## 1301–1459 SA — The Cracking Age
 
-Beneath the silence, something stirred. The Seals of the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] began to weaken; Aurelian legions sent to the frozen north never returned. Warlord [[rosvania/Wiki/Characters/Warlord Gorgath\|Gorgath]] united the Orc clans and raided the borders. In the northern highlands, the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]] were forged.
+Beneath the silence, something stirred. The Seals of the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] began to weaken; Aurelian expeditions sent to the frozen north never returned. Warlord [[rosvania/Wiki/Characters/Warlord Gorgath\|Gorgath]] united the Orc clans and raided the borders. In direct response, the **[[rosvania/Wiki/Factions & Organizations/Silver Accord\|Silver Accord]]** was founded (1301 SA) under Grand Marshal Eltharion, absorbing the older northern watch into what the world now calls the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]].
+
+This is also, very plausibly, when the **[[rosvania/Wiki/Realms & Geography/Black Ice\|Black Ice]]** trade first takes root — a fresh, chaotic border, a newly-formed watch order still finding its footing, and a prison cracking open for the first time in centuries. Corruption finds its easiest foothold in institutions too young to have built up their own discipline yet.
 
 ## 1460–1501 SA — The Still Years
 
-Forty winters of tension, not peace. The Orc raids became a serious threat; Emperor [[Taryon V\|Taryon V]] channeled his armies to the border. Beneath the noise of war, [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]] — the Hidden Witness — walked among kings, measuring mortal hearts while the true darkness gathered in the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]. *"Even false light can look like hope."*
+Forty winters of tension, not peace. The Orc raids became a serious threat; Emperor [[Taryon V\|Taryon V]] ruled a Domain that thought the north was superstition. [[rosvania/Wiki/Realms & Geography/Ruins of Varethil\|Varethil]] burned (1487 SA). Beneath the noise of war, [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]] — the Hidden Witness — walked openly among kings, using Gorgath's raids as cover, measuring mortal hearts while the true darkness gathered in the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]. Everything quietly rots under a surface of peace — which is exactly what the Still Years should mean. *"Even false light can look like hope."*
 
 ## Legacies
 

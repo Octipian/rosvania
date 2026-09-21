@@ -50,6 +50,7 @@ Something already buried in that ground — a splinter of [[rosvania/Wiki/Deitie
 
 ## Legacy
 
+- **A footnote of the Years of Ash:** Rizzhia rose (c. 40–60 SA) and fell (c. 290 SA) entirely within the dark first century of the ash — arguably the **first Second Age nation to rise and fall**. It never got the chance to be part of the recovery; it was already a ghost by the time recovery began.
 - The line of Sh'rek gave the swamp its name — the Swamp of Sh'rek.
 - The **Rizzhian War(s)**: not one war, but a recurring one. Whenever the King's rot grows strong enough to press outward, neighboring realms muster to push it back; each flare-up is remembered locally as "the Rizzhian War," though they are centuries apart and fought by different peoples each time.
 - The death of [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]] in the deep mire (c. 1495 SA) — and his rebirth as a Dhampir — in ground still faintly claimed by Athera's forgotten power. The King, by every account, "lost" a body that should have been his.

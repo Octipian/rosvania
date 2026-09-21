@@ -38,12 +38,13 @@ Korran-Dur is the mountain-heart from which the Dwarves were born by the Third D
 
 - In the [[rosvania/Wiki/War of Life\|War of Life]], Korran-Dur guided the [[rosvania/Wiki/Races/Dwarves\|Dwarves]] of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] to forge **[[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|light-forged steel]]** — the only metal that could wound [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]'s kin, the [[rosvania/Wiki/Deities & Gods/The Unmade\|The Unmade]].
 - The Dwarves of the war were the Alliance's great armorers, arming the hosts of [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]].
-- After the war he withdrew; his children sealed the gates of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] in later ages and toiled on without him.
+- After the war he withdrew **fully into the stone — deeper than even his own children can follow**. He does not speak, and he does not manifest. But the forges of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] have always run on ore and heat that feels, to the Dwarves, guided.
 
 ## Legacy
 
 - The [[rosvania/Wiki/Races/Dwarves\|Dwarves]] still venerate him; in the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] they forge weapons of the [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Deep's Gift]] — a strange, living metal said to resist Vharuk's cold — in preparation for a war they believe cannot be won.
-- The sealed gates of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] and the ceaseless thunder of its forges are his children's answer to the coming dark.
+- **The Deep's Gift is his last unspoken blessing** — it is not a good ore vein but a gift, which is why only Durakheim can work it.
+- The sealed gates of [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] read less like paranoia and more like **a people guarding something sacred**; the ceaseless thunder of the forges is his children's answer to the coming dark.
 
 ## See also
 

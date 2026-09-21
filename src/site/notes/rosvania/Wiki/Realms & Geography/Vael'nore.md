@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rosvania/wiki/realms-and-geography/vael-nore/","title":"Vael'nore","tags":["rosvania/geography","type/place"],"dg-note-properties":{"title":"Vael'nore","tags":["rosvania/geography","type/place"],"type":"Region","location":"The southeast forests of Rosvania","people":"Goblins (Syndicates), traders of the Silver Accord","notable":"The slave trade; the birth of the Goblin Syndicates","era":"First Age – present"}}
+{"dg-publish":true,"permalink":"/rosvania/wiki/realms-and-geography/vael-nore/","title":"Vael'nore","tags":["rosvania/geography","type/place"],"dg-note-properties":{"title":"Vael'nore","tags":["rosvania/geography","type/place"],"type":"Region","location":"The southeast forests of Rosvania","people":"Goblins (Syndicates), eastern traders","notable":"The slave trade; the birth of the Goblin Syndicates","era":"First Age – present"}}
 ---
 
 
@@ -22,7 +22,7 @@
 > ![Portrait Placeholder.png\|180](/img/user/rosvania/Wiki/img/Portrait%20Placeholder.png)
 > **Type** — Region
 > **Location** — The southeastern forests of [[rosvania/Wiki/Rosvania\|Rosvania]]
-> **People** — [[rosvania/Wiki/Races/Goblins\|Goblins]] (Syndicates), merchants of the [[rosvania/Wiki/Factions & Organizations/Silver Accord\|Silver Accord]]
+> **People** — [[rosvania/Wiki/Races/Goblins\|Goblins]] (Syndicates), eastern merchants
 > **Notable** — The slave markets; the Syndicate trade
 > **Current state** — Bright markets, singing gold, and shadows beneath the sea ([[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]])
 
@@ -38,11 +38,11 @@
 
 ## The Third Age
 
-Vael'nore wears a mask of prosperity: harbors filled with merchants, markets that sing with gold and laughter. To its people, the tidings from the north are distant myths. Yet the prophets in the temples of the [[rosvania/Wiki/Factions & Organizations/Silver Accord\|Silver Accord]] speak of shadows beneath the sea — and of a time when even the trade-winds will fall still.
+Vael'nore wears a mask of prosperity: harbors filled with merchants, markets that sing with gold and laughter. To its people, the tidings from the north are distant myths. Yet prophets in the eastern temples speak of shadows beneath the sea — and of a time when even the trade-winds will fall still.
 
 ## See also
 
-- [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]] · [[rosvania/Wiki/Races/Goblins\|Goblins]] · [[rosvania/Wiki/Factions & Organizations/Silver Accord\|Silver Accord]] · [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]]
+- [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]] · [[rosvania/Wiki/Races/Goblins\|Goblins]] · [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]] · [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]]
 
 ## Sources
 

@@ -37,12 +37,12 @@ Seven remained loyal; one fell.
 
 | Warden | Dominion | Fate |
 | --- | --- | --- |
-| [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]] | Sun's Flame, Valor and Dawn | Loyal |
-| [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]] | Lifebringer, Mother of Renewal | Loyal — her life-essence was corrupted by [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] |
-| [[rosvania/Wiki/Realms & Geography/Korran-Dur\|Korran-Dur]] | Deep Warden, Father of Stone | Loyal |
-| [[rosvania/Wiki/Realms & Geography/Vael'Thara\|Vael'Thara]] | Star-Singer, muse of the Elves | Loyal |
-| [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]] | Tidebreaker, Lord of the Seas | Loyal |
-| [[rosvania/Wiki/Realms & Geography/Serathis\|Serathis]] | Shadowbinder, Keeper of Secrets | Loyal |
+| [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]] | Sun's Flame, Valor and Dawn | Loyal — his light never burned as bright after the killing blow |
+| [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]] | Lifebringer, Mother of Renewal | Loyal — her life-essence was corrupted by [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]; part of her now holds the prison |
+| [[rosvania/Wiki/Realms & Geography/Korran-Dur\|Korran-Dur]] | Deep Warden, Father of Stone | Loyal — withdrawn into the stone, deeper than his children can follow |
+| [[rosvania/Wiki/Realms & Geography/Vael'Thara\|Vael'Thara]] | Star-Singer, muse of the Elves | Loyal — never fully withdrew; still sings in the Earth-Song |
+| [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]] | Tidebreaker, Lord of the Seas | Loyal — still manifests bodily; polices the oceans |
+| [[rosvania/Wiki/Realms & Geography/Serathis\|Serathis]] | Shadowbinder, Keeper of Secrets | Loyal — the neutral veil, protective of all secrets |
 | [[rosvania/Wiki/Characters/Athera\|Athera]] | Fateweaver, Oracle of the Divine Pattern | Loyal — co-sealed [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] in the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] |
 | [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] | Stillborn Flame, Silence and Rest | **Fallen** — fell to pride and was defeated in the [[rosvania/Wiki/War of Life\|War of Life]] |
 
@@ -59,6 +59,7 @@ In the end, [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]] struck the f
 ## Legacy
 
 - The seven loyal Wardens withdrew after the [[rosvania/Wiki/War of Life\|War of Life]], their power dimmed; the world entered the [[rosvania/Wiki/Eras & Timeline/First Age\|First Age]] under mortal hands.
+- The six who remained did not simply vanish — each carried a cost from the war. [[rosvania/Wiki/Realms & Geography/Solareth\|Solareth]] spent some of his light at the [[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]]; [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]]'s essence bleeds into the prison she helped seal; [[rosvania/Wiki/Realms & Geography/Korran-Dur\|Korran-Dur]] retreated into the stone, leaving the Deep's Gift as his last unspoken blessing; [[rosvania/Wiki/Realms & Geography/Vael'Thara\|Vael'Thara]] grieved into the Eldertree's Earth-Song and never fully withdrew; [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]] still walks the oceans in wrath; [[rosvania/Wiki/Realms & Geography/Serathis\|Serathis]] keeps the veil, for anyone. (See [[rosvania/Wiki/Eras & Timeline/Age Before Ages#Aftermath\|the aftermath of the war]].)
 - The [[rosvania/Wiki/Races/Elves\|Elves]] once worshipped the Wardens directly; after the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]], they renounced all divine worship.
 - The [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]], the human knightly order, hold that the Wardens still watch — and that one day they shall return.
 

@@ -34,12 +34,13 @@ The **Goblin Syndicates** are the merchant-slaver organizations of the [[rosvani
 
 ## Origins
 
-Driven from their ancestral home in the [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]] by the expansion of the [[Solar Empire of Menor\|Solar Empire of Menor]], the Goblins retreated to the forests of [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]]. There they learned the lesson of the age: those who lose by the sword must win by the chain. Under the leadership of figures like **Grak the Chain-Master**, they formed the first Syndicates.
+Driven from their ancestral home in the [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]] by the expansion of the [[Solar Empire of Menor\|Solar Empire of Menor]], the Goblins retreated to the forests of [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]] — desperate and directionless after losing the Emberwastes. There they learned the lesson of the age: those who lose by the sword must win by the chain. **Grak the Chain-Master's innovation was brutal logic: a people with nothing left to sell could sell other people.** Under leaders like Grak, they formed the first Syndicates.
 
 ## The trade
 
 - **Slavery:** the Syndicates' core enterprise — selling misery like gold, from the slave-pens of [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]] to markets across the continent.
 - **Gladiators:** in the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]]'s Quiet Reign, the lanista **Batrok** rose to prominence by providing gladiators for the arenas of the continent — bloodsport the Syndicates fed as freely as the slave trade itself.
+- **An economy, not a crime:** by the era of the Chosen Party the Syndicates are a five-century-old institution — no longer a fringe criminal enterprise but an economy. Entire cities of [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]] run on it the way [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]] runs on trade and the [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]] on farming.
 
 ## The Third Age
 

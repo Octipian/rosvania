@@ -38,6 +38,7 @@ Erynos is the ocean itself: patient, vast, nourishing in calm and annihilating i
 
 - **The [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]] (803–982 FA):** When Old Tuzland and [[Solar Empire of Menor\|Menor]] waged war against the Aquatic Empires out of greed, Erynos rose in wrath and cast a divine tsunami — erasing half of Tuzland's coast, creating the [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Whispering Sands]], and drowning [[Solar Empire of Menor\|Menor]]'s capital by the returning wave. The collapse of Menor opened the east to [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]].
 - **Year 3 TA (the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]):** Erynos manifested above the sea during the party's clash with [[rosvania/Wiki/Characters/Captain Serak\|Captain Serak]], the Leviathan Caller. Serak withdrew at once, unwilling to challenge a god. The Tuzlan fleet behind him — fifty ships screaming of a holy *Reconquista* — fired into the storm; Erynos annihilated them all in moments, leaving a graveyard of burning timbers and silence.
+- Of the six loyal Wardens, Erynos is the **only one confirmed to still actively manifest** in the mortal world — the most wrathful rather than withdrawn. He never fully forgave the [[rosvania/Wiki/Shattered Sea War\|Shattered Sea War]], and he still polices the oceans personally when mortals overreach.
 
 ## Legacy
 

@@ -90,7 +90,7 @@ The human realm of the western valleys and the Whispering Sands — half-divine 
 
 | Rule | Ruler | Reign & note |
 | --- | --- | --- |
-| 1301–1501 SA | **Grand Marshal Eltharion** | *Leads the crusader knights and half-elven guardians.* |
+| 1301–1501 SA | **Grand Marshal Eltharion** | *A half-elf marcher lord, likely still alive two centuries on; leads the crusader knights and half-elven guardians. One order, two fronts — the Orc border and the northern watch.* |
 
 # Hold of Five Trials
 

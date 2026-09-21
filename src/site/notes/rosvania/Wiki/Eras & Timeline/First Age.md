@@ -49,7 +49,7 @@ In this age the greatest deceit since [[rosvania/Wiki/Deities & Gods/Vharuk\|Vha
 
 Greed followed repentance. Tuzland and Menor turned greedy eyes upon the oceans. [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]], Lord of the Seas, answered with a divine tsunami: half of Tuzland's coast was devoured (becoming the [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Whispering Sands]]), and Menor's capital drowned by the returning wave.
 
-The collapse of Menor opened the east. [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]] rallied the tribes of [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]] and led a great horde south, conquering the leaderless lands. So ended the First Age — in salt and ruin, with Orcish war drums echoing where once sang the voices of men.
+The collapse of Menor opened the east. [[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]] rallied the tribes of [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]] and led a great horde south — but he was not conquering a defended empire. He was walking into a vacuum: grieving, leaderless survivors with nothing left to organize resistance. So ended the First Age — in salt and ruin, with Orcish war drums echoing where once sang the voices of men.
 
 ## Legacies
 

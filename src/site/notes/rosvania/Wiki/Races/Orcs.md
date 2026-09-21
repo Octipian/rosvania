@@ -37,7 +37,7 @@ While the elder races were made in the [[rosvania/Wiki/Deities & Gods/Unseen Fat
 
 ## Warlords
 
-- **[[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]]:** the legendary warlord who rallied the tribes after the fall of [[Solar Empire of Menor\|Menor]] and ruled the eastern plains in the early [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] — the golden age of Orc-kind.
+- **[[rosvania/Wiki/Characters/Khar'doth the Uniter\|Khar'doth the Uniter]]:** the legendary warlord who rallied the tribes after the fall of [[Solar Empire of Menor\|Menor]] and ruled the eastern plains in the early [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]] — the golden age of Orc-kind. First to unite *all* the clans, over a hierarchy that necessity had already built.
 - **Warlord [[rosvania/Wiki/Characters/Warlord Gorgath\|Gorgath]]:** the aggressive leader of the Cracking Age, whose audacious raids against the Aurelian border burn still in the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]].
 
 ## The Third Age

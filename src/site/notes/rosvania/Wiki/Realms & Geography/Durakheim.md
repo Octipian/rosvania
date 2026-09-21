@@ -39,7 +39,7 @@
 
 ## The Deep's Gift
 
-The sons of Durak toil by the glow of molten ore, smelting weapons from the **[[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Deep's Gift]]** — a strange, living metal said to resist the chill of Vharuk's Breath. In their silence lies grim preparation: the calm before a final war they believe cannot be won.
+The sons of Durak toil by the glow of molten ore, smelting weapons from the **[[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Deep's Gift]]** — a strange, living metal said to resist the chill of Vharuk's Breath. The Dwarves call it a gift in the truest sense: it is **[[rosvania/Wiki/Realms & Geography/Korran-Dur\|Korran-Dur]]'s last unspoken blessing**, left behind when the Deep Warden withdrew into the stone — the reason only Durakheim can work it, and why the sealed gates read as guarding something sacred rather than hiding from the world. In their silence lies grim preparation: the calm before a final war they believe cannot be won.
 
 ## See also
 

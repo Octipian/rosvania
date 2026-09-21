@@ -55,6 +55,7 @@ The world stands in the **[[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]
 - **Frozen north:** [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] · **Mountains:** [[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]] · **Northwest forests:** [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]]
 - **Heartland empire:** [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] · **Shattered southwest:** [[rosvania/Wiki/Realms & Geography/Tuzland and the Whispering Sands\|Tuzland and the Whispering Sands]]
 - **Orc lands:** [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]] · **Goblin wastes:** [[rosvania/Wiki/Realms & Geography/Emberwastes\|Emberwastes]] · **Eastern lands:** [[rosvania/Wiki/Realms & Geography/Silver Marches\|Silver Marches]] · [[rosvania/Wiki/Realms & Geography/Vael'nore\|Vael'nore]]
+- **Frontier:** the [[rosvania/Wiki/Factions & Organizations/Silver Accord\|Silver Accord]] — crusader state of the marchland, and its northern watch, the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]]
 - **Wetlands & homeland of [[rosvania/Wiki/Characters/Kazzimir\|Kazzimir]]:** [[rosvania/Wiki/Realms & Geography/Zaporizzia\|Zaporizzia]] · [[rosvania/Wiki/Realms & Geography/Swamp of Sh'rek\|Swamp of Sh'rek]] · [[rosvania/Wiki/Realms & Geography/Rizzhia\|Rizzhia]] (fallen)
 - **Cities and sites:** [[rosvania/Wiki/Characters/Arglaxx\|Arglaxx]] · [[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]] · [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] · [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]] · [[rosvania/Wiki/Realms & Geography/Ruins of Varethil\|Ruins of Varethil]] · [[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]]
 
@@ -81,7 +82,7 @@ The world stands in the **[[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]
 
 ## Artifacts & Arcana
 
-- [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Metals of Rosvania]] · [[rosvania/Wiki/Artifacts & Items/Cursed Map\|Cursed Map]] · [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]] · [[rosvania/Wiki/Characters/Good ol' Jacky\|Good ol' Jacky]]
+- [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Metals of Rosvania]] · [[rosvania/Wiki/Artifacts & Items/Cursed Map\|Cursed Map]] · [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]] · [[rosvania/Wiki/Characters/Good ol' Jacky\|Good ol' Jacky]] · [[rosvania/Wiki/Realms & Geography/Black Ice\|Black Ice]]
 
 ## The Campaign
 
@@ -96,6 +97,7 @@ The world stands in the **[[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]]
 - [[Solar Empire of Menor\|Menor]]'s capital was drowned not once, but twice, by the wrath of [[rosvania/Wiki/Realms & Geography/Erynos\|Erynos]].
 - The [[rosvania/Wiki/Characters/Good ol' Jacky\|Good ol' Jacky]], a cursed brigantine, has been *unable to sink* — even under attack from a god-touched leviathan caller.
 - [[rosvania/Wiki/Characters/Levren\|Levren]] once drew a card from the [[rosvania/Wiki/Artifacts & Items/Deck of Some Things\|Deck of Some Things]] that summoned a vengeful paladin sworn to hunt him.
+- [[rosvania/Wiki/Realms & Geography/Black Ice\|Black Ice]] — a narcotic distilled from the residue of [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]'s imprisonment — never fully melts, even in open flame.
 
 ## Sources
 

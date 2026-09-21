@@ -38,12 +38,13 @@ Vael'Thara is the whisper of the night sky and the melody beneath all living son
 
 - In the [[rosvania/Wiki/War of Life\|War of Life]], Vael'Thara guided the Elves of *Vael'Tharion* with her direct voice, making them the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]]'s spellweavers and healers.
 - Her guidance gave the Elves their grace and their arts, which they carried into the long ages.
-- When [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] fell under the false radiance of the [[rosvania/Wiki/Deities & Gods/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] and waged the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]], the Elves — shamed by their folly — renounced all divine worship. Vael'Thara's voice has not guided them openly since.
+- When [[rosvania/Wiki/Realms & Geography/Etharion\|Etharion]] fell under the false radiance of the [[rosvania/Wiki/Deities & Gods/Whisperer Beneath the Roots\|Whisperer Beneath the Roots]] and waged the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]], the Elves — shamed by their folly — renounced all divine worship. Of all the Wardens, Vael'Thara **grieved hardest** over the Elves' fall.
 
 ## Legacy
 
 - The Elves' renunciation of divine worship after the [[rosvania/Wiki/War of the Radiant Blades\|War of the Radiant Blades]] cut them off from their muse; the [[rosvania/Wiki/Factions & Organizations/High Synod\|High Synod]] now debates fate in endless twilight.
-- In the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], the Elves hear the **Earth-Song** — the song of the world — twisting into a sorrowful dirge as the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] stir.
+- Unlike the other Wardens, Vael'Thara **never fully withdrew**. The Eldertree's **Earth-Song** is Vael'Thara herself — still singing. When the [[rosvania/Wiki/Factions & Organizations/High Synod\|High Synod]] hears it "tremble" and "twist into a sorrowful dirge," that is her grief, not an echo: a goddess anxiously watching her own children argue about whether to open the doors again.
+- In the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]], the dirge intensifies as the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] stir — her sorrow and her warning at once.
 
 ## See also
 

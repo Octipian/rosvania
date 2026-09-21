@@ -39,13 +39,13 @@ Solareth embodies the sun itself: warmth, courage, and the promise of morning. H
 
 - **The [[rosvania/Wiki/War of Life\|War of Life]]:** Solareth gathered the banners of the living and formed the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]] — [[rosvania/Wiki/Races/Elves\|Elves]] guided by the song of [[rosvania/Wiki/Realms & Geography/Vael'Thara\|Vael'Thara]], [[rosvania/Wiki/Races/Dwarves\|Dwarves]] armed with [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|light-forged steel]], and [[rosvania/Wiki/Races/Men\|Men]] with their champions, the Demigods of the Hammered Sun, led by Tuzlak the Great King and the mighty Big G.
 - In the year 10 FA, Solareth led the combined hosts to the [[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]] in the far north and struck the final blow against [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] — shattering the fallen god's body. His soul could not be slain, and was bound beneath the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] by [[rosvania/Wiki/Characters/Athera\|Athera]] and [[rosvania/Wiki/Deities & Gods/Namarielle\|Namarielle]].
-- After the war, Solareth withdrew with the other Wardens. The world has not seen his light made flesh since.
+- After the war, Solareth withdrew with the other Wardens. The world has not seen his light made flesh since — and the cost of the killing blow was real. **His light has never burned as bright since.**
 
 ## Legacy
 
-- The [[Solar Empire of Menor\|Solar Empire of Menor]] and the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] both claim his legacy — the Dominion's armies march with [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|solar-forged steel]] and raise sun-towers in his honor.
+- The [[Solar Empire of Menor\|Solar Empire of Menor]] and the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] both claim his legacy — the Dominion's armies march with [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|solar-forged steel]] and raise sun-towers in his honor. But Solarite and light-forged steel are echoes of a power that used to be greater: the nations who carry his inheritance build with a **diminished inheritance**, because the flame behind it never recovered.
 - The Demigods of the Hammered Sun, children of Solareth's blessing, were legend among the Men of Tuzland.
-- Some say the sun burns a little dimmer in the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] — an omen of Vharuk's stirring.
+- The sun does burn a little dimmer in the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]] — not an omen, but an old fact: Solareth spent some of himself at the [[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]], and has never burned as bright since.
 
 ## See also
 

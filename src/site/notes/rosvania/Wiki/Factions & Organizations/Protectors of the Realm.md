@@ -34,7 +34,16 @@ The **Protectors of the Realm** are the knightly order of the northern highlands
 
 ## Founding
 
-Forged in the uneasy Cracking Age of the [[rosvania/Wiki/Eras & Timeline/Second Age\|Second Age]], when the seals of the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]] weakened and entire Aurelian legions vanished in the north, the Protectors were born of the belief that the world needed watchers who served no crown.
+The Protectors trace their lineage to the **old northern watch** — the chain of frozen islands and watchtowers the maps mark around the [[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]. The isles are a **containment line**, not a border patrol: Vharuk's prison keeps producing residue, and the watch exists to keep both prisoner and residue contained.
+
+In the cracking of 1300 SA — the first confirmed breach of containment in generations — the marchland bound itself together as the [[rosvania/Wiki/Factions & Organizations/Silver Accord\|Silver Accord]]. In 1301 SA the Accord **absorbed and formalized the older watch**, giving the scattered island fortresses their present name: the Protectors of the Realm. One order, two fronts: the land war against [[rosvania/Wiki/Realms & Geography/Gorthul-Maar\|Gorthul-Maar]] on the Kor-gul line, and this frozen watch over the Doomlands. A knight of the Accord might spend a decade on the Orc border and the next on a watchtower staring at the prison — and it is the same oath either way.
+
+## The failing watch
+
+In the Still Years and beyond, the watch is quietly leaking:
+
+- **Watchtowers that go dark.** Garrisons that report nothing wrong right up until they stop reporting at all. The Accord does not advertise these losses — a crusader order that admits its watch is failing invites the exact panic it exists to prevent.
+- **The [[rosvania/Wiki/Realms & Geography/Black Ice\|Black Ice]] route.** The discovery of a smuggling route carrying black ice southward almost certainly means someone inside the watch chain is compromised — bribed, blackmailed, or already touched by the ice. The containment is failing *from within*, and that is a hook best kept alive.
 
 ## The Five Trials
 

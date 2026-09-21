@@ -39,6 +39,15 @@ Serathis is the hush between words, the locked door, the secret kept. The Shadow
 - Serathis stood loyal through the [[rosvania/Wiki/War of Life\|War of Life]], serving as the [[rosvania/Wiki/Factions & Organizations/Alliance of Life\|Alliance of Life]]'s unseen hand — keeper of its plans and veiler of its movements.
 - After the war, Serathis withdrew with the other Wardens. The Shadowbinder's continued silence is a cause of both comfort and dread: some suspect Serathis still veils the world's true state from its people.
 
+## Why some things stay hidden
+
+Serathis never explains. The Shadowbinder withdrew like the others — and yet certain things keep staying hidden by design: [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]] walking unseen among kings for decades, the [[rosvania/Wiki/Realms & Geography/Black Ice\|Black Ice]] smuggling route going unnoticed, the Hidden Witness never being caught.
+
+Not because Serathis serves [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] — but because **concealment itself is Serathis's domain, and it does not discriminate about who benefits**. That makes the Shadowbinder a genuinely neutral, slightly unsettling figure: the veil protects truth and lies alike, and will not say which is which.
+
+> [!note] For the table
+> Keep Serathis vague unless a specific hook needs building from it. The mystery is the point.
+
 ## Relations
 
 - **[[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]:** Serathis is his opposite — shadow that shields versus silence that empties. Some theologians hold that the Shadowbinder was the only Warden who understood the Stillborn Flame's loneliness, and the one most grieved by his fall.

@@ -45,12 +45,12 @@ This is a chronological index of the known history of [[rosvania/Wiki/Rosvania\|
 
 | Years | Event |
 | --- | --- |
-| 0–312 SA | The Years of Ash — dark age of famine and wandering; Orc dominion in the east; the slave trade of the [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]] flourishes. |
+| 0–312 SA | The Years of Ash — dark age of famine and wandering; Orc dominion in the east; the slave trade of the [[rosvania/Wiki/Factions & Organizations/Goblin Syndicates\|Goblin Syndicates]] flourishes. [[rosvania/Wiki/Realms & Geography/Rizzhia\|Rizzhia]] is founded (c. 40–60 SA) and falls (c. 290 SA) entirely within these years. |
 | 313–689 SA | The Forgeborn Era — the [[rosvania/Wiki/Factions & Organizations/Tuzlean Concord\|Tuzlean Concord]] rises; scholars rediscover [[rosvania/Wiki/Realms & Geography/Metals of Rosvania\|Solarite]]; the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] is founded and drives the Orcs north. |
 | 690–974 SA | The War of Bloodlines — the [[rosvania/Wiki/Tuzlean Civil War\|Tuzlean Civil War]]; the age of [[rosvania/Wiki/Rulers/Taner IV\|Taner IV]] ends in division; the [[rosvania/Wiki/Factions & Organizations/Tuzlean Corsairs\|Tuzlean Corsairs]] are born; the [[rosvania/Wiki/Realms & Geography/Hold of Five Trials\|Hold of Five Trials]] declares independence. |
-| 975–1300 SA | The Quiet Reign — Aurelian's wall; the Syndicates' gladiator trade peaks under Batrok; Tuzland fractures into pirate enclaves. |
-| 1301–1459 SA | The Cracking Age — the seals weaken; Aurelian legions vanish in the north; Warlord [[rosvania/Wiki/Characters/Warlord Gorgath\|Gorgath]] raids the border; the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]] are forged. |
-| 1460–1501 SA | The Still Years — forty winters of tension; [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]] walks among kings as the Hidden Witness. |
+| 975–1300 SA | The Quiet Reign — Aerion reunifies the Domain; Solric's golden age ([[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]]'s Palace of the Sun, the [[rosvania/Wiki/Races/Bourgeosy\|City of Bourgeosy]]); the Syndicates' gladiator trade peaks under Batrok; [[rosvania/Wiki/Realms & Geography/Ruins of Varethil\|Varethil]] is founded (c. 1240 SA); Tuzland fractures into pirate enclaves. |
+| 1301–1459 SA | The Cracking Age — the seals weaken; Aurelian expeditions vanish in the north; Warlord [[rosvania/Wiki/Characters/Warlord Gorgath\|Gorgath]] raids the border; the [[rosvania/Wiki/Factions & Organizations/Silver Accord\|Silver Accord]] is founded (1301 SA) under Grand Marshal Eltharion, absorbing the old northern watch into the [[rosvania/Wiki/Factions & Organizations/Protectors of the Realm\|Protectors of the Realm]]; the [[rosvania/Wiki/Realms & Geography/Black Ice\|Black Ice]] trade takes root. |
+| 1460–1501 SA | The Still Years — forty winters of quiet rot; [[rosvania/Wiki/Realms & Geography/Ruins of Varethil\|Varethil]] burns (1487 SA); [[rosvania/Wiki/Deities & Gods/Vorun Khar\|Vorun Khar]] walks openly among kings as the Hidden Witness; the Accord's watch quietly fails; black ice begins reaching [[rosvania/Wiki/Realms & Geography/Velmoria\|Velmoria]]'s docks. |
 
 ## Third Age (1 TA – ?) — Age of Shadow and Return
 
