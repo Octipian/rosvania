@@ -27,6 +27,7 @@ An index of the known lands of [[rosvania/Wiki/Rosvania\|Rosvania]], from the fr
 - **[[rosvania/Wiki/Realms & Geography/Doomlands\|Doomlands]]** — the frozen prison of [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]]; origin of the Breath of Vharuk, the devouring blizzard of the [[rosvania/Wiki/Eras & Timeline/Third Age\|Third Age]].
 - **[[rosvania/Wiki/Realms & Geography/Black Spire of Mourning\|Black Spire of Mourning]]** — the fallen fortress in the far north where [[rosvania/Wiki/Deities & Gods/Vharuk\|Vharuk]] was defeated.
 - **[[rosvania/Wiki/Realms & Geography/Durakheim\|Durakheim]]** — the north-central mountains; sealed halls of the [[rosvania/Wiki/Races/Dwarves\|Dwarves]].
+- **[[rosvania/Wiki/Realms & Geography/Nulbadin\|Nulbadin]]** — a location within the Durakheim mountains, recorded on the maps of the realm.
 
 ## The Northwest
 
@@ -69,6 +70,8 @@ An index of the known lands of [[rosvania/Wiki/Rosvania\|Rosvania]], from the fr
 - **[[rosvania/Wiki/Realms & Geography/Bumblebrook\|Bumblebrook]]** — the halfling town of warm hearths and foolish hearts.
 - **[[rosvania/Wiki/Realms & Geography/Lotusden\|Lotusden]]** — the tiefling city of crimson lanterns and thieves' honor.
 - **[[rosvania/Wiki/Realms & Geography/Ruins of Varethil\|Ruins of Varethil]]** — the burned mining city beneath [[rosvania/Wiki/Realms & Geography/Ashrend Peaks\|Ashrend Peaks]], swallowed by dragonfire in 1487 SA.
+- **[[rosvania/Wiki/Realms & Geography/Wintervale\|Wintervale]]** — a city of the [[rosvania/Wiki/Realms & Geography/Aurelian Dominion\|Aurelian Dominion]] newly recorded on the maps.
+- **[[rosvania/Wiki/Realms & Geography/Metropolis of Larry\|Metropolis of Larry]]** — a great city known only by name and by its artwork.
 
 ## See also
 
